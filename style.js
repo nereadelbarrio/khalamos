@@ -14,15 +14,16 @@
 			name: 'khalamos',
 			styles: [
 
-				{ name: 'Título 1', element: 'h4', attributes: { 'class': 'bck-title bck-title1'} },
-				{ name: 'Título 2', element: 'h4', attributes: { 'class': 'bck-title bck-title2'} },
-				{ name: 'Título 3', element: 'h4', attributes: { 'class': 'bck-title bck-title3'} },
-				{ name: 'Título 4', element: 'h4', attributes: { 'class': 'bck-title bck-title4'} },
-				{ name: 'Título 5', element: 'h4', attributes: { 'class': 'bck-title bck-title5'} },
-				{ name: 'Título 6', element: 'h4', attributes: { 'class': 'bck-title bck-title6'} },
-				{ name: 'Título 7', element: 'h4', attributes: { 'class': 'bck-title bck-title7'} },
-				{ name: 'Título 8', element: 'h4', attributes: { 'class': 'bck-title bck-title8'} },
-				{ name: 'Título 9', element: 'h4', attributes: { 'class': 'bck-title bck-title9'} },
+				{ name: 'Título 01', element: 'h4', attributes: { 'class': 'bck-title bck-title1'} },
+				{ name: 'Título 02', element: 'h4', attributes: { 'class': 'bck-title bck-title2'} },
+				{ name: 'Título 03', element: 'h4', attributes: { 'class': 'bck-title bck-title3'} },
+				{ name: 'Título 04', element: 'h4', attributes: { 'class': 'bck-title bck-title4'} },
+				{ name: 'Título 05', element: 'h4', attributes: { 'class': 'bck-title bck-title5'} },
+				{ name: 'Título 06', element: 'h4', attributes: { 'class': 'bck-title bck-title6'} },
+				{ name: 'Título 07', element: 'h4', attributes: { 'class': 'bck-title bck-title7'} },
+				{ name: 'Título 08', element: 'h4', attributes: { 'class': 'bck-title bck-title8'} },
+				{ name: 'Título 09', element: 'h4', attributes: { 'class': 'bck-title bck-title9'} },
+				{ name: 'Título 10', element: 'h4', attributes: { 'class': 'bck-title bck-title10'} },
 
 
 				{ name: 'Lista ordenada 1', element: 'ol', attributes: { 'class': 'bck-ol bck-ol1' } },
