@@ -503,6 +503,9 @@ content: "";
     display: flex;
     flex-wrap: nowrap;
     align-items: center;
+    box-shadow: none;
+    border: none;
+    background: none;
 }
 .bck-title1:after {
     background: url(images/titulo_recodermos-min.jpg);
