@@ -165,12 +165,18 @@ PADRE khalamos*/
 /*..*/
 
 /*logo*/
-.content_type_clase_khalamos .logo-publisher {
-    background-image: url(images/logo_khalamos-ELEGIDO-PRINCIPAL-250.png);
-    height: 50px;
-    margin-top: -5px;
+.libro-left ul li .title:before {
+	content: "";
+    background-size: contain;
+    top: 11px;
+    background-image: url(images/logo_khalamos-ELEGIDO-PRINCIPAL-250.png) !important;
+    position: fixed;
+    width: 200px;
+    height: 38px;
+    background-repeat: no-repeat;
+    left: 50%;
+    margin-left: -40px;
 }
-
 	.content_type_clase_khalamos #actividad .content .header {
 		border: none;
 		margin-bottom: 0;
@@ -328,21 +334,10 @@ PADRE khalamos*/
 	    margin-bottom: 20px;
 	}
 
-	.logo-publisher {
-		display: inline-block;
-		position: absolute;
-		top: 0;
-		left: 0;
-		width: 100px;
-		height: 44px;
-		background: url(logo-pearson.png) 0 0 no-repeat;
-		-webkit-background-size: contain;
-		   -moz-background-size: contain;
-		     -o-background-size: contain;
-		        background-size: contain;
-		background-position: center center;
-
+		.logo-publisher {
+		display: none;
 	}
+
 
 
 
@@ -354,7 +349,7 @@ PADRE khalamos*/
 
 		.logo-publisher {
 			width: 40px;
-			background-image: url(Pearson-logo-2016-219x286.png);
+			display: none;		
 		}
 	}
 
