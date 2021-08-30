@@ -189,7 +189,7 @@ PADRE khalamos*/
 content: "";
     background-size: contain;
     top: 3px;
-    background-image: url(images/logo_khalamos-ELEGIDO-PRINCIPAL-250.png) !important;
+    background-image: url(images/logo_khalamos-ELEGIDO-PRINCIPAL-250-min.png) !important;
     position: fixed;
     width: 200px;
     height: 38px;
@@ -354,7 +354,7 @@ content: "";
 
 
 	.navbar-bottom {
-		background: url(images/Demo_Khalamos_PiedePaginaCorto.png);
+		background: url(images/Demo_Khalamos_PiedePaginaCorto-min.png);
 	    background-position: bottom;
 	    background-repeat: repeat-x;
 	    background-size: 300px;
