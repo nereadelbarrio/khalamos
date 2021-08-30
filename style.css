@@ -183,9 +183,15 @@ PADRE khalamos*/
 	}
 
 	.content_type_clase_khalamos #actividad .content .header .title {
-		margin: -40px 0 20px;
-		background: #10A0C6;
-		padding: 20px 97px;
+		margin-top: -40px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    background: white;
+    border-radius: 0px 0px 15px 15px;
+    box-shadow: 0px 3px 9px #0000003b;
+    border: 2px solid #69b667;
+    border-top: 0;
+    margin-bottom: 35px;
 	}
 
 	.content_type_clase_khalamos #actividad .content .slide-concatenate .header .title {
@@ -193,15 +199,11 @@ PADRE khalamos*/
 	}
 
 	.content_type_clase_khalamos #actividad .content .header .title h3 {
-		position: relative;
-		display: block;
-		width: 100%;
-		margin: 0;
-		padding: 0;
-		color: #fff;
-		font-size: 1.4rem;
-		font-weight: 700;
-		text-align: right;
+		font-size: 30px;
+    text-align: center;
+    color: #85c37d;
+    padding: 9px 20px;
+    margin: -12px 0 0 0;
 	}
 
 	.content_type_clase_khalamos #actividad .content .header .title h3 span {
