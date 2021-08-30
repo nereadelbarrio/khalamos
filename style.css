@@ -488,7 +488,6 @@ content: "";
 	}
 
 /**/
-
 /*TITULO 1*/
 
 .bck-title1 {
@@ -515,23 +514,162 @@ content: "";
     line-height: 1;
 }
 
-/*TITULO 2*/
-
+/*Titulo 2*/
 .bck-title2 {
-	display: block;
-    color: #f58220;
-    font-family: GhostKid;
-    font-size: 2.4rem;
-    letter-spacing: 1px;
-    text-shadow: 1px 1px #fff,
-    			 1px 0px #fff,
-    			 1px -1px #fff,
-    			 0px -1px #fff,
-    			 -1px -1px #fff,
-    			 -1px 0px #fff,
-    			 -1px 1px #fff,
-    			 0px 1px #fff;
+    font-size: 2.0rem;
+    clear: both;
+    padding: 0;
+    margin-bottom: 10px;
+    font-family: 'Caveat Brush', cursive;
+    font-size: 28px;
+    font-weight: 500;
+    color: #E30613;
+    text-shadow: -2px 2px 3px #0000002b;
+    position: relative;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
 }
+.bck-title2:after {
+    background: url(/useruploads/r/a/232796934/activity_other_imported/Demo_Khalamos_Titulo2_Before.png);
+    content: "";
+    background-size: 100px;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 46px;
+    height: 57px;
+    top: -5px;
+    padding: 0px 49px;
+}
+
+/*Titulo 3*/
+.bck-title3 {
+    font-size: 1.6rem;
+    font-size: 18px;
+    color: inherit;
+    font-weight: 700;
+    line-height: 22px;
+}
+
+/*Titulo 4*/
+.bck-title4 {
+    font-size: 2.0rem;
+    clear: both;
+    padding: 0;
+    margin-bottom: 10px;
+    font-family: 'Caveat Brush', cursive;
+    font-size: 28px;
+    font-weight: 500;
+    color: #662383;
+    text-shadow: -2px 2px 3px #0000002b;
+    position: relative;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+    .bck-title4:after {
+        background: url(/useruploads/r/a/232711822/activity_other_imported/Demo_Khalamos_Titulo3_Before.png);
+        content: "";
+        background-size: 100px;
+        background-repeat: no-repeat;
+        position: relative;
+        width: 46px;
+        height: 48px;
+        top: -5px;
+        padding: 0px 49px;
+    }
+
+/*Titulo 5*/
+.bck-title5 {
+    font-size: 2.0rem;
+    clear: both;
+    padding: 0;
+    margin-bottom: 10px;
+    font-family: 'Caveat Brush', cursive;
+    font-size: 28px;
+    font-weight: 500;
+    color: #BA6E17;
+    text-shadow: -2px 2px 3px #0000002b;
+    position: relative;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+    .bck-title5:after {
+        background: url(/useruploads/r/a/232715382/activity_other_imported/Demo_Khalamos_Titulo5_Before.png);
+        content: "";
+        background-size: 100px;
+        background-repeat: no-repeat;
+        position: relative;
+        width: 46px;
+        height: 61px;
+        top: -5px;
+        padding: 0px 49px;
+        margin-left: 5px;
+    }
+
+    /*Titulo 6*/
+.bck-title6 {
+    font-size: 2.0rem;
+    clear: both;
+    padding: 0;
+    margin-bottom: 10px;
+    font-family: 'Caveat Brush', cursive;
+    font-size: 28px;
+    font-weight: 500;
+    color: #BA6E17;
+    text-shadow: -2px 2px 3px #0000002b;
+    position: relative;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+    .bck-title6:after {
+        background: url(/useruploads/r/a/232720842/activity_other_imported/Demo_Khalamos_Titulo6_Before.png);
+        content: "";
+        background-size: 75px;
+        background-repeat: no-repeat;
+        position: relative;
+        width: 46px;
+        height: 75px;
+        top: -5px;
+        padding: 0px 48px;
+        margin-left: 5px;
+    }
+
+    /*Titulo 7*/
+.bck-title7 {
+    font-size: 2.0rem;
+    clear: both;
+    padding: 0;
+    margin-bottom: 10px;
+    font-family: 'Caveat Brush', cursive;
+    font-size: 28px;
+    font-weight: 500;
+    color: #BA6E17;
+    text-shadow: -2px 2px 3px #0000002b;
+    position: relative;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+    .bck-title7:after {
+        background: url(/useruploads/r/a/232793150/activity_other_imported/Demo_Khalamos_Titulo7_Before.png);
+        content: "";
+        background-size: 90px;
+        background-repeat: no-repeat;
+        position: relative;
+        width: 46px;
+        height: 75px;
+        top: -5px;
+        padding: 0px 48px;
+        margin-left: 5px;
+    }
+
+ /*Titulo 8*/
+ /*Titulo 9*/
+
+
 
 /* Lists */
 
