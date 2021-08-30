@@ -1,8 +1,6 @@
 /*KHALAMOS
 PADRE khalamos*/
 /* Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&display=swap');
-
 
 	@font-face {
 	  font-family: CamphorPro;
@@ -84,7 +82,6 @@ PADRE khalamos*/
 
 	body.content_type_clase_khalamos {
 		font-size: 1.8rem;
-		/*font-family: CamphorPro;*/
 	}
 
 	body.content_type_clase_khalamos #actividad .content img {
@@ -119,9 +116,20 @@ PADRE khalamos*/
 		display: none;
 	}
 
+	.content_type_clase_modern #actividad .content .header .title {
+		margin-top: -40px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    background: white;
+    border-radius: 0px 0px 15px 15px;
+    box-shadow: 0px 3px 9px #0000003b;
+    border: 2px solid #69b667;
+    border-top: 0;
+    margin-bottom: 35px;
+	}
+
 	#indice .units ul li a .number,
-	#indice .unit-content .header .number
-	 {
+	#indice .unit-content .header .number {
 		visibility: hidden;
 	}
 
@@ -154,6 +162,14 @@ PADRE khalamos*/
 	    color: #0c4261; 
 	}
 
+/*..*/
+
+/*logo*/
+.content_type_clase_khalamos .logo-publisher {
+    background-image: url(images/logo_khalamos-ELEGIDO-PRINCIPAL-250.png);
+    height: 50px;
+    margin-top: -5px;
+}
 
 	.content_type_clase_khalamos #actividad .content .header {
 		border: none;
@@ -305,9 +321,11 @@ PADRE khalamos*/
 
 /* Navbar */
 	.navbar-bottom {
-		background: #132E4C;
-		padding-left: 100px;
-		padding-right: 100px;
+		background: url(images/Demo_Khalamos_PiedePaginaCorto.png);
+	    background-position: bottom;
+	    background-repeat: repeat-x;
+	    background-size: 300px;
+	    margin-bottom: 20px;
 	}
 
 	.logo-publisher {
@@ -325,6 +343,8 @@ PADRE khalamos*/
 		background-position: center center;
 
 	}
+
+
 
 	@media only screen and (max-width: 640px) {
 		.navbar-bottom {
@@ -394,8 +414,9 @@ PADRE khalamos*/
 		color: transparent;
 	}
 	#bottom-navigator li.active {
-		background: #007FA3;
-		color: transparent;
+		background: #cee0cc;
+    color: transparent;
+    margin-top: 10px;
 	}
 	#bottom-navigator.show_left:before {
 		content: '\F053';
