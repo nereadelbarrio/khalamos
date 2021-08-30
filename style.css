@@ -489,29 +489,31 @@ content: "";
 
 /**/
 /*TITULO 1*/
-
 .bck-title1 {
-	display: inline-block;
-	-webkit-box-shadow: 0 0 0 2px #10a0c6;
-	   -moz-box-shadow: 0 0 0 2px #10a0c6;
-	        box-shadow: 0 0 0 2px #10a0c6;
-	border: 2px solid #fff;
-	background: #9ac9df;
-	padding: 4px 8px;
-	color: #10a0c6;
-    font-family: GhostKid;
-    font-size: 2.4rem;
-    letter-spacing: 1px;
-    text-shadow: 1px 1px #fff,
-    			 1px 0px #fff,
-    			 1px -1px #fff,
-    			 0px -1px #fff,
-    			 -1px -1px #fff,
-    			 -1px 0px #fff,
-    			 -1px 1px #fff,
-    			 0px 1px #fff,
-    			 2px 2px #10a0c6;
-    line-height: 1;
+    font-size: 2.0rem;
+    clear: both;
+    padding: 0;
+    margin-bottom: 10px;
+    font-family: 'Caveat Brush', cursive;
+    font-size: 28px;
+    font-weight: 500;
+    color: #E30613;
+    text-shadow: -2px 2px 3px #0000002b;
+    position: relative;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+.bck-title1:after {
+    background: url(images/titulo_recodermos-min.jpg);
+    content: "";
+    background-size: 100px;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 46px;
+    height: 57px;
+    top: -5px;
+    padding: 0px 49px;
 }
 
 /*Titulo 2*/
@@ -531,7 +533,7 @@ content: "";
     align-items: center;
 }
 .bck-title2:after {
-    background: url(/useruploads/r/a/232796934/activity_other_imported/Demo_Khalamos_Titulo2_Before.png);
+    background: url(images/titulo_observa-min.png);
     content: "";
     background-size: 100px;
     background-repeat: no-repeat;
@@ -568,7 +570,7 @@ content: "";
     align-items: center;
 }
     .bck-title4:after {
-        background: url(/useruploads/r/a/232711822/activity_other_imported/Demo_Khalamos_Titulo3_Before.png);
+    background: url(images/titulo_trabaja_mat_conc-min.jpg);
         content: "";
         background-size: 100px;
         background-repeat: no-repeat;
@@ -596,7 +598,7 @@ content: "";
     align-items: center;
 }
     .bck-title5:after {
-        background: url(/useruploads/r/a/232715382/activity_other_imported/Demo_Khalamos_Titulo5_Before.png);
+    background: url(images/titulo_haz_aprende-min.jpg);
         content: "";
         background-size: 100px;
         background-repeat: no-repeat;
@@ -625,7 +627,7 @@ content: "";
     align-items: center;
 }
     .bck-title6:after {
-        background: url(/useruploads/r/a/232720842/activity_other_imported/Demo_Khalamos_Titulo6_Before.png);
+    background: url(images/titulo_autoevaluacion-min.jpg);
         content: "";
         background-size: 75px;
         background-repeat: no-repeat;
@@ -654,7 +656,7 @@ content: "";
     align-items: center;
 }
     .bck-title7:after {
-        background: url(/useruploads/r/a/232793150/activity_other_imported/Demo_Khalamos_Titulo7_Before.png);
+    background: url(images/titulo_tic-min.jpg);
         content: "";
         background-size: 90px;
         background-repeat: no-repeat;
@@ -667,8 +669,89 @@ content: "";
     }
 
  /*Titulo 8*/
+ .bck-title8 {
+    font-size: 2.0rem;
+    clear: both;
+    padding: 0;
+    margin-bottom: 10px;
+    font-family: 'Caveat Brush', cursive;
+    font-size: 28px;
+    font-weight: 500;
+    color: #BA6E17;
+    text-shadow: -2px 2px 3px #0000002b;
+    position: relative;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+    .bck-title8:after {
+    background: url(images/titulo_muestra-min.jpg);
+        content: "";
+        background-size: 90px;
+        background-repeat: no-repeat;
+        position: relative;
+        width: 46px;
+        height: 75px;
+        top: -5px;
+        padding: 0px 48px;
+        margin-left: 5px;
+    }
  /*Titulo 9*/
-
+ .bck-title9 {
+    font-size: 2.0rem;
+    clear: both;
+    padding: 0;
+    margin-bottom: 10px;
+    font-family: 'Caveat Brush', cursive;
+    font-size: 28px;
+    font-weight: 500;
+    color: #BA6E17;
+    text-shadow: -2px 2px 3px #0000002b;
+    position: relative;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+    .bck-title9:after {
+    background: url(images/titulo_pensemos-min.png);
+        content: "";
+        background-size: 90px;
+        background-repeat: no-repeat;
+        position: relative;
+        width: 46px;
+        height: 75px;
+        top: -5px;
+        padding: 0px 48px;
+        margin-left: 5px;
+    }
+ /*Titulo 010*/
+.bck-title10 {
+    font-size: 2.0rem;
+    clear: both;
+    padding: 0;
+    margin-bottom: 10px;
+    font-family: 'Caveat Brush', cursive;
+    font-size: 28px;
+    font-weight: 500;
+    color: #BA6E17;
+    text-shadow: -2px 2px 3px #0000002b;
+    position: relative;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+    .bck-title10:after {
+    background: url(images/titulo_trabaja_pareja-min.jpg);
+        content: "";
+        background-size: 90px;
+        background-repeat: no-repeat;
+        position: relative;
+        width: 46px;
+        height: 75px;
+        top: -5px;
+        padding: 0px 48px;
+        margin-left: 5px;
+    }
 
 
 /* Lists */
