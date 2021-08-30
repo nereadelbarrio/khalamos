@@ -179,6 +179,11 @@ PADRE khalamos*/
     height: 44px;
     background-color: #0b4261;
 }
+.navbar.libro {
+	background: #ffffff !important;
+    box-shadow: 3px 3px 11px 0px #77848c;
+}
+
 
 .libro-left ul li .title:before {
 content: "";
@@ -360,10 +365,26 @@ content: "";
 		display: none;
 	}
 
+	@media screen and (max-width: 991px) {
+		.navbar.libro {
+			background: #0b4261 !important;
+		}
 
+		.libro-right, .libro-left {
+			background: #0b4261;
+		}
+	}
 
 
 	@media only screen and (max-width: 640px) {
+		.navbar.libro {
+			background: #0b4261 !important;
+		}
+
+		.libro-right, .libro-left {
+			background: #0b4261;
+		}
+
 		.navbar-bottom {
 			padding-left: 40px;
 			padding-right: 40px;
