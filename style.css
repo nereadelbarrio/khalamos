@@ -123,6 +123,36 @@ PADRE khalamos*/
 		visibility: hidden;
 	}
 
+	/*TOC*/
+	#indice .units ul li {
+    -webkit-border-radius: 3px;  
+    -moz-border-radius: 3px;  
+    border-radius: 3px;  
+	}
+
+	#indice .units ul li a:not(.delete) {
+	    padding: 16px 16px;
+	}
+	#indice .units ul li.active:not(.disabled),
+	 body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
+	  #indice .units ul li:focus:not(.disabled) {
+	    background: #F18317;
+	    border-color: #F18317;
+	}
+	#indice .units ul li {
+	    padding: 0;
+	    background: white;
+	    border: 3px solid #0C4261;
+	}
+	#indice .units ul li a .title {
+	    font-size: 18px;
+	    color: #0c4261;
+	}
+	#indice .unit-content .header .title {
+	    color: #0c4261; 
+	}
+
+
 	.content_type_clase_khalamos #actividad .content .header {
 		border: none;
 		margin-bottom: 0;
