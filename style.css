@@ -370,9 +370,6 @@ content: "";
 			background: #0b4261 !important;
 		}
 
-		.libro-right, .libro-left {
-			background: #0b4261;
-		}
 	}
 
 
@@ -381,9 +378,6 @@ content: "";
 			background: #0b4261 !important;
 		}
 
-		.libro-right, .libro-left {
-			background: #0b4261;
-		}
 
 		.navbar-bottom {
 			padding-left: 40px;
