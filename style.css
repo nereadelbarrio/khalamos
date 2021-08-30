@@ -1,6 +1,8 @@
 /*KHALAMOS
 PADRE khalamos*/
 /* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&display=swap');
+
 
 	@font-face {
 	  font-family: CamphorPro;
@@ -82,7 +84,7 @@ PADRE khalamos*/
 
 	body.content_type_clase_khalamos {
 		font-size: 1.8rem;
-		font-family: CamphorPro;
+		/*font-family: CamphorPro;*/
 	}
 
 	body.content_type_clase_khalamos #actividad .content img {
