@@ -165,10 +165,25 @@ PADRE khalamos*/
 /*..*/
 
 /*logo*/
+.body_clase .libro-left .title {
+	white-space: nowrap;
+    overflow: hidden;
+    -o-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+    background-color: white;
+    color: #0b4261;
+}
+
+.libro-left ul, .libro-right ul {
+	list-style: none;
+    height: 44px;
+    background-color: #0b4261;
+}
+
 .libro-left ul li .title:before {
-	content: "";
+content: "";
     background-size: contain;
-    top: 11px;
+    top: 3px;
     background-image: url(images/logo_khalamos-ELEGIDO-PRINCIPAL-250.png) !important;
     position: fixed;
     width: 200px;
@@ -180,6 +195,7 @@ PADRE khalamos*/
 	.content_type_clase_khalamos #actividad .content .header {
 		border: none;
 		margin-bottom: 0;
+		padding: 0px 60px;
 	}
 
 	.content_type_clase_khalamos #actividad .content .header .title {
@@ -203,7 +219,9 @@ PADRE khalamos*/
     text-align: center;
     color: #85c37d;
     padding: 9px 20px;
+    display: block;
     margin: -12px 0 0 0;
+    font-weight: 800;
 	}
 
 	.content_type_clase_khalamos #actividad .content .header .title h3 span {
@@ -328,6 +346,8 @@ PADRE khalamos*/
 /**/
 
 /* Navbar */
+
+
 	.navbar-bottom {
 		background: url(images/Demo_Khalamos_PiedePaginaCorto.png);
 	    background-position: bottom;
