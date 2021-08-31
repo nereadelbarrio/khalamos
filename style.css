@@ -992,16 +992,21 @@ background-color: #6FBFBA;
 
 /*TABLA POR DEFECTO*/
 
-.content table:not(.rf-tablegrid) td,
-.content table:not(.rf-tablegrid) th {
+table,
+.bck-table {
     border: 3px solid #fff;
     padding: 10px;
     background: #D4EAE4;
 }
 
-.content table:not(.rf-tablegrid) {
-    border: 1px solid #F37731;
-    margin-bottom: 20px;
+table td,
+.bck-table td {
+	border-color: #000;
+}
+
+td,
+th {
+	padding-left: 10px;
 }
 
 table td.bck-td-1 {
