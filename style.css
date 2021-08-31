@@ -855,16 +855,33 @@ background-color: #6FBFBA;
     line-height: 2.5rem;
 }
 
-/*LISTA ORDENADA 2*/
+/*LISTA ORDENADA 1*/
+#actividad .content .cke_contents .bck-ol1 li,
+#actividad .content .cke_contents .bck-ol1 li,
+#actividad .content .texto_curso .bck-ol1 li,
+#actividad .popover-content .bck-ol1 li,
+#actividad .content .workspace ul li .bck-ol1 li {
+	margin-bottom: 20px;
+}
 
-.content .bck-ol2 li:before,
-.cke_contents .bck-ol2 li:before {
-	-webkit-box-shadow: 2px 2px 2px 0px rgb(140, 139, 138);
-       -moz-box-shadow: 2px 2px 2px 0px rgb(140, 139, 138);
-    		box-shadow: 2px 2px 2px 0px rgb(140, 139, 138);
-    border: 1px solid #109FC5;
-    background: #fff;
-    color: #000;
+.content .bck-ol1 li:before,
+.cke_contents .bck-ol1 li:before {
+	content: counter(bck-li-counter);
+    margin-left: -40px;
+    font-weight: bold;
+    margin-top: -7px;
+    background-color: #F39200;
+    border: 3px solid #D46B36;
+    padding: 3px;
+    color: white;
+    border-radius: 17px 38px 17px 38px;
+    min-width: 40px;
+    text-align: center;
+    font-size: 23px;
+    font-weight: bold;
+    padding-top: 4px;
+    margin-bottom: 42px;
+    height: 40px;
 }
 
 /*LISTA ORDENADA 3*/
