@@ -1004,12 +1004,12 @@ background-color: #6FBFBA;
 }
 
 .content table:not(.rf-tablegrid)[border] td{
-	border: 1px solid;
+	border: 3px solid #fff;
 
 }
 
 .content table:not(.rf-tablegrid)[border] th {
-	border: 1px solid;
+	border: 3px solid #fff;
 }
 
 
@@ -1030,36 +1030,36 @@ th {
 }
 
 table td.bck-td-1 {
-    background: #3FAD56;
+    background: #3FAD56 !important;
     border-bottom: 3px solid #276A35;
 }
 
 table td.bck-td-2 {
-    background: #E72C87;
+    background: #E72C87 !important;
     border-bottom: 3px solid #B22269;
 }
 
 table td.bck-td-3 {
-    background: #F59C21;
+    background: #F59C21 !important;
     border-bottom: 3px solid #BC7819;
 }
 
 table td.bck-td-4 {
-     background: #009FE3;
+     background: #009FE3 !important;
     border-bottom: 3px solid #00618B;
 }
 
 table td.bck-td-5 {
-    background-color: #EAF3E8;
+    background-color: #EAF3E8 !important;
 }
 table td.bck-td-6 {
-    background-color: #FCE5F1;
+    background-color: #FCE5F1 !important;
 }
 table td.bck-td-7 {
-    background-color: #FEF0DE;
+    background-color: #FEF0DE !important;
 }
 table td.bck-td-8 {
-    background-color: #DFF2FD;
+    background-color: #DFF2FD !important;
 }
 
 /* Icons */
