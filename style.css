@@ -184,6 +184,15 @@ PADRE khalamos*/
     box-shadow: 3px 3px 11px 0px #77848c;
 }
 
+    
+.libro-left ul li .title {
+	background-color: #fff;
+    color: #0b4261;
+}
+
+.libro-left .info {
+	
+}
 
 .libro-left ul li .title:before {
 content: "";
