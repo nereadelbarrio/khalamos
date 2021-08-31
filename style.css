@@ -986,6 +986,7 @@ background-color: #6FBFBA;
     -webkit-border-radius: 10px;
     border-radius: 10px;
     margin: 0;
+    box-shadow: none;
 }
 
 
@@ -1004,34 +1005,36 @@ background-color: #6FBFBA;
 }
 
 table td.bck-td-1 {
-    font-weight: bold;
-    text-align: center;
-    background-color: #00AEEF;
+    background: #3FAD56;
+    border-bottom: 3px solid #276A35;
 }
 
 table td.bck-td-2 {
-    font-weight: bold;
-    text-align: center;
-    background-color: #C6EAFA;
+    background: #E72C87;
+    border-bottom: 3px solid #B22269;
 }
 
 table td.bck-td-3 {
-    font-weight: bold;
-    text-align: center;
-    background-color: #1A7A3C;
+    background: #F59C21;
+    border-bottom: 3px solid #BC7819;
 }
 
 table td.bck-td-4 {
-    font-weight: bold;
-    text-align: center;
-    background-color: #5D040A;
-    color: #fff;
+     background: #009FE3;
+    border-bottom: 3px solid #00618B;
 }
 
 table td.bck-td-5 {
-    font-weight: bold;
-    text-align: center;
-    background-color: #E7D9D4;
+    background-color: #EAF3E8;
+}
+table td.bck-td-6 {
+    background-color: #FCE5F1;
+}
+table td.bck-td-7 {
+    background-color: #FEF0DE;
+}
+table td.bck-td-8 {
+    background-color: #DFF2FD;
 }
 
 /* Icons */
