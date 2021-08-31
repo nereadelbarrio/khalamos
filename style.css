@@ -191,7 +191,7 @@ PADRE khalamos*/
 }
 
 .libro-left .info {
-	
+
 }
 
 .libro-left ul li .title:before {
@@ -506,7 +506,7 @@ content: "";
     font-family: 'Caveat Brush', cursive;
     font-size: 28px;
     font-weight: 500;
-    color: #E30613;
+    color: #E56C9C;
     text-shadow: -2px 2px 3px #0000002b;
     position: relative;
     display: flex;
@@ -519,13 +519,14 @@ content: "";
 .bck-title1:after {
     background: url(images/titulo_recodermos-min.jpg);
     content: "";
-    background-size: 100px;
+    background-size: 48px;
     background-repeat: no-repeat;
     position: relative;
-    width: 46px;
-    height: 57px;
-    top: -5px;
-    padding: 0px 49px;
+    width: 17px;
+    height: 54px;
+    top: -3px;
+    padding: 0px 28px;
+    margin-left: 10px;
 }
 
 /*Titulo 2*/
@@ -537,7 +538,7 @@ content: "";
     font-family: 'Caveat Brush', cursive;
     font-size: 28px;
     font-weight: 500;
-    color: #E30613;
+    color: #283583;
     text-shadow: -2px 2px 3px #0000002b;
     position: relative;
     display: flex;
@@ -547,14 +548,16 @@ content: "";
 .bck-title2:after {
     background: url(images/titulo_observa-min.png);
     content: "";
-    background-size: 100px;
+    background-size: 58px;
     background-repeat: no-repeat;
     position: relative;
     width: 46px;
     height: 57px;
-    top: -5px;
+    top: 6px;
     padding: 0px 49px;
 }
+
+
 
 /*Titulo 3*/
 .bck-title3 {
@@ -574,7 +577,7 @@ content: "";
     font-family: 'Caveat Brush', cursive;
     font-size: 28px;
     font-weight: 500;
-    color: #662383;
+    color: #E30613;
     text-shadow: -2px 2px 3px #0000002b;
     position: relative;
     display: flex;
@@ -584,13 +587,14 @@ content: "";
     .bck-title4:after {
     background: url(images/titulo_trabaja_mat_conc-min.jpg);
         content: "";
-        background-size: 100px;
-        background-repeat: no-repeat;
-        position: relative;
-        width: 46px;
-        height: 48px;
-        top: -5px;
-        padding: 0px 49px;
+        background-size: 65px;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 46px;
+    height: 48px;
+    top: 2px;
+    padding: 0px 49px;
+    margin-left: 5px;
     }
 
 /*Titulo 5*/
@@ -602,7 +606,7 @@ content: "";
     font-family: 'Caveat Brush', cursive;
     font-size: 28px;
     font-weight: 500;
-    color: #BA6E17;
+    color: #EE7481;
     text-shadow: -2px 2px 3px #0000002b;
     position: relative;
     display: flex;
@@ -612,14 +616,14 @@ content: "";
     .bck-title5:after {
     background: url(images/titulo_haz_aprende-min.jpg);
         content: "";
-        background-size: 100px;
-        background-repeat: no-repeat;
-        position: relative;
-        width: 46px;
-        height: 61px;
-        top: -5px;
-        padding: 0px 49px;
-        margin-left: 5px;
+        background-size: 48px;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 46px;
+    height: 61px;
+    top: 2px;
+    padding: 0px 49px;
+    margin-left: 8px;
     }
 
     /*Titulo 6*/
@@ -640,15 +644,14 @@ content: "";
 }
     .bck-title6:after {
     background: url(images/titulo_autoevaluacion-min.jpg);
-        content: "";
-        background-size: 75px;
-        background-repeat: no-repeat;
-        position: relative;
-        width: 46px;
-        height: 75px;
-        top: -5px;
-        padding: 0px 48px;
-        margin-left: 5px;
+        background-size: 48px;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 46px;
+    height: 61px;
+    top: 2px;
+    padding: 0px 49px;
+    margin-left: 8px;
     }
 
     /*Titulo 7*/
@@ -660,7 +663,7 @@ content: "";
     font-family: 'Caveat Brush', cursive;
     font-size: 28px;
     font-weight: 500;
-    color: #BA6E17;
+    color: #D9AE00;
     text-shadow: -2px 2px 3px #0000002b;
     position: relative;
     display: flex;
@@ -670,14 +673,15 @@ content: "";
     .bck-title7:after {
     background: url(images/titulo_tic-min.jpg);
         content: "";
-        background-size: 90px;
-        background-repeat: no-repeat;
-        position: relative;
-        width: 46px;
-        height: 75px;
-        top: -5px;
-        padding: 0px 48px;
-        margin-left: 5px;
+        content: "";
+    background-size: 60px;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 46px;
+    height: 75px;
+    top: 11px;
+    padding: 0px 48px;
+    margin-left: 8px;
     }
 
  /*Titulo 8*/
@@ -689,7 +693,7 @@ content: "";
     font-family: 'Caveat Brush', cursive;
     font-size: 28px;
     font-weight: 500;
-    color: #BA6E17;
+    color: #F39200;
     text-shadow: -2px 2px 3px #0000002b;
     position: relative;
     display: flex;
@@ -699,14 +703,14 @@ content: "";
     .bck-title8:after {
     background: url(images/titulo_muestra-min.jpg);
         content: "";
-        background-size: 90px;
-        background-repeat: no-repeat;
-        position: relative;
-        width: 46px;
-        height: 75px;
-        top: -5px;
-        padding: 0px 48px;
-        margin-left: 5px;
+        background-size: 65px;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 46px;
+    height: 75px;
+    top: 12px;
+    padding: 0px 48px;
+    margin-left: 5px;
     }
  /*Titulo 9*/
  .bck-title9 {
@@ -717,7 +721,7 @@ content: "";
     font-family: 'Caveat Brush', cursive;
     font-size: 28px;
     font-weight: 500;
-    color: #BA6E17;
+    color: #009FE4;
     text-shadow: -2px 2px 3px #0000002b;
     position: relative;
     display: flex;
@@ -727,15 +731,16 @@ content: "";
     .bck-title9:after {
     background: url(images/titulo_pensemos-min.png);
         content: "";
-        background-size: 90px;
-        background-repeat: no-repeat;
-        position: relative;
-        width: 46px;
-        height: 75px;
-        top: -5px;
-        padding: 0px 48px;
-        margin-left: 5px;
-    }
+        background-size: 85px;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 46px;
+    height: 75px;
+    top: -5px;
+    padding: 0px 48px;
+    margin-left: 0px;
+   }
+
  /*Titulo 010*/
 .bck-title10 {
     font-size: 2.0rem;
@@ -745,7 +750,7 @@ content: "";
     font-family: 'Caveat Brush', cursive;
     font-size: 28px;
     font-weight: 500;
-    color: #BA6E17;
+    color: #662383;
     text-shadow: -2px 2px 3px #0000002b;
     position: relative;
     display: flex;
@@ -756,13 +761,13 @@ content: "";
     background: url(images/titulo_trabaja_pareja-min.jpg);
         content: "";
         background-size: 90px;
-        background-repeat: no-repeat;
-        position: relative;
-        width: 46px;
-        height: 75px;
-        top: -5px;
-        padding: 0px 48px;
-        margin-left: 5px;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 46px;
+    height: 75px;
+    top: 5px;
+    padding: 0px 48px;
+    margin-left: 9px;
     }
 
 
