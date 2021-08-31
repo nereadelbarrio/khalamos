@@ -770,6 +770,28 @@ content: "";
     margin-left: 9px;
     }
 
+/*enfasis*/
+.bck-enfasis-1 {
+	font-size: 4rem;
+    font-weight: 900;
+    color: #FFCD21;
+    font-family: 'Klee One', cursive;
+    text-shadow: #ed6b30 1px 1px 1px;
+}
+
+.bck-enfasis-2 {
+background-color: #6FBFBA;
+    border: 3px solid #6FBFBA;
+    padding: 3px 12px;
+    color: #FFCD21;
+    border-radius: 25px;
+    min-width: 30px;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: bold;
+    padding-top: 0px;
+    text-shadow: #fff 1px 1px 1px;
+}
 
 /* Lists */
 
