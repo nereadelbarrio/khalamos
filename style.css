@@ -828,6 +828,24 @@ background-color: #6FBFBA;
 	position: relative;
 	line-height: 1.1rem;
 }
+.content ol li:before, 
+.cke_contents ol li:before {
+	content: counter(bck-li-counter);
+    margin-left: -40px;
+    font-weight: bold;
+    margin-top: -2px;
+    background-color: snow;
+    border: none;
+    padding: 3px;
+    color: #262e2a;
+    border-radius: 25px;
+    min-width: 30px;
+    text-align: center;
+    font-size: 23px;
+    font-weight: bold;
+    padding-top: 0px;
+    box-shadow: none;
+}
 
 .content .bck-ol1 li:before,
 .cke_contents .bck-ol1 li:before,
@@ -901,20 +919,24 @@ background-color: #6FBFBA;
 	padding-left: 5px;
 	position: relative;
 	z-index: 0;
+	margin-left: 23px;
 }
 
 .content .bck-ol2 li:before,
 .cke_contents .bck-ol2 li:before {
-content: counter(bck-li-counter, lower-alpha)')';
+	content: counter(bck-li-counter, lower-alpha)')';
     position: absolute;
     color: #000;
     font-size: 1.8rem;
     font-weight: bold;
     text-align: right;
-    left: -20px;
+    left: -35px;
     font-family: inherit;
     margin: 0px 0px 0px -1px;
     width: inherit;
+    background-color: #fff;
+    border: none;
+    box-shadow: none;
 }
 
 /*LISTA ORDENADA 4*/
@@ -1027,6 +1049,37 @@ content: counter(bck-li-counter, lower-alpha)')';
     margin-bottom: 20px;
 }
 
+table td.bck-td-1 {
+    font-weight: bold;
+    text-align: center;
+    background-color: #00AEEF;
+}
+
+table td.bck-td-2 {
+    font-weight: bold;
+    text-align: center;
+    background-color: #C6EAFA;
+}
+
+table td.bck-td-3 {
+    font-weight: bold;
+    text-align: center;
+    background-color: #1A7A3C;
+}
+
+table td.bck-td-4 {
+    font-weight: bold;
+    text-align: center;
+    background-color: #5D040A;
+    color: #fff;
+}
+
+table td.bck-td-5 {
+    font-weight: bold;
+    text-align: center;
+    background-color: #E7D9D4;
+}
+
 /* Icons */
 
 #actividad .player.audio {
@@ -1048,25 +1101,7 @@ content: counter(bck-li-counter, lower-alpha)')';
 	margin-top: -16px;
 }
 
-.item-container .icon-draw:before {
-	background-image: url(images/Icon_draw.png);
-}
 
-.item-container .icon-write:before {
-	background-image: url(images/Icon_write.png);
-}
-
-.item-container .icon-speaking:before {
-	background-image: url(images/Icon_speaking.png);
-}
-
-.item-container .icon-reading:before {
-	background-image: url(images/Icon_reading.png);
-}
-
-.item-container .icon-star:before {
-	background-image: url(images/Icon_star.png);
-}
 
 /* Forms */
 
