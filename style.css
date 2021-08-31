@@ -1083,7 +1083,65 @@ table td.bck-td-8 {
 	margin-top: -16px;
 }
 
-
+/*BOTONERA*/
+.btn-danger, .btn-danger[disabled] {
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    border: 2px solid #fc4237;
+    color: #fc4237;
+    background: white;
+    font-weight: 700;
+    }
+    .btn-primary, .btn-primary.disabled, .btn-primary.disabled:hover, .btn-primary.disabled:focus {
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    border: 2px solid #0B4261;
+    color: #0B4261;
+    background: white;
+    font-weight: 700;
+    }
+    .btn-primary:not([disabled]):hover, .btn-primary:not([disabled]):focus, .btn-primary:not([disabled]):active, .btn-primary.active, .open .dropdown-toggle.btn-primary {
+    background-color: #0B4261;
+    border-color: #0B4261;
+    color: white
+    }
+    #actividad .content .review .attemps span {
+    background-color: #0B4261;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    }
+    .btn-primary[disabled], .btn-primary[disabled]:focus {
+    color: #fff;
+    background-color: #86A1B0;
+    border-color: #86A1B0;
+    }
+    .btn-solution, .btn-solution.disabled,
+    .btn-solution[disabled], .btn-next, .btn-next.disabled,
+    .btn-next[disabled] {
+    color: #00bdff;
+    background-color: white;
+    border-color: #00bdff;
+    border: 2px solid #00bdff;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    font-weight: 700;
+    margin: 3px 5px;
+    }
+    .btn-solution:hover,
+    .btn-solution:focus,
+    .btn-solution:active,
+    .btn-next:hover, .btn-next:focus,
+    .btn-next:active,
+    .open .dropdown-toggle.btn-solution {
+    color: #fff;
+    background-color: #00bdff;
+    border-color: transparent;
+    }
+ /*---*/ 
 
 /* Forms */
 
