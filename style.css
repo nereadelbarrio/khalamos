@@ -1218,3 +1218,17 @@ body.content_type_clase_khalamos #actividad .content .fillblanks-draggable
 	padding: 0;
 }
 
+
+/*Plantilla cálculo numérico*/
+#actividad .workspace.calculo .cifra {
+    width: 25px;
+    font-size: 22px;
+    height: 30px;
+}
+#actividad .workspace.calculo .cifra input[type=text],
+ #actividad .workspace.calculo .cifra input[type=tel] {
+    text-align: center;
+    width: 20px;
+    padding: 0;
+}
+
