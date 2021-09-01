@@ -4,77 +4,77 @@ PADRE khalamos*/
 
 @font-face {
     font-family: 'Dimbo';
-    src: url('DimboRegular.eot');
-    src: url('DimboRegular.eot?#iefix') format('embedded-opentype'),
-        url('DimboRegular.woff') format('woff'),
-        url('DimboRegular.ttf') format('truetype'),
-        url('DimboRegular.svg#DimboRegular') format('svg');
+    src: url('fonts/DimboRegular.eot');
+    src: url('fonts/DimboRegular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/DimboRegular.woff') format('woff'),
+        url('fonts/DimboRegular.ttf') format('truetype'),
+        url('fonts/DimboRegular.svg#DimboRegular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Brun';
-    src: url('Brun-Bold.eot');
-    src: url('Brun-Bold.eot?#iefix') format('embedded-opentype'),
-        url('Brun-Bold.woff') format('woff'),
-        url('Brun-Bold.ttf') format('truetype'),
-        url('Brun-Bold.svg#Brun-Bold') format('svg');
+    src: url('fonts/Brun-Bold.eot');
+    src: url('fonts/Brun-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Brun-Bold.woff') format('woff'),
+        url('fonts/Brun-Bold.ttf') format('truetype'),
+        url('fonts/Brun-Bold.svg#Brun-Bold') format('svg');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'SoupBone';
-    src: url('SoupBone-Bold.eot');
-    src: url('SoupBone-Bold.eot?#iefix') format('embedded-opentype'),
-        url('SoupBone-Bold.woff') format('woff'),
-        url('SoupBone-Bold.ttf') format('truetype'),
-        url('SoupBone-Bold.svg#SoupBone-Bold') format('svg');
+    src: url('fonts/SoupBone-Bold.eot');
+    src: url('fonts/SoupBone-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/SoupBone-Bold.woff') format('woff'),
+        url('fonts/SoupBone-Bold.ttf') format('truetype'),
+        url('fonts/SoupBone-Bold.svg#SoupBone-Bold') format('svg');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'VAGRoundedTME';
-    src: url('TME-Bold.eot');
-    src: url('TME-Bold.eot?#iefix') format('embedded-opentype'),
-        url('TME-Bold.woff') format('woff'),
-        url('TME-Bold.ttf') format('truetype'),
-        url('TME-Bold.svg#TME-Bold') format('svg');
+    src: url('fonts/TME-Bold.eot');
+    src: url('fonts/TME-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/TME-Bold.woff') format('woff'),
+        url('fonts/TME-Bold.ttf') format('truetype'),
+        url('fonts/TME-Bold.svg#TME-Bold') format('svg');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Flash D';
-    src: url('FlashD-Bold.eot');
-    src: url('FlashD-Bold.eot?#iefix') format('embedded-opentype'),
-        url('FlashD-Bold.woff') format('woff'),
-        url('FlashD-Bold.ttf') format('truetype'),
-        url('FlashD-Bold.svg#FlashD-Bold') format('svg');
+    src: url('fonts/FlashD-Bold.eot');
+    src: url('fonts/FlashD-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/FlashD-Bold.woff') format('woff'),
+        url('fonts/FlashD-Bold.ttf') format('truetype'),
+        url('fonts/FlashD-Bold.svg#FlashD-Bold') format('svg');
     font-weight: bold;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Brun';
-    src: url('Brun.eot');
-    src: url('Brun.eot?#iefix') format('embedded-opentype'),
-        url('Brun.woff') format('woff'),
-        url('Brun.ttf') format('truetype'),
-        url('Brun.svg#Brun') format('svg');
+    src: url('fonts/Brun.eot');
+    src: url('fonts/Brun.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Brun.woff') format('woff'),
+        url('fonts/Brun.ttf') format('truetype'),
+        url('fonts/Brun.svg#Brun') format('svg');
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'VAGRoundedTME';
-    src: url('TME-Light.eot');
-    src: url('TME-Light.eot?#iefix') format('embedded-opentype'),
-        url('TME-Light.woff') format('woff'),
-        url('TME-Light.ttf') format('truetype'),
-        url('TME-Light.svg#TME-Light') format('svg');
+    src: url('fonts/TME-Light.eot');
+    src: url('fonts/TME-Light.eot?#iefix') format('embedded-opentype'),
+        url('fonts/TME-Light.woff') format('woff'),
+        url('fonts/TME-Light.ttf') format('truetype'),
+        url('fonts/TME-Light.svg#TME-Light') format('svg');
     font-weight: 300;
     font-style: normal;
 }
@@ -86,7 +86,7 @@ PADRE khalamos*/
 
 	body.content_type_clase_khalamos {
 		font-size: 1.8rem;
-		 font-family: 'Brun';
+		font-family: 'Brun';
 	}
 
 	body.content_type_clase_khalamos #actividad .content img {
