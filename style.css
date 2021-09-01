@@ -75,7 +75,7 @@ PADRE khalamos*/
         url('fonts/TME-Light.woff') format('woff'),
         url('fonts/TME-Light.ttf') format('truetype'),
         url('fonts/TME-Light.svg#TME-Light') format('svg');
-    font-weight: 300;
+    font-weight: 500;
     font-style: normal;
 }
 
