@@ -2,86 +2,62 @@
 PADRE khalamos*/
 /* Fonts */
 
-	@font-face {
-	  font-family: CamphorPro;
-	  src: url(fonts/CamphorPro-Thin.otf);
-	  font-weight: 100;
-	}
-	@font-face {
-	  font-family: CamphorPro;
-	  src: url(fonts/CamphorPro-ThinItalic.otf);
-	  font-weight: 100;
-	  font-style: italic;
-	}
-	@font-face {
-	  font-family: CamphorPro;
-	  src: url(fonts/CamphorPro-Light.otf);
-	  font-weight: 200;
-	}
-	@font-face {
-	  font-family: CamphorPro;
-	  src: url(fonts/CamphorPro-LightItalic.otf);
-	  font-weight: 200;
-	  font-style: italic;
-	}
-	@font-face {
-	  font-family: CamphorPro;
-	  src: url(fonts/CamphorPro-Regular.otf);
-	  font-weight: 400;
-	}
-	@font-face {
-	  font-family: CamphorPro;
-	  src: url(fonts/CamphorPro-Italic.otf);
-	  font-weight: 400;
-	  font-style: italic;
-	}
-	@font-face {
-	  font-family: CamphorPro;
-	  src: url(fonts/CamphorPro-Medium.otf);
-	  font-weight: 500;
-	}
-	@font-face {
-	  font-family: CamphorPro;
-	  src: url(fonts/CamphorPro-MediumItalic.otf);
-	  font-weight: 500;
-	  font-style: italic;
-	}
-	@font-face {
-	  font-family: CamphorPro;
-	  src: url(fonts/CamphorPro-Bold.otf);
-	  font-weight: 700;
-	}
-	@font-face {
-	  font-family: CamphorPro;
-	  src: url(fonts/CamphorPro-BoldItalic.otf);
-	  font-weight: 700;
-	  font-style: italic;
-	}
-	@font-face {
-	  font-family: CamphorPro;
-	  src: url(fonts/CamphorPro-Heavy.otf);
-	  font-weight: 900;
-	  letter-spacing: 2px;
-	}
-	@font-face {
-	  font-family: CamphorPro;
-	  src: url(fonts/CamphorPro-HeavyItalic.otf);
-	  font-weight: 900;
-	  font-style: italic;
-	  letter-spacing: 2px;
-	}
+@font-face {
+    font-family: 'Dimbo';
+    src: url('DimboRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 
-	@font-face {
-	  font-family: GhostKid;
-	  src: url(fonts/Ghost-Kid-AOE.ttf);
-	  font-weight: 400;
-	}
+@font-face {
+    font-family: 'Brun';
+    src: url('Brun-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SoupBone';
+    src: url('SoupBone-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'VAGRoundedTME';
+    src: url('TME-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Flash D';
+    src: url('FlashD-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Brun';
+    src: url('Brun.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'VAGRoundedTME';
+    src:url('TME-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
 
 
 /* General */
 
 	body.content_type_clase_khalamos {
 		font-size: 1.8rem;
+		font-family: 'VAGRoundedTME';
 	}
 
 	body.content_type_clase_khalamos #actividad .content img {
@@ -503,7 +479,7 @@ content: "";
     clear: both;
     padding: 0;
     margin-bottom: 10px;
-    font-family: 'Caveat Brush', cursive;
+    font-family: 'Brun';
     font-size: 28px;
     font-weight: 500;
     color: #E56C9C;
@@ -535,7 +511,7 @@ content: "";
     clear: both;
     padding: 0;
     margin-bottom: 10px;
-    font-family: 'Caveat Brush', cursive;
+    font-family: 'Brun';
     font-size: 28px;
     font-weight: 500;
     color: #283583;
@@ -566,6 +542,7 @@ content: "";
     color: inherit;
     font-weight: 700;
     line-height: 22px;
+    font-family: 'VAGRoundedTME';
 }
 
 /*Titulo 4*/
@@ -574,7 +551,7 @@ content: "";
     clear: both;
     padding: 0;
     margin-bottom: 10px;
-    font-family: 'Caveat Brush', cursive;
+    font-family: 'Brun';
     font-size: 28px;
     font-weight: 500;
     color: #E30613;
@@ -603,7 +580,7 @@ content: "";
     clear: both;
     padding: 0;
     margin-bottom: 10px;
-    font-family: 'Caveat Brush', cursive;
+    font-family: 'Brun';
     font-size: 28px;
     font-weight: 500;
     color: #EE7481;
@@ -632,7 +609,7 @@ content: "";
     clear: both;
     padding: 0;
     margin-bottom: 10px;
-    font-family: 'Caveat Brush', cursive;
+    font-family: 'Brun';
     font-size: 28px;
     font-weight: 500;
     color: #BA6E17;
@@ -660,7 +637,7 @@ content: "";
     clear: both;
     padding: 0;
     margin-bottom: 10px;
-    font-family: 'Caveat Brush', cursive;
+    font-family: 'Brun';
     font-size: 28px;
     font-weight: 500;
     color: #D9AE00;
@@ -690,7 +667,7 @@ content: "";
     clear: both;
     padding: 0;
     margin-bottom: 10px;
-    font-family: 'Caveat Brush', cursive;
+    font-family: 'Brun';
     font-size: 28px;
     font-weight: 500;
     color: #F39200;
@@ -718,7 +695,7 @@ content: "";
     clear: both;
     padding: 0;
     margin-bottom: 10px;
-    font-family: 'Caveat Brush', cursive;
+    font-family: 'Brun';
     font-size: 28px;
     font-weight: 500;
     color: #009FE4;
@@ -741,13 +718,13 @@ content: "";
     margin-left: 0px;
    }
 
- /*Titulo 010*/
+ /*Titulo 10*/
 .bck-title10 {
     font-size: 2.0rem;
     clear: both;
     padding: 0;
     margin-bottom: 10px;
-    font-family: 'Caveat Brush', cursive;
+    font-family: 'Brun';
     font-size: 28px;
     font-weight: 500;
     color: #662383;
@@ -770,6 +747,15 @@ content: "";
     margin-left: 9px;
     }
 
+/*Titulo 11*/
+.bck-title11 {
+    font-size: 3rem;
+    color: inherit;
+    font-weight: 700;
+    line-height: 22px;
+    font-family: 'Flash D';
+}    
+
 /*enfasis*/
 .bck-enfasis-1 {
 	font-size: 4rem;
@@ -791,6 +777,11 @@ background-color: #6FBFBA;
     padding-top: 0px;
     text-shadow: #fff 1px 1px 1px;
 }
+
+.bck-enfasis-3 {
+	font-family: 'Dimbo';
+}
+
 
 /* Lists */
 
