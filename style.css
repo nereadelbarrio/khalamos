@@ -2,7 +2,7 @@
 PADRE khalamos*/
 /* Fonts */
 
-@font-face {
+/*@font-face {
     font-family: 'Dimbo';
     src: url('DimboRegular.woff') format('woff');
     font-weight: normal;
@@ -50,6 +50,99 @@ PADRE khalamos*/
     font-weight: 300;
     font-style: normal;
 }
+*/
+
+@font-face {
+    font-family: 'Dimbo';
+    src: url('DimboRegular.eot');
+    src: url('DimboRegular.eot?#iefix') format('embedded-opentype'),
+        url('DimboRegular.woff2') format('woff2'),
+        url('DimboRegular.woff') format('woff'),
+        url('DimboRegular.ttf') format('truetype'),
+        url('DimboRegular.svg#DimboRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Brun';
+    src: url('Brun-Bold.eot');
+    src: url('Brun-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Brun-Bold.woff2') format('woff2'),
+        url('Brun-Bold.woff') format('woff'),
+        url('Brun-Bold.ttf') format('truetype'),
+        url('Brun-Bold.svg#Brun-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SoupBone';
+    src: url('SoupBone-Bold.eot');
+    src: url('SoupBone-Bold.eot?#iefix') format('embedded-opentype'),
+        url('SoupBone-Bold.woff2') format('woff2'),
+        url('SoupBone-Bold.woff') format('woff'),
+        url('SoupBone-Bold.ttf') format('truetype'),
+        url('SoupBone-Bold.svg#SoupBone-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'VAGRoundedTME';
+    src: url('TME-Bold.eot');
+    src: url('TME-Bold.eot?#iefix') format('embedded-opentype'),
+        url('TME-Bold.woff2') format('woff2'),
+        url('TME-Bold.woff') format('woff'),
+        url('TME-Bold.ttf') format('truetype'),
+        url('TME-Bold.svg#TME-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Flash D';
+    src: url('FlashD-Bold.eot');
+    src: url('FlashD-Bold.eot?#iefix') format('embedded-opentype'),
+        url('FlashD-Bold.woff2') format('woff2'),
+        url('FlashD-Bold.woff') format('woff'),
+        url('FlashD-Bold.ttf') format('truetype'),
+        url('FlashD-Bold.svg#FlashD-Bold') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Brun';
+    src: url('Brun.eot');
+    src: url('Brun.eot?#iefix') format('embedded-opentype'),
+        url('Brun.woff2') format('woff2'),
+        url('Brun.woff') format('woff'),
+        url('Brun.ttf') format('truetype'),
+        url('Brun.svg#Brun') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'VAGRoundedTME';
+    src: url('TME-Light.eot');
+    src: url('TME-Light.eot?#iefix') format('embedded-opentype'),
+        url('TME-Light.woff2') format('woff2'),
+        url('TME-Light.woff') format('woff'),
+        url('TME-Light.ttf') format('truetype'),
+        url('TME-Light.svg#TME-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
 
 
 
