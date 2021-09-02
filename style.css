@@ -158,7 +158,7 @@ PADRE khalamos*/
 	#indice .units ul li {
 	    padding: 0;
 	    background: white;
-	    border: 3px solid #0C4261;
+	    /*border: 3px solid #0C4261;*/
 	    border-radius: 0px 0px 30px 0px;
 	}
 	#indice .units ul li a .title {
@@ -1305,8 +1305,8 @@ body.content_type_clase_khalamos #actividad .content .fillblanks-draggable
 
 /*TOC*/
  #list-units .unittag_grado1_texto_b {
-	background: #BCCF0F !important;
-	border-color: #BCCF0F;
+	background: #76C043 !important;
+	border-color: #76C043;
 }
 
 #list-units .unittag_grado1_texto_b:hover {
@@ -1316,8 +1316,8 @@ body.content_type_clase_khalamos #actividad .content .fillblanks-draggable
 
 /*TOC*/
  #list-units .unittag_grado1_actividades_a_1 {
-	background: #BCCF0F !important;
-	border-color: #BCCF0F;
+	background: #ADD361 !important;
+	border-color: #ADD361;
 }
 
 #list-units .unittag_grado1_actividades_a_1:hover {
@@ -1327,8 +1327,8 @@ body.content_type_clase_khalamos #actividad .content .fillblanks-draggable
 
 /*TOC*/
  #list-units .unittag_grado1_actividades_a_2 {
-	background: #BCCF0F !important;
-	border-color: #BCCF0F;
+	background: #7DC353 !important;
+	border-color: #7DC353;
 }
 
 #list-units .unittag_grado1_actividades_a_2:hover {
@@ -1338,8 +1338,8 @@ body.content_type_clase_khalamos #actividad .content .fillblanks-draggable
 
 /*TOC*/
  #list-units .unittag_grado1_actividades_b_1 {
-	background: #BCCF0F !important;
-	border-color: #BCCF0F;
+	background: #AAD6C0 !important;
+	border-color: #AAD6C0;
 }
 
 #list-units .unittag_grado1_actividades_b_1:hover {
@@ -1349,8 +1349,8 @@ body.content_type_clase_khalamos #actividad .content .fillblanks-draggable
 
 /*TOC*/
  #list-units .unittag_grado1_actividades_b_2 {
-	background: #BCCF0F !important;
-	border-color: #BCCF0F;
+	background: #17A553 !important;
+	border-color: #17A553;
 }
 
 #list-units .unittag_grado1_actividades_b_2:hover {
