@@ -1288,3 +1288,30 @@ body.content_type_clase_khalamos #actividad .content .fillblanks-draggable
     padding: 0;
 }
 
+/*unittag*/
+
+/*TOC*/
+.unittag_grado1_texto_a #indice .units ul li.active:not(.disabled){
+	background: #BCCF02 !important;
+}
+
+.unittag_grado1_texto_a #indice .units ul li:hover:not(.disabled){
+	background: #BCCF02 !important;
+}
+
+
+.unittag_grado1_texto_a #indice .units ul li:focus:not(.disabled){
+	background: #F18317 !important;
+}
+
+.unittag_grado1_texto_a #indice .units ul li.hover:not(.disabled), 
+.unittag_grado1_texto_a body:not(.isTablet) #indice .units ul li:hover:not(.disabled), 
+.unittag_grado1_texto_a #indice .units ul li:hover:not(.disabled){
+	background: #BCCF02 !important;
+}
+
+.unittag_grado1_texto_a body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover, 
+.unittag_grado1_texto_a #book-index #indice .unit-content .actividades .item.active, 
+.unittag_grado1_texto_a #book-index #indice .unit-content .actividades .item.current{
+	background: #BCCF02 !important;
+}
