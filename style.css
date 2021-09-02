@@ -1087,6 +1087,13 @@ table td.bck-td-8 {
 	background: url(images/khalamos_audio.png) center center / cover;
 }
 
+#actividad .player.audio, 
+#actividad .player.video, 
+#help-panel-content .player, 
+#remote-alert-modal-rich .player {
+	vertical-align: middle;
+}
+
 .item-container .icon:before {
 	content: "";
 	background-repeat: no-repeat;
@@ -1104,12 +1111,12 @@ table td.bck-td-8 {
 
 .bck-file-attach:before {
 	content: " ";
-	background-image: url(images/khalamos_archivo.png);
-	background-repeat: no-repeat;
-	padding: 10px;
-	background-size: contain;
-	margin-top: 4px;
-	position: absolute;
+    background-image: url(images/khalamos_archivo.png);
+    background-repeat: no-repeat;
+    padding: 19px;
+    background-size: contain;
+    margin-top: 4px;
+    position: absolute;
 }
 
 .bck-file-attach img {
@@ -1118,10 +1125,14 @@ table td.bck-td-8 {
 
 .bck-file-attach span {
 	display: inline-block;
-	max-width: 100%;
-	text-overflow: ellipsis;
-	overflow: hidden;
-	padding-left: 12px;
+    max-width: 100%;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    padding-left: 36px;
+}
+
+.bck-sub-label, .bck-file-label {
+	background: #fff;
 }
 
 /*BOTONERA*/
