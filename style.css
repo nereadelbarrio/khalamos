@@ -807,7 +807,7 @@ background-color: #6FBFBA;
 }
 
 .bck-enfasis-3 {
-	font-family: 'Dimbo';
+	 font-family: 'Dimbo';
 }
 
 
@@ -1084,7 +1084,7 @@ table td.bck-td-8 {
 /* Icons */
 
 #actividad .player.audio {
-	background: url(images/Icon_audio.png) center center / cover;
+	background: url(images/khalamos_audio.png) center center / cover;
 }
 
 .item-container .icon:before {
@@ -1100,6 +1100,28 @@ table td.bck-td-8 {
 	height: 40px;
 	width: 54px;
 	margin-top: -16px;
+}
+
+.bck-file-attach:before {
+	content: " ";
+	background-image: url(images/khalamos_archivo.png);
+	background-repeat: no-repeat;
+	padding: 10px;
+	background-size: contain;
+	margin-top: 4px;
+	position: absolute;
+}
+
+.bck-file-attach img {
+	display: none;
+}
+
+.bck-file-attach span {
+	display: inline-block;
+	max-width: 100%;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	padding-left: 12px;
 }
 
 /*BOTONERA*/
