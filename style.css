@@ -143,6 +143,7 @@ PADRE khalamos*/
     -webkit-border-radius: 3px;  
     -moz-border-radius: 3px;  
     border-radius: 3px;  
+    border-radius: 0px 0px 30px 0px;
 	}
 
 	#indice .units ul li a:not(.delete) {
@@ -158,6 +159,7 @@ PADRE khalamos*/
 	    padding: 0;
 	    background: white;
 	    border: 3px solid #0C4261;
+	    border-radius: 0px 0px 30px 0px;
 	}
 	#indice .units ul li a .title {
 	    font-size: 18px;
@@ -1291,27 +1293,67 @@ body.content_type_clase_khalamos #actividad .content .fillblanks-draggable
 /*unittag*/
 
 /*TOC*/
-.unittag_grado1_texto_a #indice .units ul li.active:not(.disabled){
-	background: #BCCF02 !important;
+ #list-units .unittag_grado1_texto_a {
+	background: #BCCF0F !important;
+	border-color: #BCCF0F;
 }
 
-.unittag_grado1_texto_a #indice .units ul li:hover:not(.disabled){
-	background: #BCCF02 !important;
-}
-
-
-.unittag_grado1_texto_a #indice .units ul li:focus:not(.disabled){
+#list-units .unittag_grado1_texto_a:hover {
 	background: #F18317 !important;
+	border-color: #F18317;
 }
 
-.unittag_grado1_texto_a #indice .units ul li.hover:not(.disabled), 
-.unittag_grado1_texto_a body:not(.isTablet) #indice .units ul li:hover:not(.disabled), 
-.unittag_grado1_texto_a #indice .units ul li:hover:not(.disabled){
-	background: #BCCF02 !important;
+/*TOC*/
+ #list-units .unittag_grado1_texto_b {
+	background: #BCCF0F !important;
+	border-color: #BCCF0F;
 }
 
-.unittag_grado1_texto_a body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover, 
-.unittag_grado1_texto_a #book-index #indice .unit-content .actividades .item.active, 
-.unittag_grado1_texto_a #book-index #indice .unit-content .actividades .item.current{
-	background: #BCCF02 !important;
+#list-units .unittag_grado1_texto_b:hover {
+	background: #F18317 !important;
+	border-color: #F18317;
+}
+
+/*TOC*/
+ #list-units .unittag_grado1_actividades_a_1 {
+	background: #BCCF0F !important;
+	border-color: #BCCF0F;
+}
+
+#list-units .unittag_grado1_actividades_a_1:hover {
+	background: #F18317 !important;
+	border-color: #F18317;
+}
+
+/*TOC*/
+ #list-units .unittag_grado1_actividades_a_2 {
+	background: #BCCF0F !important;
+	border-color: #BCCF0F;
+}
+
+#list-units .unittag_grado1_actividades_a_2:hover {
+	background: #F18317 !important;
+	border-color: #F18317;
+}
+
+/*TOC*/
+ #list-units .unittag_grado1_actividades_b_1 {
+	background: #BCCF0F !important;
+	border-color: #BCCF0F;
+}
+
+#list-units .unittag_grado1_actividades_b_1:hover {
+	background: #F18317 !important;
+	border-color: #F18317;
+}
+
+/*TOC*/
+ #list-units .unittag_grado1_actividades_b_2 {
+	background: #BCCF0F !important;
+	border-color: #BCCF0F;
+}
+
+#list-units .unittag_grado1_actividades_b_2:hover {
+	background: #F18317 !important;
+	border-color: #F18317;
 }
