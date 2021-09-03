@@ -1365,3 +1365,103 @@ body.content_type_clase_khalamos #actividad .content .fillblanks-draggable
 	background: rgb(57 144 206) !important;
 	border-color: rgb(57 144 206);
 }
+
+/*----------------------------unittag_grado3-----------------------------------*/
+/*TOC*/
+ #list-units .unittag_grado3_texto_a {
+	background: rgb(186 188 224) !important;
+	border-color: rgb(186 188 224);
+}
+
+/*TOC*/
+ #list-units .unittag_grado3_texto_b {
+	background: rgb(162 147 198) !important;
+	border-color: rgb(162 147 198);
+}
+
+/*TOC*/
+ #list-units .unittag_grado3_actividades_a_1 {
+	background: rgb(182 179 225) !important;
+	border-color: rgb(182 179 225);
+}
+
+/*TOC*/
+ #list-units .unittag_grado3_actividades_b_1 {
+	background: rgb(171 123 202) !important;
+	border-color: rgb(171 123 202);
+}
+
+/*----------------------------unittag_grado4-----------------------------------*/
+/*TOC*/
+ #list-units .unittag_grado4_texto_a {
+	background: rgb(249 199 181) !important;
+	border-color: rgb(249 199 181);
+}
+
+/*TOC*/
+ #list-units .unittag_grado4_texto_b {
+	background: rgb(243 156 135) !important;
+	border-color: rgb(243 156 135);
+}
+
+/*TOC*/
+ #list-units .unittag_grado4_actividades_a_1 {
+	background: rgb(255 133 113) !important;
+	border-color: rgb(255 133 113);
+}
+
+/*TOC*/
+ #list-units .unittag_grado4_actividades_b_1 {
+	background: rgb(252 66 55) !important;
+	border-color: rgb(252 66 55);
+}
+
+/*----------------------------unittag_grado5----------------------------------*/
+/*TOC*/
+ #list-units .unittag_grado5_texto_a {
+	background: rgb(160 212 202) !important;
+	border-color: rgb(160 212 202);
+}
+
+/*TOC*/
+ #list-units .unittag_grado5_texto_b {
+	background: rgb(43 180 161) !important;
+	border-color: rgb(43 180 161);
+}
+
+/*TOC*/
+ #list-units .unittag_grado5_actividades_a_1 {
+	background: rgb(50 218 196) !important;
+	border-color: rgb(50 218 196);
+}
+
+/*TOC*/
+ #list-units .unittag_grado5_actividades_b_1 {
+	background: rgb(0 196 180) !important;
+	border-color: rgb(0 196 180);
+}
+
+/*----------------------------unittag_grado5----------------------------------*/
+/*TOC*/
+ #list-units .unittag_grado6_texto_a {
+	background: rgb(253 188 19) !important;
+	border-color: rgb(253 188 19);
+}
+
+/*TOC*/
+ #list-units .unittag_grado6_texto_b {
+	background: rgb(250 166 26) !important;
+	border-color: rgb(250 166 26);
+}
+
+/*TOC*/
+ #list-units .unittag_grado6_actividades_a_1 {
+	background: rgb(254 178 88) !important;
+	border-color: rgb(254 178 88);
+}
+
+/*TOC*/
+ #list-units .unittag_grado6_actividades_b_1 {
+	background: rgb(253 130 4) !important;
+	border-color: rgb(253 130 4);
+}
