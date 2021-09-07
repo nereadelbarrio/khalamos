@@ -654,18 +654,20 @@ content: "";
     flex-wrap: nowrap;
     align-items: center;
 }
+
     .bck-title6:after {
     background: url(images/titulo_autoevaluacion-min.jpg);
-        content: "";
-        background-size: 48px;
+	content: "";
+    background-size: 79px;
     background-repeat: no-repeat;
     position: relative;
     width: 46px;
-    height: 61px;
-    top: 2px;
+    height: 56px;
+    top: -9px;
     padding: 0px 49px;
     margin-left: 8px;
-}
+    }
+
     /*Titulo 7*/
 .bck-title7 {
     font-size: 2.0rem;
