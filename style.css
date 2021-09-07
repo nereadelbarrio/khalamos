@@ -656,6 +656,7 @@ content: "";
 }
     .bck-title6:after {
     background: url(images/titulo_autoevaluacion-min.jpg);
+        content: "";
         background-size: 48px;
     background-repeat: no-repeat;
     position: relative;
@@ -664,8 +665,7 @@ content: "";
     top: 2px;
     padding: 0px 49px;
     margin-left: 8px;
-    }
-
+}
     /*Titulo 7*/
 .bck-title7 {
     font-size: 2.0rem;
