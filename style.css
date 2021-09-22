@@ -791,6 +791,33 @@ content: "";
     font-family: 'Flash D';
 }    
 
+ /*Titulo 12*/
+.bck-title12 {
+	clear: both;
+    padding: 0;
+    margin-bottom: 10px;
+    font-family: 'Brun';
+    font-size: 28px;
+    font-weight: 500;
+    color: #12399A;
+    text-shadow: 0px 2px 3px #0000006b;
+    position: relative;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+    .bck-title12:after {
+    background: url(images/titulo_interactive.png);
+    content: "";
+    background-size: 58px;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 46px;
+    height: 57px;
+    top: 6px;
+    padding: 0px 29px;
+    }
+
 /*enfasis*/
 .bck-enfasis-1 {
 	font-size: 4rem;
