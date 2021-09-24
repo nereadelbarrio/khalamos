@@ -28,6 +28,7 @@
 				{ name: 'Título 12', element: 'h4', attributes: { 'class': 'bck-title bck-title12'} },
 				{ name: 'Título 13', element: 'h4', attributes: { 'class': 'bck-title bck-title13'} },
 				{ name: 'Título 14', element: 'h4', attributes: { 'class': 'bck-title bck-title14'} },
+				{ name: 'Título 15', element: 'h4', attributes: { 'class': 'bck-title bck-title15'} },
 
 				{ name: 'Énfasis 1', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
 				{ name: 'Énfasis 2', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
