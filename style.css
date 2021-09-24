@@ -1291,6 +1291,19 @@ content: counter(bck-li-counter);
     box-shadow: none;
 }
 
+/* Caja 3 */
+.bck-box.bck-box3 {
+	border: 3px solid #fff;
+    background: #FFE3B1;
+    box-shadow: 0px 4px 10px 0px #d4d2d2;
+    position: relative;
+    padding: 10px 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    margin: 0;
+}
+
 
 /*TABLA POR DEFECTO*/ 
 .content table:not(.rf-tablegrid) {
