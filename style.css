@@ -984,6 +984,7 @@ content: "";
     position: relative;
     background-color: #8F1D81;
     box-shadow: none;
+    width: fit-content;
 }
     .bck-title13:before {
 	background: url(images/titulo_recordemos.png);
@@ -999,6 +1000,34 @@ content: "";
     margin-left: -15px;
     }
 
+
+ /*Titulo 14*/
+.bck-title14 {
+	margin-bottom: 20px;
+    border-radius: 47px;
+    padding: 6px 26px 6px 6px;
+    font-size: 2.8rem;
+    font-weight: 500;
+    color: #fff;
+    font-family: 'EurostileTBla';
+    position: relative;
+    background-color: #D9D61C;
+    box-shadow: none;
+    width: fit-content;
+}
+    .bck-title14:before {
+	background: url(images/titulo_actividades.png);
+    content: "";
+    background-size: 59px;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 40px;
+    height: 38px;
+    left: -9px;
+    top: 0px;
+    padding: 15px 30px;
+    margin-left: -15px;
+    }
 
 /*enfasis*/
 .bck-enfasis-1 {
