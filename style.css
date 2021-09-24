@@ -1030,11 +1030,20 @@ content: "";
 
      /*Titulo 15*/
 .bck-title15 {
-	font-size: 3rem;
+	font-size: 2.8rem;
     color: #E73446;
-    padding-bottom: 15px;
+    padding-bottom: 8px;
     width: fit-content;
     border-bottom: 7px solid #F8C8CC;
+    font-weight: 700;
+    line-height: 22px;
+    font-family: 'Helvetica Neue LT Std';
+}
+
+     /*Titulo 16*/
+.bck-title16 {
+	font-size: 2.6rem;
+    color: #E73446;
     font-weight: 700;
     line-height: 22px;
     font-family: 'Helvetica Neue LT Std';
