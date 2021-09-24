@@ -26,6 +26,8 @@
 				{ name: 'Título 10', element: 'h4', attributes: { 'class': 'bck-title bck-title10'} },
 				{ name: 'Título 11', element: 'h4', attributes: { 'class': 'bck-title bck-title11'} },
 				{ name: 'Título 12', element: 'h4', attributes: { 'class': 'bck-title bck-title12'} },
+				{ name: 'Título 13', element: 'h4', attributes: { 'class': 'bck-title bck-title13'} },
+				{ name: 'Título 14', element: 'h4', attributes: { 'class': 'bck-title bck-title14'} },
 
 				{ name: 'Énfasis 1', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
 				{ name: 'Énfasis 2', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
