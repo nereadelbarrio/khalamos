@@ -1060,6 +1060,15 @@ content: "";
     font-family: 'Helvetica Neue LT Std';
 }
 
+  /*Titulo 17*/
+.bck-title17 {
+	font-size: 2.6rem;
+    color: #E73446;
+    font-weight: 700;
+    line-height: 22px;
+    font-family: 'xscale';
+}
+
 /*enfasis*/
 .bck-enfasis-1 {
 	font-size: 4rem;
