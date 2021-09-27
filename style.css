@@ -1066,7 +1066,7 @@ content: "";
     color: #832800;
     text-shadow: 2px 0px 0px #cba500;
     font-weight: 700;
-    line-height: 22px;
+    line-height: 1;
     font-family: 'xscale';
 }
 
@@ -1388,7 +1388,7 @@ content: counter(bck-li-counter);
     -webkit-border-radius: 10px;
     border-radius: 10px;
     margin: 0;
-transform: none;
+
 }
 
 .bck-box.bck-box3>.bck-title {
@@ -1397,6 +1397,7 @@ transform: none;
     border: none;
     border-radius: 0;
     background: inherit;
+    transform: none;
 }
 
 
