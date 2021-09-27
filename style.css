@@ -1367,6 +1367,15 @@ content: counter(bck-li-counter);
     -webkit-border-radius: 10px;
     border-radius: 10px;
     margin: 0;
+transform: none;
+}
+
+.bck-box.bck-box3>.bck-title {
+    top: 0;
+    left: 0;
+    border: none;
+    border-radius: 0;
+    background: inherit;
 }
 
 
