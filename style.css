@@ -234,6 +234,17 @@ PADRE poptropica*/
 }
 
 
+@font-face {
+    font-family: 'xscale';
+    src: url('fonts/Xscale.eot');
+    src: url('fonts/Xscale.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Xscale.woff') format('woff'),
+        url('fonts/Xscale.ttf') format('truetype'),
+        url('fonts/Xscale.svg#Xscale') format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
+
 
 
 /* General */
