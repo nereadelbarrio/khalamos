@@ -1241,6 +1241,33 @@ content: counter(bck-li-counter);
     box-shadow: none;
 }
 
+
+/*LISTA ORDENADA 3*/
+#actividad .content .cke_contents .bck-ol3 li,
+#actividad .content .cke_contents .bck-ol3 li,
+#actividad .content .texto_curso .bck-ol3 li,
+#actividad .popover-content .bck-ol3 li,
+#actividad .content .workspace ul li .bck-ol3 li {
+	margin-bottom: 20px;
+	font-family: 'Warnock Pro';
+}
+
+.content .bck-ol3 li:before,
+.cke_contents .bck-ol3 li:before {
+	content: counter(bck-li-counter)'.';
+    position: absolute;
+    top: -2px;
+    left: 12px;
+    display: block;
+    font-family: 'Warnock Pro';
+    padding-top: 4px;
+    color: #000;
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    line-height: 2.5rem;
+}
+
 /*LISTA DESORDENADA POR DEFECTO*/
 
 .texto_curso ul li:before, .workspace ul li ul li:before, .cke_contents ul li:before {
