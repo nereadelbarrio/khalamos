@@ -1,0 +1,1557 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20170731 at Fri Mar 10 23:49:49 1995
+ By Aleksey,,,
+URW Software, Copyright 1994 by URW
+</metadata>
+<defs>
+<font id="MachineItcDEE-Regu" horiz-adv-x="881" >
+  <font-face 
+    font-family="MachineItcDEE"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="2048"
+    panose-1="0 0 0 0 0 0 0 0 0 0"
+    ascent="2048"
+    descent="0"
+    x-height="1365"
+    cap-height="1365"
+    bbox="-113 -512 2190 1814"
+    underline-thickness="218"
+    underline-position="-545"
+    unicode-range="U+0020-2219"
+  />
+<missing-glyph horiz-adv-x="512" 
+d="M51 0v1365h410v-1365h-410zM410 51v1263h-308v-1263h308z" />
+    <glyph glyph-name=".notdef" horiz-adv-x="512" 
+d="M51 0v1365h410v-1365h-410zM410 51v1263h-308v-1263h308z" />
+    <glyph glyph-name="glyph1" horiz-adv-x="0" 
+ />
+    <glyph glyph-name="glyph2" horiz-adv-x="512" 
+ />
+    <glyph glyph-name="space" unicode=" " horiz-adv-x="512" 
+ />
+    <glyph glyph-name="exclam" unicode="!" horiz-adv-x="653" 
+d="M465 1365v-404l-74 -571h-119l-83 571l-3 404h279zM467 265v-265h-277v265h277z" />
+    <glyph glyph-name="quotedbl" unicode="&#x22;" horiz-adv-x="599" 
+d="M269 1365v-300l-60 -309h-87l-61 309v300h208zM538 1365v-300l-59 -309h-88l-61 309v300h208z" />
+    <glyph glyph-name="numbersign" unicode="#" 
+d="M810 578l-23 -185h-131l-52 -393h-180l55 393h-157l-52 -393h-171l52 393h-132l23 185h132l31 235h-131l23 185h130l48 367h174l-50 -367h158l49 367h176l-49 -367h128l-22 -185h-129l-30 -235h130zM534 813h-157l-30 -235h157z" />
+    <glyph glyph-name="dollar" unicode="$" horiz-adv-x="905" 
+d="M844 1160v-233h-263v185h-245v-285l310 -19l212 -202v-401l-212 -205h-116v-160h-165v160h-98l-219 205v226h288v-178h245v288l-314 21l-208 198v400l208 205h98v146h165v-146h97z" />
+    <glyph glyph-name="percent" unicode="%" horiz-adv-x="1683" 
+d="M643 1234v-591l-135 -130h-234l-137 130v591l137 131h234zM450 1189h-120v-500h120v500zM1127 1365l-428 -1365h-143l433 1365h138zM1547 721v-591l-137 -130h-233l-137 130v591l137 132h233zM1354 677h-121v-501h121v501z" />
+    <glyph glyph-name="ampersand" unicode="&#x26;" horiz-adv-x="1229" 
+d="M886 1160v-222l-133 -151l92 -140l48 101h269l-181 -318l274 -430h-290l-120 198l-110 -198h-344l-214 205v351l179 129l-160 142v333l212 205h268zM636 1112h-182v-285h182v285zM454 253h182l80 157l-101 167h-161v-324z" />
+    <glyph glyph-name="quotesingle" unicode="'" horiz-adv-x="330" 
+d="M269 1365v-300l-60 -309h-87l-61 309v300h208z" />
+    <glyph glyph-name="parenleft" unicode="(" horiz-adv-x="623" 
+d="M562 1417v-153h-245v-1162h245v-154h-212l-213 206v1056l213 207h212z" />
+    <glyph glyph-name="parenright" unicode=")" horiz-adv-x="623" 
+d="M61 1417h212l213 -207v-1056l-213 -206h-212v154h245v1162h-245v153z" />
+    <glyph glyph-name="asterisk" unicode="*" 
+d="M331 995l-229 74l43 130l228 -74v240h137v-240l228 74l42 -130l-228 -74l141 -194l-110 -80l-142 194l-141 -194l-110 80z" />
+    <glyph glyph-name="plus" unicode="+" 
+d="M565 806h254v-218h-254v-289h-250v289h-254v218h254v288h250v-288z" />
+    <glyph glyph-name="comma" unicode="," horiz-adv-x="403" 
+d="M331 264v-226l-153 -254l-106 66l108 150h-108v264h259z" />
+    <glyph glyph-name="hyphen" unicode="-" horiz-adv-x="328" 
+d="M328 806v-177h-328v177h328z" />
+    <glyph glyph-name="period" unicode="." horiz-adv-x="403" 
+d="M340 265v-265h-277v265h277z" />
+    <glyph glyph-name="slash" unicode="/" horiz-adv-x="659" 
+d="M696 1405l-637 -1484l-96 39l639 1485z" />
+    <glyph glyph-name="zero" unicode="0" 
+d="M819 1160v-955l-205 -205h-335l-218 205v955l218 205h323zM542 1112h-194v-859h194v859z" />
+    <glyph glyph-name="one" unicode="1" horiz-adv-x="530" 
+d="M451 1365v-1365h-277v1100h-160v192l258 73h179z" />
+    <glyph glyph-name="two" unicode="2" horiz-adv-x="898" 
+d="M823 1160v-351l-478 -442v-114h485v-253h-762v467l478 461v184h-201v-184h-266v232l212 205h314z" />
+    <glyph glyph-name="three" unicode="3" horiz-adv-x="818" 
+d="M739 1160v-321l-165 -146l183 -144v-344l-216 -205h-318l-216 205v236h268v-188h197v309h-197v253h197v297h-197v-173h-268v221l216 205h292z" />
+    <glyph glyph-name="four" unicode="4" horiz-adv-x="909" 
+d="M768 1365v-860h128v-231h-128v-274h-268v274h-394l-92 246l457 845h297zM500 505v503l-254 -503h254z" />
+    <glyph glyph-name="five" unicode="5" horiz-adv-x="875" 
+d="M729 1365v-253h-386v-264h265l212 -199v-444l-212 -205h-328l-212 205v251h275v-203h200v342h-239l-220 200v570h645z" />
+    <glyph glyph-name="six" unicode="6" horiz-adv-x="882" 
+d="M820 615v-410l-214 -205h-330l-215 205v955l215 205h316l217 -205v-233h-266v185h-205v-296h268zM543 563h-205v-310h205v310z" />
+    <glyph glyph-name="seven" unicode="7" horiz-adv-x="744" 
+d="M731 1365v-253l-379 -1112h-296l416 1112h-207v-129h-251v382h717z" />
+    <glyph glyph-name="eight" unicode="8" horiz-adv-x="883" 
+d="M791 1160v-310l-150 -147l180 -147v-351l-214 -205h-323l-223 205v351l172 147l-156 137v320l207 205h289zM544 1112h-206v-293h206v293zM544 568h-206v-315h206v315z" />
+    <glyph glyph-name="nine" unicode="9" horiz-adv-x="870" 
+d="M808 1160v-955l-215 -205h-318l-216 205v232h266v-184h206v295h-266l-217 203v409l217 205h328zM531 1112h-206v-311h206v311z" />
+    <glyph glyph-name="colon" unicode=":" horiz-adv-x="403" 
+d="M340 963v-265h-277v265h277zM340 265v-265h-277v265h277z" />
+    <glyph glyph-name="semicolon" unicode=";" horiz-adv-x="403" 
+d="M331 264v-226l-153 -254l-106 66l108 150h-108v264h259zM332 963v-265h-261v265h261z" />
+    <glyph glyph-name="less" unicode="&#x3c;" horiz-adv-x="1024" 
+d="M955 1278v-296l-572 -293l572 -293v-294l-887 464v249z" />
+    <glyph glyph-name="equal" unicode="=" 
+d="M819 1024v-218h-758v218h758zM819 587v-218h-758v218h758z" />
+    <glyph glyph-name="greater" unicode="&#x3e;" horiz-adv-x="1024" 
+d="M69 102v296l572 293l-571 293v294l886 -463v-250z" />
+    <glyph glyph-name="question" unicode="?" horiz-adv-x="937" 
+d="M827 1160v-339l-217 -203v-228h-277v291l217 198v233h-164v-250h-277v298l217 205h284zM610 262v-262h-277v262h277z" />
+    <glyph glyph-name="at" unicode="@" horiz-adv-x="1413" 
+d="M847 162l-20 -162h-450l-293 337l105 854l227 174h728l185 -174l-89 -721l-212 -163h-269l-33 70l-47 -70h-141l-88 119l64 518l117 119h141l29 -70l51 72h106l-73 -595h163l90 733h-755l-105 -851l164 -190h405zM737 470l53 431h-134l-52 -431h133z" />
+    <glyph glyph-name="A" unicode="A" horiz-adv-x="816" 
+d="M844 0h-287l-32 253h-235l-29 -253h-288l207 1365h441zM495 511l-76 602h-39l-63 -602h178z" />
+    <glyph glyph-name="B" unicode="B" horiz-adv-x="893" 
+d="M807 1196v-363l-150 -134l174 -134v-360l-213 -205h-543v1365h543zM554 1112h-202v-293h202v293zM554 565h-202v-312h202v312z" />
+    <glyph glyph-name="C" unicode="C" horiz-adv-x="890" 
+d="M829 1160v-312h-277v264h-200v-859h200v330h277v-378l-209 -205h-333l-212 205v955l212 205h322z" />
+    <glyph glyph-name="D" unicode="D" horiz-adv-x="887" 
+d="M826 1160v-955l-210 -205h-541v1365h529zM549 1112h-197v-859h197v859z" />
+    <glyph glyph-name="E" unicode="E" horiz-adv-x="703" 
+d="M662 1365v-253h-310v-264h262v-253h-262v-342h310v-253h-587v1365h587z" />
+    <glyph glyph-name="F" unicode="F" horiz-adv-x="696" 
+d="M683 1365v-253h-321v-267h269v-253h-269v-592h-287v1365h608z" />
+    <glyph glyph-name="G" unicode="G" horiz-adv-x="885" 
+d="M823 1160v-296h-277v248h-198v-859h198v212h-111v253h388v-513l-218 -205h-327l-217 205v955l217 205h327z" />
+    <glyph glyph-name="H" unicode="H" horiz-adv-x="916" 
+d="M841 1365v-1365h-287v546h-192v-546h-287v1365h287v-565h192v565h287z" />
+    <glyph glyph-name="I" unicode="I" horiz-adv-x="437" 
+d="M362 1365v-1365h-287v1365h287z" />
+    <glyph glyph-name="J" unicode="J" horiz-adv-x="776" 
+d="M714 1365v-1160l-212 -205h-273l-215 205v341h277v-293h136v1112h287z" />
+    <glyph glyph-name="K" unicode="K" horiz-adv-x="899" 
+d="M352 1365v-624l224 624h300l-267 -637l301 -728h-314l-244 605v-605h-277v1365h277z" />
+    <glyph glyph-name="L" unicode="L" horiz-adv-x="689" 
+d="M362 1365v-1103h314v-262h-601v1365h287z" />
+    <glyph glyph-name="M" unicode="M" horiz-adv-x="1133" 
+d="M1058 1365v-1365h-259v1031h-15l-157 -1031h-113l-157 1031h-14v-1031h-268v1365h378l100 -643h39l98 643h368z" />
+    <glyph glyph-name="N" unicode="N" horiz-adv-x="928" 
+d="M853 1365v-1365h-255l-244 780l-4 -780h-275v1365h285l224 -731l3 731h266z" />
+    <glyph glyph-name="O" unicode="O" 
+d="M819 1160v-955l-204 -205h-336l-218 205v955l218 205h326zM542 1112h-194v-859h194v859z" />
+    <glyph glyph-name="P" unicode="P" horiz-adv-x="821" 
+d="M807 1160v-498l-218 -197h-237v-465h-277v1365h514zM530 1112h-178v-394h178v394z" />
+    <glyph glyph-name="Q" unicode="Q" horiz-adv-x="900" 
+d="M838 1160v-872l-155 -142h155v-146h-559l-218 205v955l218 205h338zM551 1112h-203v-859h203v859z" />
+    <glyph glyph-name="R" unicode="R" horiz-adv-x="893" 
+d="M820 1160v-347l-157 -135l168 -144v-534h-279v545h-200v-545h-277v1365h532zM552 1112h-200v-312h200v312z" />
+    <glyph glyph-name="S" unicode="S" horiz-adv-x="852" 
+d="M795 1160v-232h-274v184h-189v-284l259 -20l213 -201v-402l-213 -205h-330l-213 205v229h284v-181h195v292l-261 18l-211 204v393l211 205h314z" />
+    <glyph glyph-name="T" unicode="T" horiz-adv-x="696" 
+d="M683 1365v-268h-188v-1097h-287v1097h-194v268h669z" />
+    <glyph glyph-name="U" unicode="U" horiz-adv-x="893" 
+d="M831 1365v-1160l-211 -205h-335l-224 205v1160h287v-1112h196v1112h287z" />
+    <glyph glyph-name="V" unicode="V" horiz-adv-x="768" 
+d="M781 1365l-163 -1365h-456l-176 1365h286l102 -1112h24l95 1112h288z" />
+    <glyph glyph-name="W" unicode="W" horiz-adv-x="1026" 
+d="M1047 1365l-238 -1365h-196l-80 676h-40l-87 -676h-198l-228 1365h264l114 -726h11l84 726h120l78 -726h11l111 726h274z" />
+    <glyph glyph-name="X" unicode="X" horiz-adv-x="818" 
+d="M803 1365l-231 -641l259 -724h-289l-135 444l-134 -444h-287l258 724l-255 641h291l123 -430l112 430h288z" />
+    <glyph glyph-name="Y" unicode="Y" horiz-adv-x="789" 
+d="M802 1365l-255 -783v-582h-287v582l-272 783h290l123 -487l115 487h286z" />
+    <glyph glyph-name="Z" unicode="Z" horiz-adv-x="764" 
+d="M777 1140l-457 -887h395v-253h-556l-173 230l449 882h-344v253h498z" />
+    <glyph glyph-name="bracketleft" unicode="[" horiz-adv-x="662" 
+d="M607 1417v-153h-271v-1163h271v-153h-451v1469h451z" />
+    <glyph glyph-name="backslash" unicode="\" horiz-adv-x="659" 
+d="M-37 1405l94 40l639 -1485l-96 -39z" />
+    <glyph glyph-name="bracketright" unicode="]" horiz-adv-x="662" 
+d="M56 -52v153h271v1163h-271v153h451v-1469h-451z" />
+    <glyph glyph-name="asciicircum" unicode="^" horiz-adv-x="1024" 
+d="M297 721h-264l313 652h332l313 -652h-264l-215 450z" />
+    <glyph glyph-name="underscore" unicode="_" horiz-adv-x="1024" 
+d="M0 -110h1024v-218h-1024v218z" />
+    <glyph glyph-name="grave" unicode="`" horiz-adv-x="1024" 
+d="M400 1801l257 -283l-66 -83l-338 182l-23 85l82 112z" />
+    <glyph glyph-name="a" unicode="a" horiz-adv-x="816" 
+d="M844 0h-287l-32 253h-235l-29 -253h-288l207 1365h441zM495 511l-76 602h-39l-63 -602h178z" />
+    <glyph glyph-name="b" unicode="b" horiz-adv-x="893" 
+d="M807 1196v-363l-150 -134l174 -134v-360l-213 -205h-543v1365h543zM554 1112h-202v-293h202v293zM554 565h-202v-312h202v312z" />
+    <glyph glyph-name="c" unicode="c" horiz-adv-x="890" 
+d="M829 1160v-312h-277v264h-200v-859h200v330h277v-378l-209 -205h-333l-212 205v955l212 205h322z" />
+    <glyph glyph-name="d" unicode="d" horiz-adv-x="887" 
+d="M826 1160v-955l-210 -205h-541v1365h529zM549 1112h-197v-859h197v859z" />
+    <glyph glyph-name="e" unicode="e" horiz-adv-x="703" 
+d="M662 1365v-253h-310v-264h262v-253h-262v-342h310v-253h-587v1365h587z" />
+    <glyph glyph-name="f" unicode="f" horiz-adv-x="696" 
+d="M683 1365v-253h-321v-267h269v-253h-269v-592h-287v1365h608z" />
+    <glyph glyph-name="g" unicode="g" horiz-adv-x="885" 
+d="M823 1160v-296h-277v248h-198v-859h198v212h-111v253h388v-513l-218 -205h-327l-217 205v955l217 205h327z" />
+    <glyph glyph-name="h" unicode="h" horiz-adv-x="916" 
+d="M841 1365v-1365h-287v546h-192v-546h-287v1365h287v-565h192v565h287z" />
+    <glyph glyph-name="i" unicode="i" horiz-adv-x="437" 
+d="M362 1365v-1365h-287v1365h287z" />
+    <glyph glyph-name="j" unicode="j" horiz-adv-x="776" 
+d="M714 1365v-1160l-212 -205h-273l-215 205v341h277v-293h136v1112h287z" />
+    <glyph glyph-name="k" unicode="k" horiz-adv-x="899" 
+d="M352 1365v-624l224 624h300l-267 -637l301 -728h-314l-244 605v-605h-277v1365h277z" />
+    <glyph glyph-name="l" unicode="l" horiz-adv-x="689" 
+d="M362 1365v-1103h314v-262h-601v1365h287z" />
+    <glyph glyph-name="m" unicode="m" horiz-adv-x="1133" 
+d="M1058 1365v-1365h-259v1031h-15l-157 -1031h-113l-157 1031h-14v-1031h-268v1365h378l100 -643h39l98 643h368z" />
+    <glyph glyph-name="n" unicode="n" horiz-adv-x="928" 
+d="M853 1365v-1365h-255l-244 780l-4 -780h-275v1365h285l224 -731l3 731h266z" />
+    <glyph glyph-name="o" unicode="o" 
+d="M819 1160v-955l-204 -205h-336l-218 205v955l218 205h326zM542 1112h-194v-859h194v859z" />
+    <glyph glyph-name="p" unicode="p" horiz-adv-x="821" 
+d="M807 1160v-498l-218 -197h-237v-465h-277v1365h514zM530 1112h-178v-394h178v394z" />
+    <glyph glyph-name="q" unicode="q" horiz-adv-x="900" 
+d="M838 1160v-872l-155 -142h155v-146h-559l-218 205v955l218 205h338zM551 1112h-203v-859h203v859z" />
+    <glyph glyph-name="r" unicode="r" horiz-adv-x="893" 
+d="M820 1160v-347l-157 -135l168 -144v-534h-279v545h-200v-545h-277v1365h532zM552 1112h-200v-312h200v312z" />
+    <glyph glyph-name="s" unicode="s" horiz-adv-x="852" 
+d="M795 1160v-232h-274v184h-189v-284l259 -20l213 -201v-402l-213 -205h-330l-213 205v229h284v-181h195v292l-261 18l-211 204v393l211 205h314z" />
+    <glyph glyph-name="t" unicode="t" horiz-adv-x="696" 
+d="M683 1365v-268h-188v-1097h-287v1097h-194v268h669z" />
+    <glyph glyph-name="u" unicode="u" horiz-adv-x="893" 
+d="M831 1365v-1160l-211 -205h-335l-224 205v1160h287v-1112h196v1112h287z" />
+    <glyph glyph-name="v" unicode="v" horiz-adv-x="768" 
+d="M781 1365l-163 -1365h-456l-176 1365h286l102 -1112h24l95 1112h288z" />
+    <glyph glyph-name="w" unicode="w" horiz-adv-x="1026" 
+d="M1047 1365l-238 -1365h-196l-80 676h-40l-87 -676h-198l-228 1365h264l114 -726h11l84 726h120l78 -726h11l111 726h274z" />
+    <glyph glyph-name="x" unicode="x" horiz-adv-x="818" 
+d="M803 1365l-231 -641l259 -724h-289l-135 444l-134 -444h-287l258 724l-255 641h291l123 -430l112 430h288z" />
+    <glyph glyph-name="y" unicode="y" horiz-adv-x="789" 
+d="M802 1365l-255 -783v-582h-287v582l-272 783h290l123 -487l115 487h286z" />
+    <glyph glyph-name="z" unicode="z" horiz-adv-x="764" 
+d="M777 1140l-457 -887h395v-253h-556l-173 230l449 882h-344v253h498z" />
+    <glyph glyph-name="braceleft" unicode="{" horiz-adv-x="638" 
+d="M188 683l136 -127v-455h222v-153h-204l-198 227v381l-137 126l137 127v380l198 228h204v-153h-222v-455z" />
+    <glyph glyph-name="bar" unicode="|" horiz-adv-x="1024" 
+d="M362 1365h299v-1706h-299v1706z" />
+    <glyph glyph-name="braceright" unicode="}" horiz-adv-x="638" 
+d="M450 683l-136 126v455h-223v153h205l198 -227v-381l137 -126l-137 -126v-381l-198 -228h-205v153h223v455z" />
+    <glyph glyph-name="asciitilde" unicode="~" horiz-adv-x="1365" 
+d="M336 1134l-146 121q112 276 303 276q70 0 231 -70q90 -39 110 -45q28 -8 49 -8q83 0 151 129l145 -121q-40 -97 -73 -143q-95 -130 -247 -130q-40 0 -87 16q-35 11 -140 58q-103 45 -152 45q-75 0 -144 -128z" />
+    <glyph glyph-name="Tcaron" horiz-adv-x="696" 
+d="M683 1365v-268h-188v-1097h-287v1097h-194v268h669zM59 1760l290 -113l289 113l43 -84l-174 -186h-316l-174 186z" />
+    <glyph glyph-name="Zcaron" horiz-adv-x="764" 
+d="M777 1140l-457 -887h395v-253h-556l-173 230l449 882h-344v253h498zM92 1760l290 -113l289 113l43 -84l-174 -186h-316l-174 186z" />
+    <glyph glyph-name="Zacute" horiz-adv-x="764" 
+d="M777 1140l-457 -887h395v-253h-556l-173 230l449 882h-344v253h498zM494 1801l87 13l83 -112l-23 -85l-338 -182l-66 83z" />
+    <glyph glyph-name="tcaron" horiz-adv-x="696" 
+d="M683 1365v-268h-188v-1097h-287v1097h-194v268h669zM59 1760l290 -113l289 113l43 -84l-174 -186h-316l-174 186z" />
+    <glyph glyph-name="zcaron" horiz-adv-x="764" 
+d="M777 1140l-457 -887h395v-253h-556l-173 230l449 882h-344v253h498zM92 1760l290 -113l289 113l43 -84l-174 -186h-316l-174 186z" />
+    <glyph glyph-name="nbspace" unicode="&#xa0;" horiz-adv-x="512" 
+ />
+    <glyph glyph-name="caron" unicode="&#xa1;" horiz-adv-x="1024" 
+d="M222 1760l290 -113l289 113l43 -84l-174 -186h-316l-174 186z" />
+    <glyph glyph-name="breve" unicode="&#xa2;" horiz-adv-x="1024" 
+d="M322 1477l-120 133v149h157v-137h306v137h157v-149l-120 -133h-380z" />
+    <glyph glyph-name="Lslash" unicode="&#xa3;" horiz-adv-x="689" 
+d="M362 834l166 126v-205l-166 -124v-369h314v-262h-601v459l-75 -56v200l75 56v706h287v-531z" />
+    <glyph glyph-name="currency" unicode="&#xa4;" horiz-adv-x="1229" 
+d="M1058 549l-90 -90l189 -189l-129 -129l-190 189l-89 -90h-270l-89 90l-190 -189l-129 129l189 189l-90 90v268l90 89l-189 190l129 129l190 -189l89 90h270l89 -90l190 189l129 -129l-189 -190l90 -89v-268zM367 793v-220l137 -136h220l137 136v220l-137 136h-220z" />
+    <glyph glyph-name="Aogonek" unicode="&#xa5;" horiz-adv-x="816" 
+d="M844 0l-101 -119v-156h128v-109h-179l-75 75v206l104 103h-164l-33 253h-234l-29 -253h-288l206 1365h441zM494 511l-76 602h-38l-63 -602h177z" />
+    <glyph glyph-name="brokenbar" unicode="&#xa6;" horiz-adv-x="1024" 
+d="M362 1365h299v-718h-299v718zM362 314h299v-655h-299v655z" />
+    <glyph glyph-name="section" unicode="&#xa7;" 
+d="M98 1270l196 147h282l206 -147v-194h-277v138h-130v-188l407 -237v-211l-76 -89l76 -43v-349l-206 -149h-282l-196 149v192h277v-136h130v185l-407 218v233l77 88l-77 47v346zM608 673l-239 134l-96 -111l240 -135z" />
+    <glyph glyph-name="dieresis" unicode="&#xa8;" horiz-adv-x="1024" 
+d="M794 1744v-238h-238v238h238zM470 1744v-238h-239v238h239z" />
+    <glyph glyph-name="copyright" unicode="&#xa9;" horiz-adv-x="1506" 
+d="M1039 1365l405 -400v-566l-404 -399h-574l-405 399v566l405 400h573zM977 1221h-456l-303 -308v-462l303 -308h456l303 308v462zM982 961v-186h-174v149h-103v-469h103v185h174v-222l-125 -118h-199l-127 118v543l127 118h192z" />
+    <glyph glyph-name="Scedilla" unicode="&#xaa;" horiz-adv-x="852" 
+d="M795 1160v-232h-274v184h-189v-284l259 -20l213 -201v-402l-213 -205h-124v-55h68l58 -61v-212l-72 -72h-186v109h132v133h-41l-64 60v98h-101l-213 205v229h284v-181h195v292l-261 18l-211 204v393l211 205h314z" />
+    <glyph glyph-name="guillemotleft" unicode="&#xab;" horiz-adv-x="782" 
+d="M317 1144l86 -51l-101 -372l101 -374l-86 -50l-180 274v301zM615 1144l86 -51l-101 -372l101 -374l-86 -50l-180 274v301z" />
+    <glyph glyph-name="logicalnot" unicode="&#xac;" horiz-adv-x="1024" 
+d="M665 0v332h-597v261h887v-593h-290z" />
+    <glyph glyph-name="sfthyphen" unicode="&#xad;" horiz-adv-x="328" 
+d="M328 806v-177h-328v177h328z" />
+    <glyph glyph-name="registered" unicode="&#xae;" horiz-adv-x="1506" 
+d="M1039 1365l405 -400v-566l-404 -399h-574l-405 399v566l405 400h573zM977 1221h-456l-303 -308v-462l303 -308h456l303 308v462zM976 961v-202l-87 -72l94 -78v-309h-175v305h-104v-305h-174v779h319zM808 924h-104v-162h104v162z" />
+    <glyph glyph-name="Zdotaccent" unicode="&#xaf;" horiz-adv-x="764" 
+d="M777 1140l-457 -887h395v-253h-556l-173 230l449 882h-344v253h498zM501 1744v-238h-239v238h239z" />
+    <glyph glyph-name="degree" unicode="&#xb0;" horiz-adv-x="792" 
+d="M400 1392q133 0 232 -97q98 -96 98 -234t-98 -235t-236 -97q-139 0 -237 97t-98 234q0 140 98 235q101 97 241 97zM393 1265q-83 0 -143 -60q-61 -59 -61 -145q0 -85 61 -145q60 -60 146 -60q85 0 146 60q60 60 60 145q0 87 -60 145q-62 60 -149 60z" />
+    <glyph glyph-name="plusminus" unicode="&#xb1;" 
+d="M565 833h254v-218h-254v-261h-250v261h-254v218h254v261h250v-261zM819 279v-218h-758v218h758z" />
+    <glyph glyph-name="ogonek" unicode="&#xb2;" horiz-adv-x="1024" 
+d="M612 0l-101 -119v-156h128v-109h-179l-75 75v206l104 103h123z" />
+    <glyph glyph-name="lslash" unicode="&#xb3;" horiz-adv-x="689" 
+d="M362 834l166 126v-205l-166 -124v-369h314v-262h-601v459l-75 -56v200l75 56v706h287v-531z" />
+    <glyph glyph-name="acute" unicode="&#xb4;" horiz-adv-x="1024" 
+d="M624 1801l87 13l83 -112l-23 -85l-338 -182l-66 83z" />
+    <glyph glyph-name="mu" unicode="&#xb5;" horiz-adv-x="1024" 
+d="M66 -348v1331h252v-518q0 -79 7 -114q15 -73 75 -121q48 -40 110 -40q113 0 161 109q34 79 34 175v509h252v-983h-252v142q-63 -163 -200 -163q-78 0 -132 50q-26 24 -55 76v-453h-252z" />
+    <glyph glyph-name="paragraph" unicode="&#xb6;" 
+d="M289 -52v762h-124l-93 120v467l93 120h658v-205h-93v-1264h-160v1264h-121v-1264h-160z" />
+    <glyph glyph-name="middot" unicode="&#xb7;" horiz-adv-x="403" 
+d="M340 827v-265h-277v265h277z" />
+    <glyph glyph-name="cedilla" unicode="&#xb8;" horiz-adv-x="1024" 
+d="M553 0v-55h68l58 -61v-212l-73 -72h-185v109h132v133h-41l-64 60v98h105z" />
+    <glyph glyph-name="aogonek" unicode="&#xb9;" horiz-adv-x="816" 
+d="M844 0l-101 -119v-156h128v-109h-179l-75 75v206l104 103h-164l-33 253h-234l-29 -253h-288l206 1365h441zM494 511l-76 602h-38l-63 -602h177z" />
+    <glyph glyph-name="scedilla" unicode="&#xba;" horiz-adv-x="852" 
+d="M795 1160v-232h-274v184h-189v-284l259 -20l213 -201v-402l-213 -205h-124v-55h68l58 -61v-212l-72 -72h-186v109h132v133h-41l-64 60v98h-101l-213 205v229h284v-181h195v292l-261 18l-211 204v393l211 205h314z" />
+    <glyph glyph-name="guillemotright" unicode="&#xbb;" horiz-adv-x="782" 
+d="M466 1144l180 -272v-301l-180 -274l-86 50l101 374l-101 372zM168 1144l180 -272v-301l-180 -274l-86 50l101 374l-101 372z" />
+    <glyph glyph-name="Lcaron" unicode="&#xbc;" horiz-adv-x="689" 
+d="M362 1365v-1103h314v-262h-601v1365h287zM687 1365v-176l-144 -220l-89 59l83 117h-98v220h248z" />
+    <glyph glyph-name="hungarumlaut" unicode="&#xbd;" horiz-adv-x="1024" 
+d="M516 1784l78 -62l-19 -95l-221 -188l-77 63l145 248zM806 1784l77 -62l-19 -95l-221 -188l-77 63l146 248z" />
+    <glyph glyph-name="lcaron" unicode="&#xbe;" horiz-adv-x="689" 
+d="M362 1365v-1103h314v-262h-601v1365h287zM687 1365v-176l-144 -220l-89 59l83 117h-98v220h248z" />
+    <glyph glyph-name="zdotaccent" unicode="&#xbf;" horiz-adv-x="764" 
+d="M777 1140l-457 -887h395v-253h-556l-173 230l449 882h-344v253h498zM501 1744v-238h-239v238h239z" />
+    <glyph glyph-name="Racute" unicode="&#xc0;" horiz-adv-x="893" 
+d="M820 1160v-347l-157 -135l168 -144v-534h-279v545h-200v-545h-277v1365h532zM552 1112h-200v-312h200v312zM558 1801l87 13l83 -112l-23 -85l-338 -182l-66 83z" />
+    <glyph glyph-name="Aacute" unicode="&#xc1;" horiz-adv-x="816" 
+d="M844 0h-287l-32 253h-235l-29 -253h-288l207 1365h441zM495 511l-76 602h-39l-63 -602h178zM520 1801l87 13l83 -112l-23 -85l-338 -182l-66 83z" />
+    <glyph glyph-name="Acircumflex" unicode="&#xc2;" horiz-adv-x="816" 
+d="M844 0h-287l-32 253h-235l-29 -253h-288l207 1365h441zM495 511l-76 602h-39l-63 -602h178zM698 1490l-289 113l-290 -113l-42 84l174 186h315l175 -186z" />
+    <glyph glyph-name="Abreve" unicode="&#xc3;" horiz-adv-x="816" 
+d="M844 0h-287l-32 253h-235l-29 -253h-288l207 1365h441zM495 511l-76 602h-39l-63 -602h178zM219 1477l-120 133v149h157v-137h306v137h157v-149l-120 -133h-380z" />
+    <glyph glyph-name="Adieresis" unicode="&#xc4;" horiz-adv-x="816" 
+d="M844 0h-287l-32 253h-235l-29 -253h-288l207 1365h441zM495 511l-76 602h-39l-63 -602h178zM690 1744v-238h-238v238h238zM366 1744v-238h-239v238h239z" />
+    <glyph glyph-name="Lacute" unicode="&#xc5;" horiz-adv-x="689" 
+d="M363 1365v-1103h314v-262h-601v1365h287zM323 1801l87 13l83 -112l-23 -85l-338 -182l-66 83z" />
+    <glyph glyph-name="Cacute" unicode="&#xc6;" horiz-adv-x="890" 
+d="M829 1160v-312h-277v264h-200v-859h200v330h277v-378l-209 -205h-333l-212 205v955l212 205h322zM557 1801l87 13l83 -112l-23 -85l-338 -182l-66 83z" />
+    <glyph glyph-name="Ccedilla" unicode="&#xc7;" horiz-adv-x="877" 
+d="M815 1160v-312h-277v264h-200v-859h200v330h277v-378l-208 -205h-129v-55h69l57 -61v-212l-72 -72h-186v109h132v133h-40l-64 60v98h-101l-212 205v955l212 205h323z" />
+    <glyph glyph-name="Ccaron" unicode="&#xc8;" horiz-adv-x="890" 
+d="M829 1160v-312h-277v264h-200v-859h200v330h277v-378l-209 -205h-333l-212 205v955l212 205h322zM155 1760l290 -113l289 113l43 -84l-174 -186h-316l-174 186z" />
+    <glyph glyph-name="Eacute" unicode="&#xc9;" horiz-adv-x="703" 
+d="M662 1365v-253h-310v-264h262v-253h-262v-342h310v-253h-587v1365h587zM463 1801l87 13l83 -112l-23 -85l-338 -182l-66 83z" />
+    <glyph glyph-name="Eogonek" unicode="&#xca;" horiz-adv-x="703" 
+d="M662 0l-101 -119v-156h128v-109h-179l-75 75v206l104 103h-464v1365h587v-253h-310v-264h262v-253h-262v-342h310v-253z" />
+    <glyph glyph-name="Edieresis" unicode="&#xcb;" horiz-adv-x="703" 
+d="M662 1365v-253h-310v-264h262v-253h-262v-342h310v-253h-587v1365h587zM633 1744v-238h-238v238h238zM309 1744v-238h-239v238h239z" />
+    <glyph glyph-name="Ecaron" unicode="&#xcc;" horiz-adv-x="703" 
+d="M662 1365v-253h-310v-264h262v-253h-262v-342h310v-253h-587v1365h587zM62 1760l290 -113l289 113l43 -84l-174 -186h-316l-174 186z" />
+    <glyph glyph-name="Iacute" unicode="&#xcd;" horiz-adv-x="437" 
+d="M362 1365v-1365h-287v1365h287zM330 1801l87 13l83 -112l-23 -85l-338 -182l-66 83z" />
+    <glyph glyph-name="Icircumflex" unicode="&#xce;" horiz-adv-x="437" 
+d="M362 1365v-1365h-287v1365h287zM508 1490l-289 113l-290 -113l-42 84l174 186h315l175 -186z" />
+    <glyph glyph-name="Dcaron" unicode="&#xcf;" horiz-adv-x="887" 
+d="M826 1160v-955l-210 -205h-541v1365h529zM549 1112h-197v-859h197v859zM154 1760l290 -113l289 113l43 -84l-174 -186h-316l-174 186z" />
+    <glyph glyph-name="Dmacron" unicode="&#xd0;" horiz-adv-x="887" 
+d="M826 1160v-955l-210 -205h-541v614h-75v149h75v602h529zM549 1112h-197v-349h103v-149h-103v-361h197v859z" />
+    <glyph glyph-name="Nacute" unicode="&#xd1;" horiz-adv-x="928" 
+d="M853 1365v-1365h-255l-244 780l-4 -780h-275v1365h285l224 -731l3 731h266zM576 1801l87 13l83 -112l-23 -85l-338 -182l-66 83z" />
+    <glyph glyph-name="Ncaron" unicode="&#xd2;" horiz-adv-x="928" 
+d="M853 1365v-1365h-255l-244 780l-4 -780h-275v1365h285l224 -731l3 731h266zM174 1760l290 -113l289 113l43 -84l-174 -186h-316l-174 186z" />
+    <glyph glyph-name="Oacute" unicode="&#xd3;" 
+d="M819 1160v-955l-204 -205h-336l-218 205v955l218 205h326zM542 1112h-194v-859h194v859zM552 1801l87 13l83 -112l-23 -85l-338 -182l-66 83z" />
+    <glyph glyph-name="Ocircumflex" unicode="&#xd4;" 
+d="M819 1160v-955l-204 -205h-336l-218 205v955l218 205h326zM542 1112h-194v-859h194v859zM729 1490l-289 113l-290 -113l-42 84l174 186h315l175 -186z" />
+    <glyph glyph-name="Ohungarumlaut" unicode="&#xd5;" 
+d="M819 1160v-955l-204 -205h-336l-218 205v955l218 205h326zM542 1112h-194v-859h194v859zM444 1784l78 -62l-19 -95l-221 -188l-77 63l145 248zM734 1784l77 -62l-19 -95l-221 -188l-77 63l146 248z" />
+    <glyph glyph-name="Odieresis" unicode="&#xd6;" 
+d="M819 1160v-955l-204 -205h-336l-218 205v955l218 205h326zM542 1112h-194v-859h194v859zM722 1744v-238h-238v238h238zM398 1744v-238h-239v238h239z" />
+    <glyph glyph-name="multiply" unicode="&#xd7;" horiz-adv-x="880" 
+d="M595 696l203 -203l-154 -155l-204 204l-204 -204l-154 155l204 203l-204 204l154 155l204 -204l204 204l154 -155z" />
+    <glyph glyph-name="Rcaron" unicode="&#xd8;" horiz-adv-x="893" 
+d="M820 1160v-347l-157 -135l168 -144v-534h-279v545h-200v-545h-277v1365h532zM552 1112h-200v-312h200v312zM157 1760l290 -113l289 113l43 -84l-174 -186h-316l-174 186z" />
+    <glyph glyph-name="Uring" unicode="&#xd9;" horiz-adv-x="893" 
+d="M831 1365v-1160l-211 -205h-335l-224 205v1160h287v-1112h196v1112h287zM628 1709v-178l-94 -93h-179l-91 93v178l91 92h179zM524 1700h-158v-157h158v157z" />
+    <glyph glyph-name="Uacute" unicode="&#xda;" horiz-adv-x="893" 
+d="M831 1365v-1160l-211 -205h-335l-224 205v1160h287v-1112h196v1112h287zM558 1801l87 13l83 -112l-23 -85l-338 -182l-66 83z" />
+    <glyph glyph-name="Uhungarumlaut" unicode="&#xdb;" horiz-adv-x="893" 
+d="M831 1365v-1160l-211 -205h-335l-224 205v1160h287v-1112h196v1112h287zM450 1784l78 -62l-19 -95l-221 -188l-77 63l145 248zM740 1784l77 -62l-19 -95l-221 -188l-77 63l146 248z" />
+    <glyph glyph-name="Udieresis" unicode="&#xdc;" horiz-adv-x="893" 
+d="M831 1365v-1160l-211 -205h-335l-224 205v1160h287v-1112h196v1112h287zM728 1744v-238h-238v238h238zM404 1744v-238h-239v238h239z" />
+    <glyph glyph-name="Yacute" unicode="&#xdd;" horiz-adv-x="789" 
+d="M802 1365l-255 -783v-582h-287v582l-272 783h290l123 -487l115 487h286zM507 1801l87 13l83 -112l-23 -85l-338 -182l-66 83z" />
+    <glyph glyph-name="Tcommaaccent" unicode="&#xde;" horiz-adv-x="696" 
+d="M683 1365v-268h-188v-1097h-287v1097h-194v268h669zM472 -109v-176l-144 -220l-89 59l83 117h-98v220h248z" />
+    <glyph glyph-name="germandbls" unicode="&#xdf;" horiz-adv-x="1704" 
+d="M794 1160v-232h-274v184h-188v-284l259 -20l213 -201v-402l-213 -205h-330l-213 205v229h284v-181h195v292l-261 18l-211 204v393l211 205h313zM1647 1160v-232h-274v184h-189v-284l259 -20l213 -201v-402l-213 -205h-330l-213 205v229h284v-181h195v292l-261 18
+l-211 204v393l211 205h313z" />
+    <glyph glyph-name="racute" unicode="&#xe0;" horiz-adv-x="893" 
+d="M820 1160v-347l-157 -135l168 -144v-534h-279v545h-200v-545h-277v1365h532zM552 1112h-200v-312h200v312zM558 1801l87 13l83 -112l-23 -85l-338 -182l-66 83z" />
+    <glyph glyph-name="aacute" unicode="&#xe1;" horiz-adv-x="816" 
+d="M844 0h-287l-32 253h-235l-29 -253h-288l207 1365h441zM495 511l-76 602h-39l-63 -602h178zM520 1801l87 13l83 -112l-23 -85l-338 -182l-66 83z" />
+    <glyph glyph-name="acircumflex" unicode="&#xe2;" horiz-adv-x="816" 
+d="M844 0h-287l-32 253h-235l-29 -253h-288l207 1365h441zM495 511l-76 602h-39l-63 -602h178zM698 1490l-289 113l-290 -113l-42 84l174 186h315l175 -186z" />
+    <glyph glyph-name="abreve" unicode="&#xe3;" horiz-adv-x="816" 
+d="M844 0h-287l-32 253h-235l-29 -253h-288l207 1365h441zM495 511l-76 602h-39l-63 -602h178zM219 1477l-120 133v149h157v-137h306v137h157v-149l-120 -133h-380z" />
+    <glyph glyph-name="adieresis" unicode="&#xe4;" horiz-adv-x="816" 
+d="M844 0h-287l-32 253h-235l-29 -253h-288l207 1365h441zM495 511l-76 602h-39l-63 -602h178zM690 1744v-238h-238v238h238zM366 1744v-238h-239v238h239z" />
+    <glyph glyph-name="lacute" unicode="&#xe5;" horiz-adv-x="689" 
+d="M363 1365v-1103h314v-262h-601v1365h287zM323 1801l87 13l83 -112l-23 -85l-338 -182l-66 83z" />
+    <glyph glyph-name="cacute" unicode="&#xe6;" horiz-adv-x="890" 
+d="M829 1160v-312h-277v264h-200v-859h200v330h277v-378l-209 -205h-333l-212 205v955l212 205h322zM557 1801l87 13l83 -112l-23 -85l-338 -182l-66 83z" />
+    <glyph glyph-name="ccedilla" unicode="&#xe7;" horiz-adv-x="877" 
+d="M815 1160v-312h-277v264h-200v-859h200v330h277v-378l-208 -205h-129v-55h69l57 -61v-212l-72 -72h-186v109h132v133h-40l-64 60v98h-101l-212 205v955l212 205h323z" />
+    <glyph glyph-name="ccaron" unicode="&#xe8;" horiz-adv-x="890" 
+d="M829 1160v-312h-277v264h-200v-859h200v330h277v-378l-209 -205h-333l-212 205v955l212 205h322zM155 1760l290 -113l289 113l43 -84l-174 -186h-316l-174 186z" />
+    <glyph glyph-name="eacute" unicode="&#xe9;" horiz-adv-x="703" 
+d="M662 1365v-253h-310v-264h262v-253h-262v-342h310v-253h-587v1365h587zM463 1801l87 13l83 -112l-23 -85l-338 -182l-66 83z" />
+    <glyph glyph-name="eogonek" unicode="&#xea;" horiz-adv-x="703" 
+d="M662 0l-101 -119v-156h128v-109h-179l-75 75v206l104 103h-464v1365h587v-253h-310v-264h262v-253h-262v-342h310v-253z" />
+    <glyph glyph-name="edieresis" unicode="&#xeb;" horiz-adv-x="703" 
+d="M662 1365v-253h-310v-264h262v-253h-262v-342h310v-253h-587v1365h587zM633 1744v-238h-238v238h238zM309 1744v-238h-239v238h239z" />
+    <glyph glyph-name="ecaron" unicode="&#xec;" horiz-adv-x="703" 
+d="M662 1365v-253h-310v-264h262v-253h-262v-342h310v-253h-587v1365h587zM62 1760l290 -113l289 113l43 -84l-174 -186h-316l-174 186z" />
+    <glyph glyph-name="iacute" unicode="&#xed;" horiz-adv-x="437" 
+d="M362 1365v-1365h-287v1365h287zM330 1801l87 13l83 -112l-23 -85l-338 -182l-66 83z" />
+    <glyph glyph-name="icircumflex" unicode="&#xee;" horiz-adv-x="437" 
+d="M362 1365v-1365h-287v1365h287zM508 1490l-289 113l-290 -113l-42 84l174 186h315l175 -186z" />
+    <glyph glyph-name="dcaron" unicode="&#xef;" horiz-adv-x="887" 
+d="M826 1160v-955l-210 -205h-541v1365h529zM549 1112h-197v-859h197v859zM154 1760l290 -113l289 113l43 -84l-174 -186h-316l-174 186z" />
+    <glyph glyph-name="dmacron" unicode="&#xf0;" horiz-adv-x="887" 
+d="M826 1160v-955l-210 -205h-541v614h-75v149h75v602h529zM549 1112h-197v-349h103v-149h-103v-361h197v859z" />
+    <glyph glyph-name="nacute" unicode="&#xf1;" horiz-adv-x="928" 
+d="M853 1365v-1365h-255l-244 780l-4 -780h-275v1365h285l224 -731l3 731h266zM576 1801l87 13l83 -112l-23 -85l-338 -182l-66 83z" />
+    <glyph glyph-name="ncaron" unicode="&#xf2;" horiz-adv-x="928" 
+d="M853 1365v-1365h-255l-244 780l-4 -780h-275v1365h285l224 -731l3 731h266zM174 1760l290 -113l289 113l43 -84l-174 -186h-316l-174 186z" />
+    <glyph glyph-name="oacute" unicode="&#xf3;" 
+d="M819 1160v-955l-204 -205h-336l-218 205v955l218 205h326zM542 1112h-194v-859h194v859zM552 1801l87 13l83 -112l-23 -85l-338 -182l-66 83z" />
+    <glyph glyph-name="ocircumflex" unicode="&#xf4;" 
+d="M819 1160v-955l-204 -205h-336l-218 205v955l218 205h326zM542 1112h-194v-859h194v859zM729 1490l-289 113l-290 -113l-42 84l174 186h315l175 -186z" />
+    <glyph glyph-name="ohungarumlaut" unicode="&#xf5;" 
+d="M819 1160v-955l-204 -205h-336l-218 205v955l218 205h326zM542 1112h-194v-859h194v859zM444 1784l78 -62l-19 -95l-221 -188l-77 63l145 248zM734 1784l77 -62l-19 -95l-221 -188l-77 63l146 248z" />
+    <glyph glyph-name="odieresis" unicode="&#xf6;" 
+d="M819 1160v-955l-204 -205h-336l-218 205v955l218 205h326zM542 1112h-194v-859h194v859zM722 1744v-238h-238v238h238zM398 1744v-238h-239v238h239z" />
+    <glyph glyph-name="divide" unicode="&#xf7;" 
+d="M565 1143v-208h-251v208h251zM565 458v-208h-251v208h251zM819 806v-218h-758v218h758z" />
+    <glyph glyph-name="rcaron" unicode="&#xf8;" horiz-adv-x="893" 
+d="M820 1160v-347l-157 -135l168 -144v-534h-279v545h-200v-545h-277v1365h532zM552 1112h-200v-312h200v312zM157 1760l290 -113l289 113l43 -84l-174 -186h-316l-174 186z" />
+    <glyph glyph-name="uring" unicode="&#xf9;" horiz-adv-x="893" 
+d="M831 1365v-1160l-211 -205h-335l-224 205v1160h287v-1112h196v1112h287zM628 1709v-178l-94 -93h-179l-91 93v178l91 92h179zM524 1700h-158v-157h158v157z" />
+    <glyph glyph-name="uacute" unicode="&#xfa;" horiz-adv-x="893" 
+d="M831 1365v-1160l-211 -205h-335l-224 205v1160h287v-1112h196v1112h287zM558 1801l87 13l83 -112l-23 -85l-338 -182l-66 83z" />
+    <glyph glyph-name="uhungarumlaut" unicode="&#xfb;" horiz-adv-x="893" 
+d="M831 1365v-1160l-211 -205h-335l-224 205v1160h287v-1112h196v1112h287zM450 1784l78 -62l-19 -95l-221 -188l-77 63l145 248zM740 1784l77 -62l-19 -95l-221 -188l-77 63l146 248z" />
+    <glyph glyph-name="udieresis" unicode="&#xfc;" horiz-adv-x="893" 
+d="M831 1365v-1160l-211 -205h-335l-224 205v1160h287v-1112h196v1112h287zM728 1744v-238h-238v238h238zM404 1744v-238h-239v238h239z" />
+    <glyph glyph-name="yacute" unicode="&#xfd;" horiz-adv-x="789" 
+d="M802 1365l-255 -783v-582h-287v582l-272 783h290l123 -487l115 487h286zM507 1801l87 13l83 -112l-23 -85l-338 -182l-66 83z" />
+    <glyph glyph-name="tcommaaccent" unicode="&#xfe;" horiz-adv-x="696" 
+d="M683 1365v-268h-188v-1097h-287v1097h-194v268h669zM472 -109v-176l-144 -220l-89 59l83 117h-98v220h248z" />
+    <glyph glyph-name="dotaccent" unicode="&#xff;" horiz-adv-x="1024" 
+d="M632 1744v-238h-239v238h239z" />
+    <glyph glyph-name="Sacute" unicode="&#x152;" horiz-adv-x="852" 
+d="M795 1160v-232h-274v184h-189v-284l259 -20l213 -201v-402l-213 -205h-330l-213 205v229h284v-181h195v292l-261 18l-211 204v393l211 205h314zM538 1801l87 13l83 -112l-23 -85l-338 -182l-66 83z" />
+    <glyph glyph-name="sacute" unicode="&#x153;" horiz-adv-x="852" 
+d="M795 1160v-232h-274v184h-189v-284l259 -20l213 -201v-402l-213 -205h-330l-213 205v229h284v-181h195v292l-261 18l-211 204v393l211 205h314zM538 1801l87 13l83 -112l-23 -85l-338 -182l-66 83z" />
+    <glyph glyph-name="Scaron" unicode="&#x160;" horiz-adv-x="852" 
+d="M795 1160v-232h-274v184h-189v-284l259 -20l213 -201v-402l-213 -205h-330l-213 205v229h284v-181h195v292l-261 18l-211 204v393l211 205h314zM136 1760l290 -113l289 113l43 -84l-174 -186h-316l-174 186z" />
+    <glyph glyph-name="scaron" unicode="&#x161;" horiz-adv-x="852" 
+d="M795 1160v-232h-274v184h-189v-284l259 -20l213 -201v-402l-213 -205h-330l-213 205v229h284v-181h195v292l-261 18l-211 204v393l211 205h314zM136 1760l290 -113l289 113l43 -84l-174 -186h-316l-174 186z" />
+    <glyph glyph-name="zacute" unicode="&#x178;" horiz-adv-x="764" 
+d="M777 1140l-457 -887h395v-253h-556l-173 230l449 882h-344v253h498zM494 1801l87 13l83 -112l-23 -85l-338 -182l-66 83z" />
+    <glyph glyph-name="endash" unicode="&#x2013;" 
+d="M819 806v-177h-758v177h758z" />
+    <glyph glyph-name="emdash" unicode="&#x2014;" horiz-adv-x="983" 
+d="M983 806v-177h-983v177h983z" />
+    <glyph glyph-name="quoteleft" unicode="&#x2018;" horiz-adv-x="370" 
+d="M314 1177v-262h-259v224l153 253l106 -66l-108 -149h108z" />
+    <glyph glyph-name="quoteright" unicode="&#x2019;" horiz-adv-x="370" 
+d="M55 1103v262h259v-224l-153 -254l-106 67l108 149h-108z" />
+    <glyph glyph-name="quotesinglbase" unicode="&#x201a;" horiz-adv-x="370" 
+d="M55 1v262h259v-224l-153 -254l-106 66l108 150h-108z" />
+    <glyph glyph-name="quotedblleft" unicode="&#x201c;" horiz-adv-x="740" 
+d="M684 1177v-262h-259v224l153 253l106 -66l-108 -149h108zM314 1177v-262h-259v224l153 253l106 -66l-108 -149h108z" />
+    <glyph glyph-name="quotedblright" unicode="&#x201d;" horiz-adv-x="740" 
+d="M425 1103v262h259v-224l-153 -254l-106 67l108 149h-108zM55 1103v262h259v-224l-153 -254l-106 67l108 149h-108z" />
+    <glyph glyph-name="quotedblbase" unicode="&#x201e;" horiz-adv-x="740" 
+d="M425 0v264h259v-226l-153 -254l-106 66l108 150h-108zM55 0v264h259v-226l-153 -254l-106 66l108 150h-108z" />
+    <glyph glyph-name="dagger" unicode="&#x2020;" 
+d="M329 -52v941h-232v203h232v325h223v-325h232v-203h-232v-941h-223z" />
+    <glyph glyph-name="daggerdbl" unicode="&#x2021;" 
+d="M329 889h-232v203h232v325h223v-325h232v-203h-232v-392h232v-203h-232v-346h-223v346h-232v203h232v392z" />
+    <glyph glyph-name="bullet" unicode="&#x2022;" horiz-adv-x="1365" 
+d="M689 978q113 0 196 -83q84 -83 84 -201t-83 -201t-201 -83q-116 0 -199 82q-85 84 -85 202q0 121 84 202q86 82 204 82z" />
+    <glyph glyph-name="ellipsis" unicode="&#x2026;" horiz-adv-x="1208" 
+d="M340 265v-265h-277v265h277zM743 265v-265h-277v265h277zM1146 265v-265h-277v265h277z" />
+    <glyph glyph-name="perthousand" unicode="&#x2030;" horiz-adv-x="2327" 
+d="M643 1234v-591l-135 -130h-234l-137 130v591l137 131h234zM450 1189h-120v-500h120v500zM1127 1365l-428 -1365h-143l433 1365h138zM1547 721v-591l-137 -130h-232l-137 130v591l137 132h232zM1354 677h-120v-501h120v501zM2190 721v-591l-137 -130h-233l-137 130v591
+l137 132h233zM1997 677h-121v-501h121v501z" />
+    <glyph glyph-name="guilsinglleft" unicode="&#x2039;" horiz-adv-x="485" 
+d="M317 1144l86 -51l-101 -372l101 -374l-86 -50l-180 274v301z" />
+    <glyph glyph-name="guilsinglright" unicode="&#x203a;" horiz-adv-x="485" 
+d="M168 1144l180 -272v-301l-180 -274l-86 50l101 374l-101 372z" />
+    <glyph glyph-name="trademark" unicode="&#x2122;" horiz-adv-x="1061" 
+d="M402 1365v-164h-109v-614h-180v614h-113v164h402zM1024 1365v-778h-164l4 577l-91 -577h-77l-92 577l5 -577h-169v778h232l58 -360h11l56 360h227z" />
+    <glyph glyph-name="periodcentered" unicode="&#x2219;" horiz-adv-x="403" 
+d="M340 827v-265h-277v265h277z" />
+    <glyph glyph-name="Amacron" horiz-adv-x="816" 
+d="M844 0h-287l-32 253h-235l-29 -253h-288l207 1365h441zM495 511l-76 602h-39l-63 -602h178zM719 1698v-160h-620v160h620z" />
+    <glyph glyph-name="amacron" horiz-adv-x="816" 
+d="M844 0h-287l-32 253h-235l-29 -253h-288l207 1365h441zM495 511l-76 602h-39l-63 -602h178zM719 1698v-160h-620v160h620z" />
+    <glyph glyph-name="Emacron" horiz-adv-x="703" 
+d="M662 1365v-253h-310v-264h262v-253h-262v-342h310v-253h-587v1365h587zM662 1698v-160h-587v160h587z" />
+    <glyph glyph-name="emacron" horiz-adv-x="703" 
+d="M662 1365v-253h-310v-264h262v-253h-262v-342h310v-253h-587v1365h587zM662 1698v-160h-587v160h587z" />
+    <glyph glyph-name="Edotaccent" horiz-adv-x="703" 
+d="M662 1365v-253h-310v-264h262v-253h-262v-342h310v-253h-587v1365h587zM471 1744v-238h-239v238h239z" />
+    <glyph glyph-name="edotaccent" horiz-adv-x="703" 
+d="M662 1365v-253h-310v-264h262v-253h-262v-342h310v-253h-587v1365h587zM471 1744v-238h-239v238h239z" />
+    <glyph glyph-name="otilde" 
+d="M819 1160v-955l-204 -205h-336l-218 205v955l218 205h326zM542 1112h-194v-859h194v859zM763 1662l-263 -200l-145 114l-153 -114l-86 92l262 200l145 -116l153 116z" />
+    <glyph glyph-name="sterling" horiz-adv-x="998" 
+d="M922 1160v-312h-277v264h-213v-321h145v-149h-145v-389h242v338h277v-386l-210 -205h-686v253h104v389h-104v149h104v369l209 205h339z" />
+    <glyph glyph-name="gcommaaccent" horiz-adv-x="885" 
+d="M823 1160v-296h-277v248h-198v-859h198v212h-111v253h388v-513l-218 -205h-327l-217 205v955l217 205h327zM566 -109v-176l-144 -220l-89 59l83 117h-98v220h248z" />
+    <glyph glyph-name="Iogonek" horiz-adv-x="437" 
+d="M332 0l-101 -119v-156h128v-109h-179l-75 75v206l104 103h-134v1365h287v-1365h-30z" />
+    <glyph glyph-name="iogonek" horiz-adv-x="437" 
+d="M332 0l-101 -119v-156h128v-109h-179l-75 75v206l104 103h-134v1365h287v-1365h-30z" />
+    <glyph glyph-name="Imacron" horiz-adv-x="437" 
+d="M362 1365v-1365h-287v1365h287zM437 1698v-160h-437v160h437z" />
+    <glyph glyph-name="lessequal" horiz-adv-x="1024" 
+d="M955 1313v-279l-562 -184l562 -184v-278l-887 338v250zM955 333v-261h-887v261h887z" />
+    <glyph glyph-name="greaterequal" horiz-adv-x="1024" 
+d="M69 388v278l562 184l-563 184v279l887 -337v-250zM68 72v261h887v-261h-887z" />
+    <glyph glyph-name="imacron" horiz-adv-x="437" 
+d="M362 1365v-1365h-287v1365h287zM437 1698v-160h-437v160h437z" />
+    <glyph glyph-name="Kcommaaccent" horiz-adv-x="899" 
+d="M352 1365v-624l224 624h300l-267 -637l301 -728h-314l-244 605v-605h-277v1365h277zM573 -109v-176l-144 -220l-89 59l83 117h-98v220h248z" />
+    <glyph glyph-name="summation" horiz-adv-x="1365" 
+d="M1268 1536v-517h-255l-30 257h-598l498 -731l-495 -798h614l17 267h267v-526h-1217v299l479 757l-479 694v298h1199z" />
+    <glyph glyph-name="Lcommaaccent" horiz-adv-x="689" 
+d="M362 1365v-1103h314v-262h-601v1365h287zM468 -109v-176l-144 -220l-89 59l83 117h-98v220h248z" />
+    <glyph glyph-name="lcommaaccent" horiz-adv-x="689" 
+d="M362 1365v-1103h314v-262h-601v1365h287zM468 -109v-176l-144 -220l-89 59l83 117h-98v220h248z" />
+    <glyph glyph-name="Ncommaaccent" horiz-adv-x="928" 
+d="M853 1365v-1365h-255l-244 780l-4 -780h-275v1365h285l224 -731l3 731h266zM588 -109v-176l-144 -220l-89 59l83 117h-98v220h248z" />
+    <glyph glyph-name="ncommaaccent" horiz-adv-x="928" 
+d="M853 1365v-1365h-255l-244 780l-4 -780h-275v1365h285l224 -731l3 731h266zM588 -109v-176l-144 -220l-89 59l83 117h-98v220h248z" />
+    <glyph glyph-name="radical" horiz-adv-x="1365" 
+d="M1365 1693v-234h-349l-382 -1459h-326l-128 531h-180v234h340l60 -226q14 -50 46 -288h16q24 161 54 300.5t87 356.5l206 785h556z" />
+    <glyph glyph-name="Delta" horiz-adv-x="1323" 
+d="M16 0l497 1365h293l500 -1365h-1290zM376 245h564l-279 822z" />
+    <glyph glyph-name="glyph172" 
+ />
+    <glyph glyph-name="Otilde" 
+d="M819 1160v-955l-204 -205h-336l-218 205v955l218 205h326zM542 1112h-194v-859h194v859zM763 1662l-263 -200l-145 114l-153 -114l-86 92l262 200l145 -116l153 116z" />
+    <glyph glyph-name="Omacron" 
+d="M819 1160v-955l-204 -205h-336l-218 205v955l218 205h326zM542 1112h-194v-859h194v859zM750 1698v-160h-620v160h620z" />
+    <glyph glyph-name="lozenge" horiz-adv-x="1365" 
+d="M683 1419l531 -736l-531 -736l-532 736zM683 1238l-404 -555l404 -554l403 554z" />
+    <glyph glyph-name="omacron" 
+d="M819 1160v-955l-204 -205h-336l-218 205v955l218 205h326zM542 1112h-194v-859h194v859zM750 1698v-160h-620v160h620z" />
+    <glyph glyph-name="Rcommaaccent" horiz-adv-x="893" 
+d="M820 1160v-347l-157 -135l168 -144v-534h-279v545h-200v-545h-277v1365h532zM552 1112h-200v-312h200v312zM570 -109v-176l-144 -220l-89 59l83 117h-98v220h248z" />
+    <glyph glyph-name="rcommaaccent" horiz-adv-x="893" 
+d="M820 1160v-347l-157 -135l168 -144v-534h-279v545h-200v-545h-277v1365h532zM552 1112h-200v-312h200v312zM570 -109v-176l-144 -220l-89 59l83 117h-98v220h248z" />
+    <glyph glyph-name="Umacron" horiz-adv-x="893" 
+d="M831 1365v-1160l-211 -205h-335l-224 205v1160h287v-1112h196v1112h287zM756 1698v-160h-620v160h620z" />
+    <glyph glyph-name="umacron" horiz-adv-x="893" 
+d="M831 1365v-1160l-211 -205h-335l-224 205v1160h287v-1112h196v1112h287zM756 1698v-160h-620v160h620z" />
+    <glyph glyph-name="Uogonek" horiz-adv-x="893" 
+d="M831 1365v-1160l-312 -318v-162h128v-109h-179l-75 75v206l104 103h-212l-224 205v1160h287v-1112h196v1112h287z" />
+    <glyph glyph-name="uogonek" horiz-adv-x="893" 
+d="M831 1365v-1160l-312 -318v-162h128v-109h-179l-75 75v206l104 103h-212l-224 205v1160h287v-1112h196v1112h287z" />
+    <glyph glyph-name="kcommaaccent" horiz-adv-x="899" 
+d="M352 1365v-624l224 624h300l-267 -637l301 -728h-314l-244 605v-605h-277v1365h277zM573 -109v-176l-144 -220l-89 59l83 117h-98v220h248z" />
+    <glyph glyph-name="Gcommaaccent" horiz-adv-x="885" 
+d="M823 1160v-296h-277v248h-198v-859h198v212h-111v253h388v-513l-218 -205h-327l-217 205v955l217 205h327zM566 -109v-176l-144 -220l-89 59l83 117h-98v220h248z" />
+    <glyph glyph-name="glyph257" horiz-adv-x="1024" 
+d="M822 1698v-160h-620v160h620z" />
+    <glyph glyph-name="glyph258" horiz-adv-x="1024" 
+d="M854 1365v-176l-144 -220l-89 59l83 117h-98v220h248z" />
+    <glyph glyph-name="glyph259" horiz-adv-x="1024" 
+d="M835 1662l-263 -200l-145 114l-153 -114l-86 92l262 200l145 -116l153 116z" />
+    <glyph glyph-name="glyph260" horiz-adv-x="1024" 
+d="M801 1490l-289 113l-290 -113l-42 84l174 186h315l175 -186z" />
+    <glyph glyph-name="glyph261" horiz-adv-x="1024" 
+d="M636 -109v-176l-144 -220l-89 59l83 117h-98v220h248z" />
+    <glyph glyph-name="glyph262" horiz-adv-x="512" 
+ />
+    <hkern u1="&#x2c;" u2="&#x31;" k="56" />
+    <hkern u1="&#x2d;" u2="y" k="25" />
+    <hkern u1="&#x2d;" u2="w" k="-25" />
+    <hkern u1="&#x2d;" u2="v" k="-34" />
+    <hkern u1="&#x2d;" u2="t" k="35" />
+    <hkern u1="&#x2d;" u2="a" k="-28" />
+    <hkern u1="&#x2d;" u2="Y" k="25" />
+    <hkern u1="&#x2d;" u2="W" k="-25" />
+    <hkern u1="&#x2d;" u2="V" k="-34" />
+    <hkern u1="&#x2d;" u2="T" k="35" />
+    <hkern u1="&#x2d;" u2="A" k="-28" />
+    <hkern u1="&#x2e;" u2="&#x31;" k="50" />
+    <hkern u1="&#x32;" u2="&#x34;" k="35" />
+    <hkern u1="&#x34;" u2="&#x34;" k="-45" />
+    <hkern u1="&#x35;" u2="&#x34;" k="-24" />
+    <hkern u1="&#x37;" u2="&#x37;" k="-46" />
+    <hkern u1="&#x37;" u2="&#x36;" k="-22" />
+    <hkern u1="&#x37;" u2="&#x34;" k="51" />
+    <hkern u1="&#x37;" u2="&#x31;" k="-46" />
+    <hkern u1="&#x37;" u2="&#x2e;" k="114" />
+    <hkern u1="A" u2="&#x201d;" k="29" />
+    <hkern u1="A" u2="&#x2019;" k="29" />
+    <hkern u1="A" u2="&#xfe;" k="209" />
+    <hkern u1="A" u2="&#xfd;" k="221" />
+    <hkern u1="A" u2="&#xde;" k="209" />
+    <hkern u1="A" u2="&#xdd;" k="221" />
+    <hkern u1="A" u2="&#xab;" k="41" />
+    <hkern u1="A" u2="&#x9d;" k="105" />
+    <hkern u1="A" u2="&#x8d;" k="105" />
+    <hkern u1="A" u2="y" k="32" />
+    <hkern u1="A" u2="u" k="-27" />
+    <hkern u1="A" u2="q" k="-27" />
+    <hkern u1="A" u2="o" k="-27" />
+    <hkern u1="A" u2="j" k="-50" />
+    <hkern u1="A" u2="g" k="-27" />
+    <hkern u1="A" u2="Y" k="32" />
+    <hkern u1="A" u2="U" k="-27" />
+    <hkern u1="A" u2="Q" k="-27" />
+    <hkern u1="A" u2="O" k="-27" />
+    <hkern u1="A" u2="J" k="-50" />
+    <hkern u1="A" u2="G" k="-27" />
+    <hkern u1="A" u2="&#x2e;" k="-40" />
+    <hkern u1="A" u2="&#x2d;" k="-24" />
+    <hkern u1="A" u2="&#x2c;" k="-36" />
+    <hkern u1="B" u2="&#xf6;" k="86" />
+    <hkern u1="B" u2="&#xd6;" k="86" />
+    <hkern u1="C" u2="&#xf3;" k="154" />
+    <hkern u1="C" u2="&#xe4;" k="100" />
+    <hkern u1="C" u2="&#xd3;" k="154" />
+    <hkern u1="C" u2="&#xc4;" k="100" />
+    <hkern u1="C" u2="z" k="-35" />
+    <hkern u1="C" u2="a" k="-28" />
+    <hkern u1="C" u2="Z" k="-35" />
+    <hkern u1="C" u2="A" k="-28" />
+    <hkern u1="D" u2="&#xe4;" k="99" />
+    <hkern u1="D" u2="&#xc4;" k="99" />
+    <hkern u1="D" u2="w" k="-24" />
+    <hkern u1="D" u2="v" k="-24" />
+    <hkern u1="D" u2="a" k="-28" />
+    <hkern u1="D" u2="W" k="-24" />
+    <hkern u1="D" u2="V" k="-24" />
+    <hkern u1="D" u2="A" k="-28" />
+    <hkern u1="E" u2="&#xf6;" k="76" />
+    <hkern u1="E" u2="&#xf3;" k="144" />
+    <hkern u1="E" u2="&#xe8;" k="50" />
+    <hkern u1="E" u2="&#xd6;" k="76" />
+    <hkern u1="E" u2="&#xd3;" k="144" />
+    <hkern u1="E" u2="&#xc8;" k="50" />
+    <hkern u1="F" u2="&#xf6;" k="61" />
+    <hkern u1="F" u2="&#xe4;" k="132" />
+    <hkern u1="F" u2="&#xe3;" k="117" />
+    <hkern u1="F" u2="&#xe2;" k="106" />
+    <hkern u1="F" u2="&#xe1;" k="200" />
+    <hkern u1="F" u2="&#xd6;" k="61" />
+    <hkern u1="F" u2="&#xc4;" k="132" />
+    <hkern u1="F" u2="&#xc3;" k="117" />
+    <hkern u1="F" u2="&#xc2;" k="106" />
+    <hkern u1="F" u2="&#xc1;" k="200" />
+    <hkern u1="F" u2="o" k="-23" />
+    <hkern u1="F" u2="O" k="-23" />
+    <hkern u1="F" u2="&#x2e;" k="117" />
+    <hkern u1="F" u2="&#x2d;" k="-30" />
+    <hkern u1="F" u2="&#x2c;" k="122" />
+    <hkern u1="G" u2="&#xe4;" k="100" />
+    <hkern u1="G" u2="&#xc4;" k="100" />
+    <hkern u1="G" u2="w" k="-23" />
+    <hkern u1="G" u2="v" k="-23" />
+    <hkern u1="G" u2="a" k="-27" />
+    <hkern u1="G" u2="W" k="-23" />
+    <hkern u1="G" u2="V" k="-23" />
+    <hkern u1="G" u2="A" k="-27" />
+    <hkern u1="J" u2="&#xe4;" k="100" />
+    <hkern u1="J" u2="&#xc4;" k="100" />
+    <hkern u1="J" u2="a" k="-28" />
+    <hkern u1="J" u2="A" k="-28" />
+    <hkern u1="K" u2="&#xf6;" k="90" />
+    <hkern u1="K" u2="&#xf3;" k="158" />
+    <hkern u1="K" u2="&#xd6;" k="90" />
+    <hkern u1="K" u2="&#xd3;" k="158" />
+    <hkern u1="K" u2="t" k="-40" />
+    <hkern u1="K" u2="T" k="-40" />
+    <hkern u1="K" u2="&#x2d;" k="55" />
+    <hkern u1="L" u2="&#x201d;" k="122" />
+    <hkern u1="L" u2="&#x2019;" k="122" />
+    <hkern u1="L" u2="&#xfe;" k="237" />
+    <hkern u1="L" u2="&#xfd;" k="266" />
+    <hkern u1="L" u2="&#xfc;" k="62" />
+    <hkern u1="L" u2="&#xf6;" k="62" />
+    <hkern u1="L" u2="&#xf3;" k="130" />
+    <hkern u1="L" u2="&#xe8;" k="36" />
+    <hkern u1="L" u2="&#xde;" k="237" />
+    <hkern u1="L" u2="&#xdd;" k="266" />
+    <hkern u1="L" u2="&#xdc;" k="62" />
+    <hkern u1="L" u2="&#xd6;" k="62" />
+    <hkern u1="L" u2="&#xd3;" k="130" />
+    <hkern u1="L" u2="&#xc8;" k="36" />
+    <hkern u1="L" u2="&#x9d;" k="133" />
+    <hkern u1="L" u2="&#x8d;" k="133" />
+    <hkern u1="L" u2="y" k="77" />
+    <hkern u1="L" u2="w" k="27" />
+    <hkern u1="L" u2="u" k="-22" />
+    <hkern u1="L" u2="t" k="50" />
+    <hkern u1="L" u2="o" k="-22" />
+    <hkern u1="L" u2="g" k="-22" />
+    <hkern u1="L" u2="Y" k="77" />
+    <hkern u1="L" u2="W" k="27" />
+    <hkern u1="L" u2="U" k="-22" />
+    <hkern u1="L" u2="T" k="50" />
+    <hkern u1="L" u2="&#x2d;" k="82" />
+    <hkern u1="N" u2="&#xe4;" k="92" />
+    <hkern u1="N" u2="&#xc4;" k="92" />
+    <hkern u1="N" u2="a" k="-35" />
+    <hkern u1="N" u2="A" k="-35" />
+    <hkern u1="O" u2="&#xe4;" k="100" />
+    <hkern u1="O" u2="&#xc4;" k="100" />
+    <hkern u1="O" u2="z" k="-34" />
+    <hkern u1="O" u2="w" k="-23" />
+    <hkern u1="O" u2="v" k="-23" />
+    <hkern u1="O" u2="a" k="-27" />
+    <hkern u1="O" u2="Z" k="-34" />
+    <hkern u1="O" u2="W" k="-23" />
+    <hkern u1="O" u2="V" k="-23" />
+    <hkern u1="O" u2="A" k="-27" />
+    <hkern u1="P" u2="&#xe4;" k="112" />
+    <hkern u1="P" u2="&#xe3;" k="97" />
+    <hkern u1="P" u2="&#xe2;" k="86" />
+    <hkern u1="P" u2="&#xe1;" k="180" />
+    <hkern u1="P" u2="&#xc4;" k="112" />
+    <hkern u1="P" u2="&#xc3;" k="97" />
+    <hkern u1="P" u2="&#xc2;" k="86" />
+    <hkern u1="P" u2="&#xc1;" k="180" />
+    <hkern u1="P" u2="y" k="-25" />
+    <hkern u1="P" u2="Y" k="-25" />
+    <hkern u1="P" u2="&#x2e;" k="122" />
+    <hkern u1="P" u2="&#x2d;" k="-55" />
+    <hkern u1="P" u2="&#x2c;" k="136" />
+    <hkern u1="R" u2="&#xfe;" k="170" />
+    <hkern u1="R" u2="&#xfd;" k="192" />
+    <hkern u1="R" u2="&#xfc;" k="86" />
+    <hkern u1="R" u2="&#xf6;" k="86" />
+    <hkern u1="R" u2="&#xf3;" k="154" />
+    <hkern u1="R" u2="&#xde;" k="170" />
+    <hkern u1="R" u2="&#xdd;" k="192" />
+    <hkern u1="R" u2="&#xdc;" k="86" />
+    <hkern u1="R" u2="&#xd6;" k="86" />
+    <hkern u1="R" u2="&#xd3;" k="154" />
+    <hkern u1="R" u2="&#x9d;" k="66" />
+    <hkern u1="R" u2="&#x8d;" k="66" />
+    <hkern u1="S" u2="&#xe4;" k="94" />
+    <hkern u1="S" u2="&#xc4;" k="94" />
+    <hkern u1="S" u2="w" k="-26" />
+    <hkern u1="S" u2="v" k="-26" />
+    <hkern u1="S" u2="t" k="-24" />
+    <hkern u1="S" u2="j" k="-28" />
+    <hkern u1="S" u2="a" k="-34" />
+    <hkern u1="S" u2="W" k="-26" />
+    <hkern u1="S" u2="V" k="-26" />
+    <hkern u1="S" u2="T" k="-24" />
+    <hkern u1="S" u2="J" k="-28" />
+    <hkern u1="S" u2="A" k="-34" />
+    <hkern u1="T" u2="&#xf6;" k="61" />
+    <hkern u1="T" u2="&#xf5;" k="84" />
+    <hkern u1="T" u2="&#xf3;" k="129" />
+    <hkern u1="T" u2="&#xe4;" k="144" />
+    <hkern u1="T" u2="&#xe3;" k="130" />
+    <hkern u1="T" u2="&#xe2;" k="118" />
+    <hkern u1="T" u2="&#xe1;" k="212" />
+    <hkern u1="T" u2="&#xd6;" k="61" />
+    <hkern u1="T" u2="&#xd5;" k="84" />
+    <hkern u1="T" u2="&#xd3;" k="129" />
+    <hkern u1="T" u2="&#xc4;" k="144" />
+    <hkern u1="T" u2="&#xc3;" k="130" />
+    <hkern u1="T" u2="&#xc2;" k="118" />
+    <hkern u1="T" u2="&#xc1;" k="212" />
+    <hkern u1="T" u2="&#xab;" k="89" />
+    <hkern u1="T" u2="y" k="-58" />
+    <hkern u1="T" u2="w" k="-63" />
+    <hkern u1="T" u2="v" k="-60" />
+    <hkern u1="T" u2="s" k="-25" />
+    <hkern u1="T" u2="o" k="-23" />
+    <hkern u1="T" u2="j" k="47" />
+    <hkern u1="T" u2="g" k="-23" />
+    <hkern u1="T" u2="Y" k="-58" />
+    <hkern u1="T" u2="W" k="-63" />
+    <hkern u1="T" u2="V" k="-60" />
+    <hkern u1="T" u2="S" k="-25" />
+    <hkern u1="T" u2="O" k="-23" />
+    <hkern u1="T" u2="J" k="47" />
+    <hkern u1="T" u2="G" k="-23" />
+    <hkern u1="T" u2="&#x3b;" k="75" />
+    <hkern u1="T" u2="&#x3a;" k="71" />
+    <hkern u1="T" u2="&#x2e;" k="64" />
+    <hkern u1="T" u2="&#x2d;" k="31" />
+    <hkern u1="T" u2="&#x2c;" k="70" />
+    <hkern u1="U" u2="&#xe4;" k="100" />
+    <hkern u1="U" u2="&#xc4;" k="100" />
+    <hkern u1="U" u2="a" k="-28" />
+    <hkern u1="U" u2="A" k="-28" />
+    <hkern u1="V" u2="&#xf6;" k="60" />
+    <hkern u1="V" u2="&#xf5;" k="83" />
+    <hkern u1="V" u2="&#xf4;" k="35" />
+    <hkern u1="V" u2="&#xf3;" k="128" />
+    <hkern u1="V" u2="&#xe4;" k="129" />
+    <hkern u1="V" u2="&#xe3;" k="115" />
+    <hkern u1="V" u2="&#xe2;" k="104" />
+    <hkern u1="V" u2="&#xe1;" k="197" />
+    <hkern u1="V" u2="&#xd6;" k="60" />
+    <hkern u1="V" u2="&#xd5;" k="83" />
+    <hkern u1="V" u2="&#xd4;" k="35" />
+    <hkern u1="V" u2="&#xd3;" k="128" />
+    <hkern u1="V" u2="&#xc4;" k="129" />
+    <hkern u1="V" u2="&#xc3;" k="115" />
+    <hkern u1="V" u2="&#xc2;" k="104" />
+    <hkern u1="V" u2="&#xc1;" k="197" />
+    <hkern u1="V" u2="&#xab;" k="31" />
+    <hkern u1="V" u2="t" k="-58" />
+    <hkern u1="V" u2="s" k="-26" />
+    <hkern u1="V" u2="o" k="-24" />
+    <hkern u1="V" u2="g" k="-24" />
+    <hkern u1="V" u2="T" k="-58" />
+    <hkern u1="V" u2="S" k="-26" />
+    <hkern u1="V" u2="O" k="-24" />
+    <hkern u1="V" u2="G" k="-24" />
+    <hkern u1="V" u2="&#x2e;" k="25" />
+    <hkern u1="V" u2="&#x2d;" k="-36" />
+    <hkern u1="V" u2="&#x2c;" k="31" />
+    <hkern u1="W" u2="&#xf6;" k="62" />
+    <hkern u1="W" u2="&#xf5;" k="85" />
+    <hkern u1="W" u2="&#xf4;" k="36" />
+    <hkern u1="W" u2="&#xf3;" k="130" />
+    <hkern u1="W" u2="&#xe4;" k="144" />
+    <hkern u1="W" u2="&#xe3;" k="130" />
+    <hkern u1="W" u2="&#xe2;" k="119" />
+    <hkern u1="W" u2="&#xe1;" k="212" />
+    <hkern u1="W" u2="&#xd6;" k="62" />
+    <hkern u1="W" u2="&#xd5;" k="85" />
+    <hkern u1="W" u2="&#xd4;" k="36" />
+    <hkern u1="W" u2="&#xd3;" k="130" />
+    <hkern u1="W" u2="&#xc4;" k="144" />
+    <hkern u1="W" u2="&#xc3;" k="130" />
+    <hkern u1="W" u2="&#xc2;" k="119" />
+    <hkern u1="W" u2="&#xc1;" k="212" />
+    <hkern u1="W" u2="&#xab;" k="39" />
+    <hkern u1="W" u2="y" k="-74" />
+    <hkern u1="W" u2="t" k="-62" />
+    <hkern u1="W" u2="s" k="-25" />
+    <hkern u1="W" u2="o" k="-22" />
+    <hkern u1="W" u2="g" k="-22" />
+    <hkern u1="W" u2="Y" k="-74" />
+    <hkern u1="W" u2="T" k="-62" />
+    <hkern u1="W" u2="S" k="-25" />
+    <hkern u1="W" u2="O" k="-22" />
+    <hkern u1="W" u2="G" k="-22" />
+    <hkern u1="W" u2="&#x2e;" k="53" />
+    <hkern u1="W" u2="&#x2d;" k="-22" />
+    <hkern u1="W" u2="&#x2c;" k="58" />
+    <hkern u1="X" u2="&#x2d;" k="38" />
+    <hkern u1="Y" u2="&#xf6;" k="80" />
+    <hkern u1="Y" u2="&#xe4;" k="151" />
+    <hkern u1="Y" u2="&#xe3;" k="136" />
+    <hkern u1="Y" u2="&#xe2;" k="125" />
+    <hkern u1="Y" u2="&#xe1;" k="219" />
+    <hkern u1="Y" u2="&#xd6;" k="80" />
+    <hkern u1="Y" u2="&#xc4;" k="151" />
+    <hkern u1="Y" u2="&#xc3;" k="136" />
+    <hkern u1="Y" u2="&#xc2;" k="125" />
+    <hkern u1="Y" u2="&#xc1;" k="219" />
+    <hkern u1="Y" u2="&#xb9;" k="22" />
+    <hkern u1="Y" u2="&#xab;" k="79" />
+    <hkern u1="Y" u2="&#xa5;" k="22" />
+    <hkern u1="Y" u2="w" k="-75" />
+    <hkern u1="Y" u2="t" k="-58" />
+    <hkern u1="Y" u2="j" k="68" />
+    <hkern u1="Y" u2="a" k="22" />
+    <hkern u1="Y" u2="W" k="-75" />
+    <hkern u1="Y" u2="T" k="-58" />
+    <hkern u1="Y" u2="J" k="68" />
+    <hkern u1="Y" u2="A" k="22" />
+    <hkern u1="Y" u2="&#x3b;" k="40" />
+    <hkern u1="Y" u2="&#x3a;" k="32" />
+    <hkern u1="Y" u2="&#x2e;" k="85" />
+    <hkern u1="Y" u2="&#x2c;" k="90" />
+    <hkern u1="Z" u2="&#xf3;" k="118" />
+    <hkern u1="Z" u2="&#xd3;" k="118" />
+    <hkern u1="Z" u2="o" k="-34" />
+    <hkern u1="Z" u2="O" k="-34" />
+    <hkern u1="a" u2="&#x201d;" k="29" />
+    <hkern u1="a" u2="&#x2019;" k="29" />
+    <hkern u1="a" u2="&#xfe;" k="209" />
+    <hkern u1="a" u2="&#xfd;" k="221" />
+    <hkern u1="a" u2="&#xde;" k="209" />
+    <hkern u1="a" u2="&#xdd;" k="221" />
+    <hkern u1="a" u2="&#xab;" k="41" />
+    <hkern u1="a" u2="&#x9d;" k="105" />
+    <hkern u1="a" u2="&#x8d;" k="105" />
+    <hkern u1="a" u2="y" k="32" />
+    <hkern u1="a" u2="u" k="-27" />
+    <hkern u1="a" u2="t" k="22" />
+    <hkern u1="a" u2="q" k="-27" />
+    <hkern u1="a" u2="o" k="-27" />
+    <hkern u1="a" u2="j" k="-50" />
+    <hkern u1="a" u2="g" k="-27" />
+    <hkern u1="a" u2="Y" k="32" />
+    <hkern u1="a" u2="U" k="-27" />
+    <hkern u1="a" u2="T" k="22" />
+    <hkern u1="a" u2="Q" k="-27" />
+    <hkern u1="a" u2="O" k="-27" />
+    <hkern u1="a" u2="J" k="-50" />
+    <hkern u1="a" u2="G" k="-27" />
+    <hkern u1="a" u2="&#x2e;" k="-40" />
+    <hkern u1="a" u2="&#x2d;" k="-24" />
+    <hkern u1="a" u2="&#x2c;" k="-36" />
+    <hkern u1="b" u2="&#xf6;" k="86" />
+    <hkern u1="b" u2="&#xd6;" k="86" />
+    <hkern u1="c" u2="&#xf3;" k="154" />
+    <hkern u1="c" u2="&#xe4;" k="100" />
+    <hkern u1="c" u2="&#xd3;" k="154" />
+    <hkern u1="c" u2="&#xc4;" k="100" />
+    <hkern u1="c" u2="z" k="-35" />
+    <hkern u1="c" u2="j" k="-22" />
+    <hkern u1="c" u2="a" k="-28" />
+    <hkern u1="c" u2="Z" k="-35" />
+    <hkern u1="c" u2="J" k="-22" />
+    <hkern u1="c" u2="A" k="-28" />
+    <hkern u1="d" u2="&#xe4;" k="99" />
+    <hkern u1="d" u2="&#xc4;" k="99" />
+    <hkern u1="d" u2="w" k="-24" />
+    <hkern u1="d" u2="v" k="-24" />
+    <hkern u1="d" u2="t" k="-22" />
+    <hkern u1="d" u2="j" k="-22" />
+    <hkern u1="d" u2="a" k="-28" />
+    <hkern u1="d" u2="W" k="-24" />
+    <hkern u1="d" u2="V" k="-24" />
+    <hkern u1="d" u2="T" k="-22" />
+    <hkern u1="d" u2="J" k="-22" />
+    <hkern u1="d" u2="A" k="-28" />
+    <hkern u1="e" u2="&#xf6;" k="76" />
+    <hkern u1="e" u2="&#xf3;" k="144" />
+    <hkern u1="e" u2="&#xe8;" k="50" />
+    <hkern u1="e" u2="&#xd6;" k="76" />
+    <hkern u1="e" u2="&#xd3;" k="144" />
+    <hkern u1="e" u2="&#xc8;" k="50" />
+    <hkern u1="f" u2="&#xf6;" k="61" />
+    <hkern u1="f" u2="&#xe4;" k="132" />
+    <hkern u1="f" u2="&#xe3;" k="117" />
+    <hkern u1="f" u2="&#xe2;" k="106" />
+    <hkern u1="f" u2="&#xe1;" k="200" />
+    <hkern u1="f" u2="&#xd6;" k="61" />
+    <hkern u1="f" u2="&#xc4;" k="132" />
+    <hkern u1="f" u2="&#xc3;" k="117" />
+    <hkern u1="f" u2="&#xc2;" k="106" />
+    <hkern u1="f" u2="&#xc1;" k="200" />
+    <hkern u1="f" u2="o" k="-23" />
+    <hkern u1="f" u2="O" k="-23" />
+    <hkern u1="f" u2="&#x2e;" k="117" />
+    <hkern u1="f" u2="&#x2d;" k="-30" />
+    <hkern u1="f" u2="&#x2c;" k="122" />
+    <hkern u1="g" u2="&#xe4;" k="100" />
+    <hkern u1="g" u2="&#xc4;" k="100" />
+    <hkern u1="g" u2="w" k="-23" />
+    <hkern u1="g" u2="v" k="-23" />
+    <hkern u1="g" u2="a" k="-27" />
+    <hkern u1="g" u2="W" k="-23" />
+    <hkern u1="g" u2="V" k="-23" />
+    <hkern u1="g" u2="A" k="-27" />
+    <hkern u1="j" u2="&#xe4;" k="100" />
+    <hkern u1="j" u2="&#xc4;" k="100" />
+    <hkern u1="j" u2="a" k="-28" />
+    <hkern u1="j" u2="A" k="-28" />
+    <hkern u1="k" u2="&#xf6;" k="90" />
+    <hkern u1="k" u2="&#xf3;" k="158" />
+    <hkern u1="k" u2="&#xd6;" k="90" />
+    <hkern u1="k" u2="&#xd3;" k="158" />
+    <hkern u1="k" u2="t" k="-40" />
+    <hkern u1="k" u2="T" k="-40" />
+    <hkern u1="k" u2="&#x2d;" k="55" />
+    <hkern u1="l" u2="&#x201d;" k="122" />
+    <hkern u1="l" u2="&#x2019;" k="122" />
+    <hkern u1="l" u2="&#xfe;" k="237" />
+    <hkern u1="l" u2="&#xfd;" k="266" />
+    <hkern u1="l" u2="&#xfc;" k="62" />
+    <hkern u1="l" u2="&#xf6;" k="62" />
+    <hkern u1="l" u2="&#xf3;" k="130" />
+    <hkern u1="l" u2="&#xe8;" k="36" />
+    <hkern u1="l" u2="&#xde;" k="237" />
+    <hkern u1="l" u2="&#xdd;" k="266" />
+    <hkern u1="l" u2="&#xdc;" k="62" />
+    <hkern u1="l" u2="&#xd6;" k="62" />
+    <hkern u1="l" u2="&#xd3;" k="130" />
+    <hkern u1="l" u2="&#xc8;" k="36" />
+    <hkern u1="l" u2="&#x9d;" k="133" />
+    <hkern u1="l" u2="&#x8d;" k="133" />
+    <hkern u1="l" u2="y" k="77" />
+    <hkern u1="l" u2="w" k="27" />
+    <hkern u1="l" u2="u" k="-22" />
+    <hkern u1="l" u2="t" k="50" />
+    <hkern u1="l" u2="o" k="-22" />
+    <hkern u1="l" u2="g" k="-22" />
+    <hkern u1="l" u2="Y" k="77" />
+    <hkern u1="l" u2="W" k="27" />
+    <hkern u1="l" u2="U" k="-22" />
+    <hkern u1="l" u2="T" k="50" />
+    <hkern u1="l" u2="O" k="-22" />
+    <hkern u1="l" u2="G" k="-22" />
+    <hkern u1="l" u2="&#x2d;" k="82" />
+    <hkern u1="n" u2="&#xe4;" k="92" />
+    <hkern u1="n" u2="&#xc4;" k="92" />
+    <hkern u1="n" u2="a" k="-35" />
+    <hkern u1="n" u2="A" k="-35" />
+    <hkern u1="o" u2="&#xe4;" k="100" />
+    <hkern u1="o" u2="&#xc4;" k="100" />
+    <hkern u1="o" u2="z" k="-34" />
+    <hkern u1="o" u2="w" k="-23" />
+    <hkern u1="o" u2="v" k="-23" />
+    <hkern u1="o" u2="a" k="-27" />
+    <hkern u1="o" u2="Z" k="-34" />
+    <hkern u1="o" u2="W" k="-23" />
+    <hkern u1="o" u2="V" k="-23" />
+    <hkern u1="o" u2="A" k="-27" />
+    <hkern u1="p" u2="&#xe4;" k="112" />
+    <hkern u1="p" u2="&#xe3;" k="97" />
+    <hkern u1="p" u2="&#xe2;" k="86" />
+    <hkern u1="p" u2="&#xe1;" k="180" />
+    <hkern u1="p" u2="&#xc4;" k="112" />
+    <hkern u1="p" u2="&#xc3;" k="97" />
+    <hkern u1="p" u2="&#xc2;" k="86" />
+    <hkern u1="p" u2="&#xc1;" k="180" />
+    <hkern u1="p" u2="y" k="-25" />
+    <hkern u1="p" u2="Y" k="-25" />
+    <hkern u1="p" u2="&#x2e;" k="122" />
+    <hkern u1="p" u2="&#x2d;" k="-55" />
+    <hkern u1="p" u2="&#x2c;" k="136" />
+    <hkern u1="r" u2="&#xfe;" k="170" />
+    <hkern u1="r" u2="&#xfd;" k="192" />
+    <hkern u1="r" u2="&#xfc;" k="86" />
+    <hkern u1="r" u2="&#xf6;" k="86" />
+    <hkern u1="r" u2="&#xf3;" k="154" />
+    <hkern u1="r" u2="&#xde;" k="170" />
+    <hkern u1="r" u2="&#xdd;" k="192" />
+    <hkern u1="r" u2="&#xdc;" k="86" />
+    <hkern u1="r" u2="&#xd6;" k="86" />
+    <hkern u1="r" u2="&#xd3;" k="154" />
+    <hkern u1="r" u2="&#x9d;" k="66" />
+    <hkern u1="r" u2="&#x8d;" k="66" />
+    <hkern u1="s" u2="&#xe4;" k="94" />
+    <hkern u1="s" u2="&#xc4;" k="94" />
+    <hkern u1="s" u2="w" k="-26" />
+    <hkern u1="s" u2="v" k="-26" />
+    <hkern u1="s" u2="t" k="-24" />
+    <hkern u1="s" u2="j" k="-28" />
+    <hkern u1="s" u2="a" k="-34" />
+    <hkern u1="s" u2="W" k="-26" />
+    <hkern u1="s" u2="V" k="-26" />
+    <hkern u1="s" u2="T" k="-24" />
+    <hkern u1="s" u2="J" k="-28" />
+    <hkern u1="s" u2="A" k="-34" />
+    <hkern u1="t" u2="&#xf6;" k="61" />
+    <hkern u1="t" u2="&#xf5;" k="84" />
+    <hkern u1="t" u2="&#xf3;" k="129" />
+    <hkern u1="t" u2="&#xe4;" k="144" />
+    <hkern u1="t" u2="&#xe3;" k="130" />
+    <hkern u1="t" u2="&#xe2;" k="118" />
+    <hkern u1="t" u2="&#xe1;" k="212" />
+    <hkern u1="t" u2="&#xd6;" k="61" />
+    <hkern u1="t" u2="&#xd5;" k="84" />
+    <hkern u1="t" u2="&#xd3;" k="129" />
+    <hkern u1="t" u2="&#xc4;" k="144" />
+    <hkern u1="t" u2="&#xc3;" k="130" />
+    <hkern u1="t" u2="&#xc2;" k="118" />
+    <hkern u1="t" u2="&#xc1;" k="212" />
+    <hkern u1="t" u2="&#xab;" k="89" />
+    <hkern u1="t" u2="y" k="-58" />
+    <hkern u1="t" u2="w" k="-63" />
+    <hkern u1="t" u2="v" k="-60" />
+    <hkern u1="t" u2="s" k="-25" />
+    <hkern u1="t" u2="o" k="-23" />
+    <hkern u1="t" u2="j" k="47" />
+    <hkern u1="t" u2="g" k="-23" />
+    <hkern u1="t" u2="Y" k="-58" />
+    <hkern u1="t" u2="W" k="-63" />
+    <hkern u1="t" u2="V" k="-60" />
+    <hkern u1="t" u2="S" k="-25" />
+    <hkern u1="t" u2="O" k="-23" />
+    <hkern u1="t" u2="J" k="47" />
+    <hkern u1="t" u2="G" k="-23" />
+    <hkern u1="t" u2="&#x3b;" k="75" />
+    <hkern u1="t" u2="&#x3a;" k="71" />
+    <hkern u1="t" u2="&#x2e;" k="64" />
+    <hkern u1="t" u2="&#x2d;" k="31" />
+    <hkern u1="t" u2="&#x2c;" k="70" />
+    <hkern u1="u" u2="&#xe4;" k="100" />
+    <hkern u1="u" u2="&#xc4;" k="100" />
+    <hkern u1="u" u2="a" k="-28" />
+    <hkern u1="u" u2="A" k="-28" />
+    <hkern u1="v" u2="&#xf6;" k="60" />
+    <hkern u1="v" u2="&#xf5;" k="83" />
+    <hkern u1="v" u2="&#xf4;" k="35" />
+    <hkern u1="v" u2="&#xf3;" k="128" />
+    <hkern u1="v" u2="&#xe4;" k="129" />
+    <hkern u1="v" u2="&#xe3;" k="115" />
+    <hkern u1="v" u2="&#xe2;" k="104" />
+    <hkern u1="v" u2="&#xe1;" k="197" />
+    <hkern u1="v" u2="&#xd6;" k="60" />
+    <hkern u1="v" u2="&#xd5;" k="83" />
+    <hkern u1="v" u2="&#xd4;" k="35" />
+    <hkern u1="v" u2="&#xd3;" k="128" />
+    <hkern u1="v" u2="&#xc4;" k="129" />
+    <hkern u1="v" u2="&#xc3;" k="115" />
+    <hkern u1="v" u2="&#xc2;" k="104" />
+    <hkern u1="v" u2="&#xc1;" k="197" />
+    <hkern u1="v" u2="&#xab;" k="31" />
+    <hkern u1="v" u2="t" k="-58" />
+    <hkern u1="v" u2="s" k="-26" />
+    <hkern u1="v" u2="o" k="-24" />
+    <hkern u1="v" u2="g" k="-24" />
+    <hkern u1="v" u2="T" k="-58" />
+    <hkern u1="v" u2="S" k="-26" />
+    <hkern u1="v" u2="O" k="-24" />
+    <hkern u1="v" u2="G" k="-24" />
+    <hkern u1="v" u2="&#x2e;" k="25" />
+    <hkern u1="v" u2="&#x2d;" k="-36" />
+    <hkern u1="v" u2="&#x2c;" k="31" />
+    <hkern u1="w" u2="&#xf6;" k="62" />
+    <hkern u1="w" u2="&#xf5;" k="85" />
+    <hkern u1="w" u2="&#xf4;" k="36" />
+    <hkern u1="w" u2="&#xf3;" k="130" />
+    <hkern u1="w" u2="&#xe4;" k="144" />
+    <hkern u1="w" u2="&#xe3;" k="130" />
+    <hkern u1="w" u2="&#xe2;" k="119" />
+    <hkern u1="w" u2="&#xe1;" k="212" />
+    <hkern u1="w" u2="&#xd6;" k="62" />
+    <hkern u1="w" u2="&#xd5;" k="85" />
+    <hkern u1="w" u2="&#xd4;" k="36" />
+    <hkern u1="w" u2="&#xd3;" k="130" />
+    <hkern u1="w" u2="&#xc4;" k="144" />
+    <hkern u1="w" u2="&#xc3;" k="130" />
+    <hkern u1="w" u2="&#xc2;" k="119" />
+    <hkern u1="w" u2="&#xc1;" k="212" />
+    <hkern u1="w" u2="&#xab;" k="39" />
+    <hkern u1="w" u2="y" k="-74" />
+    <hkern u1="w" u2="t" k="-62" />
+    <hkern u1="w" u2="s" k="-25" />
+    <hkern u1="w" u2="o" k="-22" />
+    <hkern u1="w" u2="g" k="-22" />
+    <hkern u1="w" u2="Y" k="-74" />
+    <hkern u1="w" u2="T" k="-62" />
+    <hkern u1="w" u2="S" k="-25" />
+    <hkern u1="w" u2="O" k="-22" />
+    <hkern u1="w" u2="G" k="-22" />
+    <hkern u1="w" u2="&#x2e;" k="53" />
+    <hkern u1="w" u2="&#x2d;" k="-22" />
+    <hkern u1="w" u2="&#x2c;" k="58" />
+    <hkern u1="x" u2="&#x2d;" k="38" />
+    <hkern u1="y" u2="&#xf6;" k="80" />
+    <hkern u1="y" u2="&#xe4;" k="151" />
+    <hkern u1="y" u2="&#xe3;" k="136" />
+    <hkern u1="y" u2="&#xe2;" k="125" />
+    <hkern u1="y" u2="&#xe1;" k="219" />
+    <hkern u1="y" u2="&#xd6;" k="80" />
+    <hkern u1="y" u2="&#xc4;" k="151" />
+    <hkern u1="y" u2="&#xc3;" k="136" />
+    <hkern u1="y" u2="&#xc2;" k="125" />
+    <hkern u1="y" u2="&#xc1;" k="219" />
+    <hkern u1="y" u2="&#xb9;" k="22" />
+    <hkern u1="y" u2="&#xab;" k="79" />
+    <hkern u1="y" u2="&#xa5;" k="22" />
+    <hkern u1="y" u2="w" k="-75" />
+    <hkern u1="y" u2="t" k="-58" />
+    <hkern u1="y" u2="j" k="68" />
+    <hkern u1="y" u2="a" k="22" />
+    <hkern u1="y" u2="W" k="-75" />
+    <hkern u1="y" u2="T" k="-58" />
+    <hkern u1="y" u2="J" k="68" />
+    <hkern u1="y" u2="A" k="22" />
+    <hkern u1="y" u2="&#x3b;" k="40" />
+    <hkern u1="y" u2="&#x3a;" k="32" />
+    <hkern u1="y" u2="&#x2e;" k="85" />
+    <hkern u1="y" u2="&#x2c;" k="90" />
+    <hkern u1="z" u2="&#xf3;" k="118" />
+    <hkern u1="z" u2="&#xd3;" k="118" />
+    <hkern u1="z" u2="o" k="-34" />
+    <hkern u1="z" u2="O" k="-34" />
+    <hkern u1="&#x8d;" u2="&#xf6;" k="144" />
+    <hkern u1="&#x8d;" u2="&#xe4;" k="227" />
+    <hkern u1="&#x8d;" u2="&#xe3;" k="213" />
+    <hkern u1="&#x8d;" u2="&#xe2;" k="202" />
+    <hkern u1="&#x8d;" u2="&#xe1;" k="295" />
+    <hkern u1="&#x8d;" u2="&#xd6;" k="144" />
+    <hkern u1="&#x8d;" u2="&#xc4;" k="227" />
+    <hkern u1="&#x8d;" u2="&#xc3;" k="213" />
+    <hkern u1="&#x8d;" u2="&#xc2;" k="202" />
+    <hkern u1="&#x8d;" u2="&#xc1;" k="295" />
+    <hkern u1="&#x8d;" u2="&#xb9;" k="99" />
+    <hkern u1="&#x8d;" u2="&#xa5;" k="99" />
+    <hkern u1="&#x8d;" u2="j" k="130" />
+    <hkern u1="&#x8d;" u2="a" k="99" />
+    <hkern u1="&#x8d;" u2="J" k="130" />
+    <hkern u1="&#x8d;" u2="A" k="99" />
+    <hkern u1="&#x8d;" u2="&#x3b;" k="147" />
+    <hkern u1="&#x8d;" u2="&#x3a;" k="133" />
+    <hkern u1="&#x8d;" u2="&#x2e;" k="148" />
+    <hkern u1="&#x8d;" u2="&#x2d;" k="115" />
+    <hkern u1="&#x8d;" u2="&#x2c;" k="153" />
+    <hkern u1="&#x9d;" u2="&#xf6;" k="144" />
+    <hkern u1="&#x9d;" u2="&#xe4;" k="227" />
+    <hkern u1="&#x9d;" u2="&#xe3;" k="213" />
+    <hkern u1="&#x9d;" u2="&#xe2;" k="202" />
+    <hkern u1="&#x9d;" u2="&#xe1;" k="295" />
+    <hkern u1="&#x9d;" u2="&#xd6;" k="144" />
+    <hkern u1="&#x9d;" u2="&#xc4;" k="227" />
+    <hkern u1="&#x9d;" u2="&#xc3;" k="213" />
+    <hkern u1="&#x9d;" u2="&#xc2;" k="202" />
+    <hkern u1="&#x9d;" u2="&#xc1;" k="295" />
+    <hkern u1="&#x9d;" u2="&#xb9;" k="99" />
+    <hkern u1="&#x9d;" u2="&#xa5;" k="99" />
+    <hkern u1="&#x9d;" u2="j" k="130" />
+    <hkern u1="&#x9d;" u2="a" k="99" />
+    <hkern u1="&#x9d;" u2="J" k="130" />
+    <hkern u1="&#x9d;" u2="A" k="99" />
+    <hkern u1="&#x9d;" u2="&#x3b;" k="147" />
+    <hkern u1="&#x9d;" u2="&#x3a;" k="133" />
+    <hkern u1="&#x9d;" u2="&#x2e;" k="148" />
+    <hkern u1="&#x9d;" u2="&#x2d;" k="115" />
+    <hkern u1="&#x9d;" u2="&#x2c;" k="153" />
+    <hkern u1="&#xa3;" u2="&#xfe;" k="237" />
+    <hkern u1="&#xa3;" u2="&#xfd;" k="266" />
+    <hkern u1="&#xa3;" u2="&#xde;" k="237" />
+    <hkern u1="&#xa3;" u2="&#xdd;" k="266" />
+    <hkern u1="&#xa3;" u2="&#x9d;" k="133" />
+    <hkern u1="&#xa3;" u2="&#x8d;" k="133" />
+    <hkern u1="&#xa3;" u2="y" k="76" />
+    <hkern u1="&#xa3;" u2="w" k="27" />
+    <hkern u1="&#xa3;" u2="t" k="50" />
+    <hkern u1="&#xa3;" u2="o" k="-23" />
+    <hkern u1="&#xa3;" u2="Y" k="76" />
+    <hkern u1="&#xa3;" u2="W" k="27" />
+    <hkern u1="&#xa3;" u2="T" k="50" />
+    <hkern u1="&#xa3;" u2="O" k="-23" />
+    <hkern u1="&#xa3;" u2="&#x3a;" k="-22" />
+    <hkern u1="&#xa3;" u2="&#x2e;" k="-22" />
+    <hkern u1="&#xa5;" u2="&#xfe;" k="209" />
+    <hkern u1="&#xa5;" u2="&#xfd;" k="221" />
+    <hkern u1="&#xa5;" u2="&#xde;" k="209" />
+    <hkern u1="&#xa5;" u2="&#xdd;" k="221" />
+    <hkern u1="&#xa5;" u2="&#x9d;" k="105" />
+    <hkern u1="&#xa5;" u2="&#x8d;" k="105" />
+    <hkern u1="&#xa5;" u2="y" k="32" />
+    <hkern u1="&#xa5;" u2="Y" k="32" />
+    <hkern u1="&#xa5;" u2="&#x3b;" k="-35" />
+    <hkern u1="&#xa5;" u2="&#x3a;" k="-40" />
+    <hkern u1="&#xa5;" u2="&#x2e;" k="-40" />
+    <hkern u1="&#xa5;" u2="&#x2c;" k="-36" />
+    <hkern u1="&#xad;" u2="y" k="25" />
+    <hkern u1="&#xad;" u2="w" k="-25" />
+    <hkern u1="&#xad;" u2="v" k="-34" />
+    <hkern u1="&#xad;" u2="t" k="35" />
+    <hkern u1="&#xad;" u2="a" k="-28" />
+    <hkern u1="&#xad;" u2="Y" k="25" />
+    <hkern u1="&#xad;" u2="W" k="-25" />
+    <hkern u1="&#xad;" u2="V" k="-34" />
+    <hkern u1="&#xad;" u2="T" k="35" />
+    <hkern u1="&#xad;" u2="A" k="-28" />
+    <hkern u1="&#xb3;" u2="&#xfe;" k="237" />
+    <hkern u1="&#xb3;" u2="&#xfd;" k="266" />
+    <hkern u1="&#xb3;" u2="&#xde;" k="237" />
+    <hkern u1="&#xb3;" u2="&#xdd;" k="266" />
+    <hkern u1="&#xb3;" u2="&#x9d;" k="133" />
+    <hkern u1="&#xb3;" u2="&#x8d;" k="133" />
+    <hkern u1="&#xb3;" u2="y" k="76" />
+    <hkern u1="&#xb3;" u2="w" k="27" />
+    <hkern u1="&#xb3;" u2="t" k="50" />
+    <hkern u1="&#xb3;" u2="o" k="-23" />
+    <hkern u1="&#xb3;" u2="Y" k="76" />
+    <hkern u1="&#xb3;" u2="W" k="27" />
+    <hkern u1="&#xb3;" u2="T" k="50" />
+    <hkern u1="&#xb3;" u2="O" k="-23" />
+    <hkern u1="&#xb3;" u2="&#x3a;" k="-22" />
+    <hkern u1="&#xb3;" u2="&#x2e;" k="-22" />
+    <hkern u1="&#xb9;" u2="&#xfe;" k="209" />
+    <hkern u1="&#xb9;" u2="&#xfd;" k="221" />
+    <hkern u1="&#xb9;" u2="&#xde;" k="209" />
+    <hkern u1="&#xb9;" u2="&#xdd;" k="221" />
+    <hkern u1="&#xb9;" u2="&#x9d;" k="105" />
+    <hkern u1="&#xb9;" u2="&#x8d;" k="105" />
+    <hkern u1="&#xb9;" u2="y" k="32" />
+    <hkern u1="&#xb9;" u2="t" k="22" />
+    <hkern u1="&#xb9;" u2="Y" k="32" />
+    <hkern u1="&#xb9;" u2="T" k="22" />
+    <hkern u1="&#xb9;" u2="&#x3b;" k="-35" />
+    <hkern u1="&#xb9;" u2="&#x3a;" k="-40" />
+    <hkern u1="&#xb9;" u2="&#x2e;" k="-40" />
+    <hkern u1="&#xb9;" u2="&#x2c;" k="-36" />
+    <hkern u1="&#xbb;" u2="y" k="85" />
+    <hkern u1="&#xbb;" u2="w" k="38" />
+    <hkern u1="&#xbb;" u2="v" k="31" />
+    <hkern u1="&#xbb;" u2="t" k="89" />
+    <hkern u1="&#xbb;" u2="a" k="36" />
+    <hkern u1="&#xbb;" u2="Y" k="85" />
+    <hkern u1="&#xbb;" u2="W" k="38" />
+    <hkern u1="&#xbb;" u2="V" k="31" />
+    <hkern u1="&#xbb;" u2="T" k="89" />
+    <hkern u1="&#xbb;" u2="A" k="36" />
+    <hkern u1="&#xbc;" u2="&#xfe;" k="218" />
+    <hkern u1="&#xbc;" u2="&#xfd;" k="209" />
+    <hkern u1="&#xbc;" u2="&#xde;" k="218" />
+    <hkern u1="&#xbc;" u2="&#xdd;" k="209" />
+    <hkern u1="&#xbc;" u2="&#x9d;" k="114" />
+    <hkern u1="&#xbc;" u2="&#x8d;" k="114" />
+    <hkern u1="&#xbc;" u2="t" k="31" />
+    <hkern u1="&#xbc;" u2="o" k="60" />
+    <hkern u1="&#xbc;" u2="T" k="31" />
+    <hkern u1="&#xbc;" u2="O" k="60" />
+    <hkern u1="&#xbe;" u2="&#xfe;" k="218" />
+    <hkern u1="&#xbe;" u2="&#xfd;" k="209" />
+    <hkern u1="&#xbe;" u2="&#xde;" k="218" />
+    <hkern u1="&#xbe;" u2="&#xdd;" k="209" />
+    <hkern u1="&#xbe;" u2="&#x9d;" k="114" />
+    <hkern u1="&#xbe;" u2="&#x8d;" k="114" />
+    <hkern u1="&#xbe;" u2="t" k="31" />
+    <hkern u1="&#xbe;" u2="o" k="60" />
+    <hkern u1="&#xbe;" u2="T" k="31" />
+    <hkern u1="&#xbe;" u2="O" k="60" />
+    <hkern u1="&#xc1;" u2="&#x201d;" k="210" />
+    <hkern u1="&#xc1;" u2="&#x9d;" k="285" />
+    <hkern u1="&#xc1;" u2="&#x8d;" k="285" />
+    <hkern u1="&#xc1;" u2="t" k="202" />
+    <hkern u1="&#xc1;" u2="T" k="202" />
+    <hkern u1="&#xc2;" u2="&#xfe;" k="390" />
+    <hkern u1="&#xc2;" u2="&#xfd;" k="287" />
+    <hkern u1="&#xc2;" u2="&#xde;" k="390" />
+    <hkern u1="&#xc2;" u2="&#xdd;" k="287" />
+    <hkern u1="&#xc2;" u2="&#x9d;" k="192" />
+    <hkern u1="&#xc2;" u2="&#x8d;" k="192" />
+    <hkern u1="&#xc2;" u2="y" k="212" />
+    <hkern u1="&#xc2;" u2="w" k="197" />
+    <hkern u1="&#xc2;" u2="v" k="187" />
+    <hkern u1="&#xc2;" u2="t" k="203" />
+    <hkern u1="&#xc2;" u2="Y" k="212" />
+    <hkern u1="&#xc2;" u2="W" k="197" />
+    <hkern u1="&#xc2;" u2="V" k="187" />
+    <hkern u1="&#xc2;" u2="T" k="203" />
+    <hkern u1="&#xc3;" u2="&#xfe;" k="390" />
+    <hkern u1="&#xc3;" u2="&#xfd;" k="327" />
+    <hkern u1="&#xc3;" u2="&#xde;" k="390" />
+    <hkern u1="&#xc3;" u2="&#xdd;" k="327" />
+    <hkern u1="&#xc3;" u2="&#x9d;" k="233" />
+    <hkern u1="&#xc3;" u2="&#x8d;" k="233" />
+    <hkern u1="&#xc3;" u2="y" k="212" />
+    <hkern u1="&#xc3;" u2="t" k="203" />
+    <hkern u1="&#xc3;" u2="Y" k="212" />
+    <hkern u1="&#xc3;" u2="T" k="203" />
+    <hkern u1="&#xc4;" u2="y" k="212" />
+    <hkern u1="&#xc4;" u2="w" k="197" />
+    <hkern u1="&#xc4;" u2="v" k="186" />
+    <hkern u1="&#xc4;" u2="u" k="152" />
+    <hkern u1="&#xc4;" u2="t" k="202" />
+    <hkern u1="&#xc4;" u2="q" k="152" />
+    <hkern u1="&#xc4;" u2="o" k="152" />
+    <hkern u1="&#xc4;" u2="g" k="152" />
+    <hkern u1="&#xc4;" u2="c" k="159" />
+    <hkern u1="&#xc4;" u2="Y" k="212" />
+    <hkern u1="&#xc4;" u2="W" k="197" />
+    <hkern u1="&#xc4;" u2="V" k="186" />
+    <hkern u1="&#xc4;" u2="U" k="152" />
+    <hkern u1="&#xc4;" u2="T" k="202" />
+    <hkern u1="&#xc4;" u2="Q" k="152" />
+    <hkern u1="&#xc4;" u2="O" k="152" />
+    <hkern u1="&#xc4;" u2="G" k="152" />
+    <hkern u1="&#xc4;" u2="C" k="159" />
+    <hkern u1="&#xc8;" u2="o" k="163" />
+    <hkern u1="&#xc8;" u2="O" k="163" />
+    <hkern u1="&#xd3;" u2="z" k="129" />
+    <hkern u1="&#xd3;" u2="w" k="140" />
+    <hkern u1="&#xd3;" u2="t" k="142" />
+    <hkern u1="&#xd3;" u2="Z" k="129" />
+    <hkern u1="&#xd3;" u2="W" k="140" />
+    <hkern u1="&#xd3;" u2="T" k="142" />
+    <hkern u1="&#xd3;" u2="&#x3b;" k="170" />
+    <hkern u1="&#xd3;" u2="&#x3a;" k="166" />
+    <hkern u1="&#xd3;" u2="&#x2e;" k="166" />
+    <hkern u1="&#xd3;" u2="&#x2c;" k="171" />
+    <hkern u1="&#xd6;" u2="y" k="161" />
+    <hkern u1="&#xd6;" u2="x" k="163" />
+    <hkern u1="&#xd6;" u2="w" k="140" />
+    <hkern u1="&#xd6;" u2="v" k="140" />
+    <hkern u1="&#xd6;" u2="t" k="142" />
+    <hkern u1="&#xd6;" u2="a" k="135" />
+    <hkern u1="&#xd6;" u2="Y" k="161" />
+    <hkern u1="&#xd6;" u2="X" k="163" />
+    <hkern u1="&#xd6;" u2="W" k="140" />
+    <hkern u1="&#xd6;" u2="V" k="140" />
+    <hkern u1="&#xd6;" u2="T" k="142" />
+    <hkern u1="&#xd6;" u2="A" k="135" />
+    <hkern u1="&#xd6;" u2="&#x3b;" k="170" />
+    <hkern u1="&#xd6;" u2="&#x3a;" k="166" />
+    <hkern u1="&#xd6;" u2="&#x2e;" k="166" />
+    <hkern u1="&#xd6;" u2="&#x2c;" k="171" />
+    <hkern u1="&#xdc;" u2="a" k="132" />
+    <hkern u1="&#xdc;" u2="A" k="132" />
+    <hkern u1="&#xdc;" u2="&#x2e;" k="163" />
+    <hkern u1="&#xdc;" u2="&#x2c;" k="167" />
+    <hkern u1="&#xdd;" u2="&#xe4;" k="338" />
+    <hkern u1="&#xdd;" u2="&#xe3;" k="323" />
+    <hkern u1="&#xdd;" u2="&#xe2;" k="312" />
+    <hkern u1="&#xdd;" u2="&#xe1;" k="406" />
+    <hkern u1="&#xdd;" u2="&#xc4;" k="338" />
+    <hkern u1="&#xdd;" u2="&#xc3;" k="323" />
+    <hkern u1="&#xdd;" u2="&#xc2;" k="312" />
+    <hkern u1="&#xdd;" u2="&#xc1;" k="406" />
+    <hkern u1="&#xdd;" u2="&#xb9;" k="209" />
+    <hkern u1="&#xdd;" u2="&#xa5;" k="209" />
+    <hkern u1="&#xdd;" u2="j" k="255" />
+    <hkern u1="&#xdd;" u2="J" k="255" />
+    <hkern u1="&#xdd;" u2="&#x3b;" k="227" />
+    <hkern u1="&#xdd;" u2="&#x3a;" k="219" />
+    <hkern u1="&#xdd;" u2="&#x2e;" k="272" />
+    <hkern u1="&#xdd;" u2="&#x2d;" k="206" />
+    <hkern u1="&#xdd;" u2="&#x2c;" k="278" />
+    <hkern u1="&#xde;" u2="&#xe4;" k="331" />
+    <hkern u1="&#xde;" u2="&#xe3;" k="317" />
+    <hkern u1="&#xde;" u2="&#xe2;" k="306" />
+    <hkern u1="&#xde;" u2="&#xe1;" k="399" />
+    <hkern u1="&#xde;" u2="&#xc4;" k="331" />
+    <hkern u1="&#xde;" u2="&#xc3;" k="317" />
+    <hkern u1="&#xde;" u2="&#xc2;" k="306" />
+    <hkern u1="&#xde;" u2="&#xc1;" k="399" />
+    <hkern u1="&#xde;" u2="&#xb9;" k="203" />
+    <hkern u1="&#xde;" u2="&#xa5;" k="203" />
+    <hkern u1="&#xe1;" u2="&#x201d;" k="210" />
+    <hkern u1="&#xe1;" u2="&#x9d;" k="285" />
+    <hkern u1="&#xe1;" u2="&#x8d;" k="285" />
+    <hkern u1="&#xe1;" u2="t" k="202" />
+    <hkern u1="&#xe1;" u2="T" k="202" />
+    <hkern u1="&#xe2;" u2="&#xfe;" k="390" />
+    <hkern u1="&#xe2;" u2="&#xfd;" k="287" />
+    <hkern u1="&#xe2;" u2="&#xde;" k="390" />
+    <hkern u1="&#xe2;" u2="&#xdd;" k="287" />
+    <hkern u1="&#xe2;" u2="&#x9d;" k="192" />
+    <hkern u1="&#xe2;" u2="&#x8d;" k="192" />
+    <hkern u1="&#xe2;" u2="y" k="212" />
+    <hkern u1="&#xe2;" u2="w" k="197" />
+    <hkern u1="&#xe2;" u2="v" k="187" />
+    <hkern u1="&#xe2;" u2="t" k="203" />
+    <hkern u1="&#xe2;" u2="Y" k="212" />
+    <hkern u1="&#xe2;" u2="W" k="197" />
+    <hkern u1="&#xe2;" u2="V" k="187" />
+    <hkern u1="&#xe2;" u2="T" k="203" />
+    <hkern u1="&#xe3;" u2="&#xfe;" k="390" />
+    <hkern u1="&#xe3;" u2="&#xfd;" k="327" />
+    <hkern u1="&#xe3;" u2="&#xde;" k="390" />
+    <hkern u1="&#xe3;" u2="&#xdd;" k="327" />
+    <hkern u1="&#xe3;" u2="&#x9d;" k="233" />
+    <hkern u1="&#xe3;" u2="&#x8d;" k="233" />
+    <hkern u1="&#xe3;" u2="y" k="212" />
+    <hkern u1="&#xe3;" u2="t" k="203" />
+    <hkern u1="&#xe3;" u2="Y" k="212" />
+    <hkern u1="&#xe3;" u2="T" k="203" />
+    <hkern u1="&#xe4;" u2="y" k="212" />
+    <hkern u1="&#xe4;" u2="w" k="197" />
+    <hkern u1="&#xe4;" u2="v" k="186" />
+    <hkern u1="&#xe4;" u2="u" k="152" />
+    <hkern u1="&#xe4;" u2="t" k="202" />
+    <hkern u1="&#xe4;" u2="q" k="152" />
+    <hkern u1="&#xe4;" u2="o" k="152" />
+    <hkern u1="&#xe4;" u2="g" k="152" />
+    <hkern u1="&#xe4;" u2="c" k="159" />
+    <hkern u1="&#xe4;" u2="Y" k="212" />
+    <hkern u1="&#xe4;" u2="W" k="197" />
+    <hkern u1="&#xe4;" u2="V" k="186" />
+    <hkern u1="&#xe4;" u2="U" k="152" />
+    <hkern u1="&#xe4;" u2="T" k="202" />
+    <hkern u1="&#xe4;" u2="Q" k="152" />
+    <hkern u1="&#xe4;" u2="O" k="152" />
+    <hkern u1="&#xe4;" u2="G" k="152" />
+    <hkern u1="&#xe4;" u2="C" k="159" />
+    <hkern u1="&#xe8;" u2="o" k="163" />
+    <hkern u1="&#xe8;" u2="O" k="163" />
+    <hkern u1="&#xf3;" u2="z" k="129" />
+    <hkern u1="&#xf3;" u2="w" k="140" />
+    <hkern u1="&#xf3;" u2="t" k="142" />
+    <hkern u1="&#xf3;" u2="Z" k="129" />
+    <hkern u1="&#xf3;" u2="W" k="140" />
+    <hkern u1="&#xf3;" u2="T" k="142" />
+    <hkern u1="&#xf3;" u2="&#x3b;" k="170" />
+    <hkern u1="&#xf3;" u2="&#x3a;" k="166" />
+    <hkern u1="&#xf3;" u2="&#x2e;" k="166" />
+    <hkern u1="&#xf3;" u2="&#x2c;" k="171" />
+    <hkern u1="&#xf6;" u2="y" k="161" />
+    <hkern u1="&#xf6;" u2="x" k="163" />
+    <hkern u1="&#xf6;" u2="w" k="140" />
+    <hkern u1="&#xf6;" u2="v" k="140" />
+    <hkern u1="&#xf6;" u2="t" k="142" />
+    <hkern u1="&#xf6;" u2="a" k="135" />
+    <hkern u1="&#xf6;" u2="Y" k="161" />
+    <hkern u1="&#xf6;" u2="X" k="163" />
+    <hkern u1="&#xf6;" u2="W" k="140" />
+    <hkern u1="&#xf6;" u2="V" k="140" />
+    <hkern u1="&#xf6;" u2="T" k="142" />
+    <hkern u1="&#xf6;" u2="A" k="135" />
+    <hkern u1="&#xf6;" u2="&#x3b;" k="170" />
+    <hkern u1="&#xf6;" u2="&#x3a;" k="166" />
+    <hkern u1="&#xf6;" u2="&#x2e;" k="166" />
+    <hkern u1="&#xf6;" u2="&#x2c;" k="171" />
+    <hkern u1="&#xfc;" u2="a" k="132" />
+    <hkern u1="&#xfc;" u2="A" k="132" />
+    <hkern u1="&#xfc;" u2="&#x2e;" k="163" />
+    <hkern u1="&#xfc;" u2="&#x2c;" k="167" />
+    <hkern u1="&#xfd;" u2="&#xe4;" k="338" />
+    <hkern u1="&#xfd;" u2="&#xe3;" k="323" />
+    <hkern u1="&#xfd;" u2="&#xe2;" k="312" />
+    <hkern u1="&#xfd;" u2="&#xe1;" k="406" />
+    <hkern u1="&#xfd;" u2="&#xc4;" k="338" />
+    <hkern u1="&#xfd;" u2="&#xc3;" k="323" />
+    <hkern u1="&#xfd;" u2="&#xc2;" k="312" />
+    <hkern u1="&#xfd;" u2="&#xc1;" k="406" />
+    <hkern u1="&#xfd;" u2="&#xb9;" k="209" />
+    <hkern u1="&#xfd;" u2="&#xa5;" k="209" />
+    <hkern u1="&#xfd;" u2="j" k="255" />
+    <hkern u1="&#xfd;" u2="J" k="255" />
+    <hkern u1="&#xfd;" u2="&#x3b;" k="227" />
+    <hkern u1="&#xfd;" u2="&#x3a;" k="219" />
+    <hkern u1="&#xfd;" u2="&#x2e;" k="272" />
+    <hkern u1="&#xfd;" u2="&#x2d;" k="206" />
+    <hkern u1="&#xfd;" u2="&#x2c;" k="278" />
+    <hkern u1="&#xfe;" u2="&#xe4;" k="331" />
+    <hkern u1="&#xfe;" u2="&#xe3;" k="317" />
+    <hkern u1="&#xfe;" u2="&#xe2;" k="306" />
+    <hkern u1="&#xfe;" u2="&#xe1;" k="399" />
+    <hkern u1="&#xfe;" u2="&#xc4;" k="331" />
+    <hkern u1="&#xfe;" u2="&#xc3;" k="317" />
+    <hkern u1="&#xfe;" u2="&#xc2;" k="306" />
+    <hkern u1="&#xfe;" u2="&#xc1;" k="399" />
+    <hkern u1="&#xfe;" u2="&#xb9;" k="203" />
+    <hkern u1="&#xfe;" u2="&#xa5;" k="203" />
+    <hkern u1="&#x201c;" u2="y" k="-31" />
+    <hkern u1="&#x201c;" u2="w" k="-37" />
+    <hkern u1="&#x201c;" u2="v" k="-34" />
+    <hkern u1="&#x201c;" u2="t" k="-24" />
+    <hkern u1="&#x201c;" u2="a" k="23" />
+    <hkern u1="&#x201c;" u2="Y" k="-31" />
+    <hkern u1="&#x201c;" u2="W" k="-37" />
+    <hkern u1="&#x201c;" u2="V" k="-34" />
+    <hkern u1="&#x201c;" u2="T" k="-24" />
+    <hkern u1="&#x201c;" u2="A" k="23" />
+    <hkern u1="&#x201d;" u2="&#xe4;" k="164" />
+    <hkern u1="&#x201d;" u2="&#xc4;" k="164" />
+    <hkern u1="&#x201d;" u2="y" k="-36" />
+    <hkern u1="&#x201d;" u2="w" k="-41" />
+    <hkern u1="&#x201d;" u2="v" k="-38" />
+    <hkern u1="&#x201d;" u2="t" k="-24" />
+    <hkern u1="&#x201d;" u2="a" k="35" />
+    <hkern u1="&#x201d;" u2="Y" k="-36" />
+    <hkern u1="&#x201d;" u2="W" k="-41" />
+    <hkern u1="&#x201d;" u2="V" k="-38" />
+    <hkern u1="&#x201d;" u2="T" k="-24" />
+    <hkern u1="&#x201d;" u2="A" k="35" />
+    <hkern u1="&#x201e;" u2="&#xfd;" k="281" />
+    <hkern u1="&#x201e;" u2="&#xdd;" k="281" />
+    <hkern u1="&#x201e;" u2="&#x9d;" k="149" />
+    <hkern u1="&#x201e;" u2="&#x8d;" k="149" />
+    <hkern u1="&#x201e;" u2="y" k="92" />
+    <hkern u1="&#x201e;" u2="w" k="46" />
+    <hkern u1="&#x201e;" u2="v" k="27" />
+    <hkern u1="&#x201e;" u2="t" k="66" />
+    <hkern u1="&#x201e;" u2="a" k="-43" />
+    <hkern u1="&#x201e;" u2="Y" k="92" />
+    <hkern u1="&#x201e;" u2="W" k="46" />
+    <hkern u1="&#x201e;" u2="V" k="27" />
+    <hkern u1="&#x201e;" u2="T" k="66" />
+    <hkern u1="&#x201e;" u2="A" k="-43" />
+    <hkern u1="&#x203a;" u2="y" k="84" />
+    <hkern u1="&#x203a;" u2="w" k="37" />
+    <hkern u1="&#x203a;" u2="v" k="31" />
+    <hkern u1="&#x203a;" u2="t" k="89" />
+    <hkern u1="&#x203a;" u2="a" k="37" />
+    <hkern u1="&#x203a;" u2="Y" k="84" />
+    <hkern u1="&#x203a;" u2="W" k="37" />
+    <hkern u1="&#x203a;" u2="V" k="31" />
+    <hkern u1="&#x203a;" u2="T" k="89" />
+    <hkern u1="&#x203a;" u2="A" k="37" />
+  </font>
+</defs></svg>
