@@ -1412,7 +1412,7 @@ content: counter(bck-li-counter);
 /*LISTA ORDENADA 4*/
 #actividad .content .cke_contents .bck-ol4,
 #actividad .content .texto_curso .bck-ol4,
-#actividad .content .workspace ul li .bck-ol {
+#actividad .content .workspace ul li .bck-ol4 {
 	list-style-type: none;
 	counter-reset: bck-li-counter;
 }
@@ -1445,6 +1445,50 @@ content: counter(bck-li-counter);
     background-color: #fff;
     border: none;
     box-shadow: none;
+}
+
+/*LISTA ORDENADA 4*/
+#actividad .content .cke_contents .bck-ol5,
+#actividad .content .texto_curso .bck-ol5,
+#actividad .content .workspace ul li .bck-ol5 {
+	list-style-type: none;
+	counter-reset: bck-li-counter;
+}
+
+#actividad .content .cke_contents .bck-ol5 li,
+#actividad .content .cke_contents .bck-ol5 li,
+#actividad .content .texto_curso .bck-ol5 li,
+#actividad .popover-content .bck-ol5 li,
+#actividad .content .workspace ul li .bck-o5 li {
+	counter-increment: bck-li-counter;
+	padding-left: 5px;
+	position: relative;
+	z-index: 0;
+	margin-left: 23px;
+}
+
+.content .bck-ol5 li:before,
+.cke_contents .bck-ol5 li:before {
+	content: counter(bck-li-counter);
+    position: absolute;
+    top: -2px;
+    left: -3px;
+    display: block;
+    width: 24px;
+    height: 30px;
+    box-shadow: NONE;
+    border: 0;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    background: #283583;
+    padding-top: 3px;
+    color: #fff;
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'VAGRoundedTME';
+    line-height: 2.5rem;
 }
 
 /*LISTA DESORDENADA POR DEFECTO*/
