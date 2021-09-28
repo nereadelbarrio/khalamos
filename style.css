@@ -289,6 +289,17 @@ PADRE poptropica*/
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'Berlin Sans FB Demi';
+    src: url('fonts/BerlinSansFBDemi-Bold.eot');
+    src: url('fonts/BerlinSansFBDemi-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BerlinSansFBDemi-Bold.woff') format('woff'),
+        url('fonts/BerlinSansFBDemi-Bold.ttf') format('truetype'),
+        url('fonts/BerlinSansFBDemi-Bold.svg#BerlinSansFBDemi-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
 
 
 
@@ -1159,6 +1170,27 @@ content: "";
     top: 42px;
     margin-left: -15px;
 }
+
+  /*Titulo 21*/
+.bck-title21 {
+	border: 2px solid #fff;
+    border-radius: 26px;
+    z-index: 100;
+    padding: 10px 27px 3px 27px;
+    font-size: 2.8rem;
+    font-weight: 500;
+    color: #fff;
+    /* font-family: 'Doctor Soos'; */
+    font-family: 'Berlin Sans FB Demi';
+    position: relative;
+    background-color: #A2C638;
+    box-shadow: 0px 2px 4px 2px #e0e0e0;
+    width: fit-content;
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
 
 /*enfasis*/
 .bck-enfasis-1 {
