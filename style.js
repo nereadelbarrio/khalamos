@@ -31,13 +31,17 @@
 				{ name: 'Título 15', element: 'h4', attributes: { 'class': 'bck-title bck-title15'} },
 				{ name: 'Título 16', element: 'h4', attributes: { 'class': 'bck-title bck-title16'} },
 				{ name: 'Título 17', element: 'h4', attributes: { 'class': 'bck-title bck-title17'} },
+				{ name: 'Título 18', element: 'h4', attributes: { 'class': 'bck-title bck-title18'} },
+				{ name: 'Título 19', element: 'h4', attributes: { 'class': 'bck-title bck-title19'} },
+				{ name: 'Título 20', element: 'h4', attributes: { 'class': 'bck-title bck-title20'} },
 
 				{ name: 'Énfasis 1', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
 				{ name: 'Énfasis 2', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
 				{ name: 'Énfasis 3', element: 'span', attributes: { 'class': 'bck-enfasis-3'} },
 				{ name: 'Énfasis 4', element: 'span', attributes: { 'class': 'bck-enfasis-4'} },
 				{ name: 'Énfasis 5', element: 'span', attributes: { 'class': 'bck-enfasis-5'} },
-				{ name: 'Énfasis 6', element: 'span', attributes: { 'class': 'bck-enfasis-6'} },	
+				{ name: 'Énfasis 6', element: 'span', attributes: { 'class': 'bck-enfasis-6'} },
+				{ name: 'Énfasis 7', element: 'span', attributes: { 'class': 'bck-enfasis-7'} },	
 
 				{ name: 'Lista ordenada 1', element: 'ol', attributes: { 'class': 'bck-ol bck-ol1' } },
 				{ name: 'Lista ordenada 2', element: 'ol', attributes: { 'class': 'bck-ol bck-ol2' } },
