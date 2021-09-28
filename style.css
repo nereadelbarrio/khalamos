@@ -1567,6 +1567,9 @@ content: counter(bck-li-counter);
     font-weight: bold;
     text-align: center;
     line-height: 2.5rem;
+    background-color: transparent;
+    border: 0;
+    box-shadow: none;
 }
 
 /*LISTA DESORDENADA POR DEFECTO*/
@@ -1643,6 +1646,17 @@ content: counter(bck-li-counter);
     transform: none;
 }
 
+/* Caja 4 */
+.bck-box.bck-box4 {
+	border: 3px solid #834D99;
+    background: #FFF;
+    position: relative;
+    padding: 10px 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    margin: 0;
+4
 
 /*TABLA POR DEFECTO*/ 
 .content table:not(.rf-tablegrid) {
