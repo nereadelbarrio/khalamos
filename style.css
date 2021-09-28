@@ -1156,7 +1156,7 @@ content: "";
     border-top: 10px solid #f15b60;
     position: relative;
     left: 15px;
-    top: 44px;
+    top: 42px;
     margin-left: -15px;
 }
 
@@ -1203,6 +1203,24 @@ background-color: #E73446;
     font-family: 'Helvetica Neue LT Std';
 }
 
+
+.bck-enfasis-7 {
+    background-color: #FAA74A;
+    padding: 6px 11px 0px 11px;
+    border-radius: 0 23px 23px 0;
+    border: 2px #fff solid;
+    box-shadow: 3px 3px 6px 1px #d2d2d2;
+    font-size: 3rem;
+    color: #fff;
+    font-family: 'MachineItcDEE';
+}
+
+.bck-enfasis-7:before {
+	  width: 200px;
+      height: 100px;
+      background: red;
+      border-radius: 100px / 50px;
+}
 
 /* Lists */
 
