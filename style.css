@@ -1205,8 +1205,8 @@ background-color: #E73446;
 
 
 .bck-enfasis-7 {
-    background-color: #FAA74A;
-    padding: 6px 11px 0px 11px;
+background-color: #FAA74A;
+    padding: 6px 17px 0px 29px;
     border-radius: 0 23px 23px 0;
     border: 2px #fff solid;
     box-shadow: 3px 3px 6px 1px #d2d2d2;
@@ -1216,11 +1216,22 @@ background-color: #E73446;
 }
 
 .bck-enfasis-7:before {
-	  width: 200px;
-      height: 100px;
-      background: red;
-      border-radius: 100px / 50px;
-      content: '';
+	width: 60px;
+    height: 44px;
+    background: #faa74a;
+    PADDING: 9px 11PX;
+    border-radius: 115px /82px;
+    content: '';
+    content: "LA";
+    border-left: 0px solid transparent;
+    border-right: 0px solid transparent;
+    border-top: 0px solid TRANSPARENT;
+    border: 2px #fff solid;
+    box-shadow: -3px 3px 6px 0px #eeeeee;
+    position: ABSOLUTE;
+    text-align: center;
+    margin-top: -13px;
+    margin-left: -71px;
 }
 
 /* Lists */
