@@ -1135,27 +1135,27 @@ content: "";
 .bck-title20 {
     margin-bottom: 20px;
     border-radius: 3px;
-    padding: 6px 26px 6px 6px;
+    padding: 6px 9px 0px 9px;
     font-size: 2.8rem;
     font-weight: 500;
     color: #fff;
-    font-family: 'EurostileTBla';
+    font-family: 'Doctor Soos';
     position: relative;
     background-color: #F15B60;
-    box-shadow: none;
+    box-shadow: 3px 2px 0px 1px #d35054;
     width: fit-content;
 }
 .bck-title20:before {
     content: "";
     width: 0;
     height: 0;
-    border-left: 18px solid transparent;
-    border-right: 18px solid transparent;
-    border-top: 20px solid #f15b60;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-top: 10px solid #f15b60;
     position: relative;
-    left: 34px;
-    top: 56px;
-    margin-left: -32px;
+    left: 15px;
+    top: 44px;
+    margin-left: -15px;
 }
 
 /*enfasis*/
