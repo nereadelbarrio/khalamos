@@ -34,6 +34,7 @@
 				{ name: 'Título 18', element: 'h4', attributes: { 'class': 'bck-title bck-title18'} },
 				{ name: 'Título 19', element: 'h4', attributes: { 'class': 'bck-title bck-title19'} },
 				{ name: 'Título 20', element: 'h4', attributes: { 'class': 'bck-title bck-title20'} },
+				{ name: 'Título 21', element: 'h4', attributes: { 'class': 'bck-title bck-title21'} },
 
 				{ name: 'Énfasis 1', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
 				{ name: 'Énfasis 2', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
