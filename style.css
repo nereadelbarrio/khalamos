@@ -1220,6 +1220,7 @@ background-color: #E73446;
       height: 100px;
       background: red;
       border-radius: 100px / 50px;
+      content: '';
 }
 
 /* Lists */
