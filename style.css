@@ -1656,7 +1656,7 @@ content: counter(bck-li-counter);
     -webkit-border-radius: 10px;
     border-radius: 10px;
     margin: 0;
-4
+}
 
 /*TABLA POR DEFECTO*/ 
 .content table:not(.rf-tablegrid) {
