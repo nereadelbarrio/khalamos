@@ -1749,6 +1749,43 @@ content: counter(bck-li-counter);
     margin: 0;
 }
 
+/* Caja 5 */
+.bck-box.bck-box5 {
+	border: 3px solid #FAF7F0;
+    background: #FAF7F0;
+    position: relative;
+    padding: 10px 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    margin: 0;
+}
+
+.bck-box.bck-box5>.bck-title {
+    top: 0;
+    left: 0;
+    border: none;
+    position: inherit;
+    border-radius: 0;
+    background: inherit;
+    transform: none;
+    color: #F08216;
+}
+
+.bck-box.bck-box5>.bck-title:after {
+    background: url(images/caja_escribe_sobre.PNG);
+    content: "";
+    background-size: 49px;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 57px;
+    height: 59px;
+    right: -4px;
+    top: 5px;
+    padding: 8px 25px;
+    margin-left: 0;
+}
+
 /*TABLA POR DEFECTO*/ 
 .content table:not(.rf-tablegrid) {
 	border: inherit;
