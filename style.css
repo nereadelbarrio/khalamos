@@ -1214,6 +1214,34 @@ content: "";
     margin-left: -15px;
     }
 
+
+
+/*Titulo 23*/
+.bck-title23 {
+	margin-bottom: 20px;
+    border-radius: 0;
+    padding: 0;
+    font-size: 2.8rem;
+    color: #fff;
+    position: relative;
+    background-color: transparent;
+    box-shadow: none;
+    width: fit-content;
+}
+.bck-title23:before {
+	background: url(images/titulo_lee_y_aprende.png);
+    content: "";
+    background-size: 57px;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 40px;
+    height: 38px;
+    left: -9px;
+    top: 0px;
+    padding: 15px 30px;
+    margin-left: -15px;
+    }
+
 /*enfasis*/
 .bck-enfasis-1 {
 	font-size: 4rem;
