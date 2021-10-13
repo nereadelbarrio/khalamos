@@ -1268,6 +1268,114 @@ background: url(images/titulo_ahora-te-toca-a-ti.png);
     margin-left: 0;
     }
 
+    /*Titulo 25*/
+.bck-title25 {
+	margin-bottom: 20px;
+    border-radius: 0;
+    padding: 0;
+    font-size: 2.8rem;
+    color: #E16565;
+    position: relative;
+    background-color: transparent;
+    box-shadow: none;
+    width: fit-content;
+    margin-left: -33px;
+}
+.bck-title25:before {
+background: url(images/pensamiento-creativo.png);
+    content: "";
+    background-size: 49px;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 57px;
+    height: 59px;
+    left: -4px;
+    top: 5px;
+    padding: 8px 25px;
+    margin-left: 0;
+    }
+
+    /*Titulo 26*/
+.bck-title26 {
+	margin-bottom: 20px;
+    border-radius: 0;
+    padding: 0;
+    font-size: 2.8rem;
+    color: #E16565;
+    position: relative;
+    background-color: transparent;
+    box-shadow: none;
+    width: fit-content;
+    margin-left: -33px;
+}
+.bck-title26:before {
+background: url(images/idea-creativa.png);
+    content: "";
+    background-size: 49px;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 57px;
+    height: 59px;
+    left: -4px;
+    top: 5px;
+    padding: 8px 25px;
+    margin-left: 0;
+    }
+
+    /*Titulo 27*/
+.bck-title27 {
+	margin-bottom: 20px;
+    border-radius: 0;
+    padding: 0;
+    font-size: 2.8rem;
+    color: #E16565;
+    position: relative;
+    background-color: transparent;
+    box-shadow: none;
+    width: fit-content;
+    margin-left: -33px;
+}
+.bck-title27:before {
+background: url(images/estudio-imagenes.png);
+    content: "";
+    background-size: 49px;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 57px;
+    height: 59px;
+    left: -4px;
+    top: 5px;
+    padding: 8px 25px;
+    margin-left: 0;
+    }
+
+        /*Titulo 28*/
+.bck-title28 {
+	margin-bottom: 20px;
+    border-radius: 0;
+    padding: 0;
+    font-size: 2.8rem;
+    color: #E16565;
+    position: relative;
+    background-color: transparent;
+    box-shadow: none;
+    width: fit-content;
+    margin-left: -33px;
+}
+.bck-title28:before {
+background: url(images/reflexión-gramatical.png);
+    content: "";
+    background-size: 49px;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 57px;
+    height: 59px;
+    left: -4px;
+    top: 5px;
+    padding: 8px 25px;
+    margin-left: 0;
+    }
+
 /*enfasis*/
 .bck-enfasis-1 {
 	font-size: 4rem;
@@ -1822,6 +1930,30 @@ content: counter(bck-li-counter);
     top: 5px;
     padding: 8px 25px;
     margin-left: 0;
+}
+
+/* Caja 6 */
+.bck-box.bck-box6 {
+	border: 3px solid #834D99;
+    background: #FFF;
+    position: relative;
+    padding: 10px 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    margin: 0;
+}
+
+/* Caja 7 */
+.bck-box.bck-box7 {
+	border: 3px solid #834D99;
+    background: #FFF;
+    position: relative;
+    padding: 10px 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    margin: 0;
 }
 
 /*TABLA POR DEFECTO*/ 
