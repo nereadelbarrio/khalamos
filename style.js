@@ -40,6 +40,8 @@
 				{ name: 'Título 24', element: 'h4', attributes: { 'class': 'bck-title bck-title24'} },
 				{ name: 'Título 25', element: 'h4', attributes: { 'class': 'bck-title bck-title25'} },
 				{ name: 'Título 26', element: 'h4', attributes: { 'class': 'bck-title bck-title26'} },
+				{ name: 'Título 27', element: 'h4', attributes: { 'class': 'bck-title bck-title27'} },
+				{ name: 'Título 28', element: 'h4', attributes: { 'class': 'bck-title bck-title28'} },
 
 				{ name: 'Énfasis 1', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
 				{ name: 'Énfasis 2', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
