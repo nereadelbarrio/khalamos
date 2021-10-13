@@ -1214,8 +1214,6 @@ content: "";
     margin-left: -15px;
     }
 
-
-
 /*Titulo 23*/
 .bck-title23 {
 	margin-bottom: 20px;
@@ -1231,6 +1229,33 @@ content: "";
 }
 .bck-title23:before {
 background: url(images/titulo_lee_y_aprende.png);
+    content: "";
+    background-size: 27px;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 40px;
+    height: 38px;
+    left: -4px;
+    top: -4px;
+    padding: 1px 15px;
+    margin-left: 0;
+    }
+
+/*Titulo 24*/
+.bck-title24 {
+	margin-bottom: 20px;
+    border-radius: 0;
+    padding: 0;
+    font-size: 2.8rem;
+    color: #0075BF;
+    position: relative;
+    background-color: transparent;
+    box-shadow: none;
+    width: fit-content;
+    margin-left: -33px;
+}
+.bck-title24:before {
+background: url(images/titulo_ahora-te-toca-a-ti.png);
     content: "";
     background-size: 27px;
     background-repeat: no-repeat;
