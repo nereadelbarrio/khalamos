@@ -1765,7 +1765,6 @@ content: counter(bck-li-counter);
     top: 0;
     left: 0;
     border: none;
-    position: inherit;
     border-radius: 0;
     background: inherit;
     transform: none;
@@ -1773,14 +1772,14 @@ content: counter(bck-li-counter);
 }
 
 .bck-box.bck-box5>.bck-title:after {
-    background: url(images/caja_escribe_sobre.PNG);
+	background: url(images/caja_escribe_sobre.PNG);
     content: "";
-    background-size: 49px;
+    background-size: 29px;
     background-repeat: no-repeat;
-    position: relative;
+    position: ABSOLUTE;
     width: 57px;
     height: 59px;
-    right: -4px;
+    RIGHT: -26px;
     top: 5px;
     padding: 8px 25px;
     margin-left: 0;
