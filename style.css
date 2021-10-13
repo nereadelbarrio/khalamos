@@ -1628,11 +1628,48 @@ content: counter(bck-li-counter);
 
 /*LISTA DESORDENADA POR DEFECTO*/
 
-.texto_curso ul li:before, .workspace ul li ul li:before, .cke_contents ul li:before {
+.texto_curso ul li:before, 
+.workspace ul li ul li:before, 
+.cke_contents ul li:before {
     width: 6px;
     height: 6px;
     background-color: #414141;
 }
+
+/*lista desordenada 1*/
+/*LISTA DESORDENADA 1*/
+#actividad .content .cke_contents .bck-ul1,
+#actividad .content .texto_curso .bck-ul1,
+#actividad .content .workspace ul li .bck-ul1 {
+	list-style-type: none;
+}
+
+#actividad .content .cke_contents .bck-ul1 li,
+#actividad .content .cke_contents .bck-ul1 li,
+#actividad .content .texto_curso .bck-ul1 li,
+#actividad .popover-content .bck-ul1 li,
+#actividad .content .workspace ul li .bck-ul1 li {
+	padding-left: 40px;
+	position: relative;
+	list-style: none;
+	margin-bottom: 5px;
+}
+
+#actividad .content .cke_contents .bck-ul1 li:before,
+#actividad .content .texto_curso ul.bck-ul1 li:before,
+#actividad .popover-content ul.bck-ul1 li:before,
+#actividad .content .workspace ul li ul.bck-ul1 li:before {
+	content: "";
+    height: 6px;
+    width: 6px;
+    background-color: #333;
+    color: #333;
+    border-radius: 50%;
+    position: absolute;
+    margin-top: 9px;
+    margin-left: 6px;
+}
+
 
 /*CAJAS*/
 
