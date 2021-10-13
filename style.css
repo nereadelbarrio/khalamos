@@ -1649,10 +1649,10 @@ content: counter(bck-li-counter);
 #actividad .content .texto_curso .bck-ul1 li,
 #actividad .popover-content .bck-ul1 li,
 #actividad .content .workspace ul li .bck-ul1 li {
-	padding-left: 40px;
-	position: relative;
-	list-style: none;
-	margin-bottom: 5px;
+	padding-left: 28px;
+    position: relative;
+    list-style: none;
+    margin-bottom: 5px;
 }
 
 #actividad .content .cke_contents .bck-ul1 li:before,
@@ -1662,12 +1662,12 @@ content: counter(bck-li-counter);
 	content: "";
     height: 6px;
     width: 6px;
-    background-color: #333;
+    background-color: #00A3E5;
     color: #333;
-    border-radius: 50%;
+    border-radius: 9%;
     position: absolute;
     margin-top: 9px;
-    margin-left: 6px;
+    margin-left: -16px;
 }
 
 
