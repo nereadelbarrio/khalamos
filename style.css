@@ -1368,13 +1368,13 @@ background: url(images/idea-creativa.png);
 }
 .bck-title28:before {
 	background: url(images/titulo_reflexion_gramatical.png);
-	content: "";
-    background-size: 215px;
+    content: "";
+    background-size: 335px;
     background-repeat: no-repeat;
     position: relative;
-    left: -9px;
+    left: -29px;
     top: 0px;
-    padding: 28px 109px;
+    padding: 17px 166px;
     margin-left: -15px;
     }
 
