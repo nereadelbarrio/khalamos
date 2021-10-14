@@ -60,6 +60,7 @@
 				{ name: 'Lista ordenada 7 ', element: 'ol', attributes: { 'class': 'bck-ol bck-ol7' } },
 				{ name: 'Lista ordenada 8 ', element: 'ol', attributes: { 'class': 'bck-ol bck-ol8' } },
 				{ name: 'Lista ordenada 9 ', element: 'ol', attributes: { 'class': 'bck-ol bck-ol9' } },
+				{ name: 'Lista ordenada 10 ', element: 'ol', attributes: { 'class': 'bck-ol bck-ol10' } },
 
 				{ name: 'Lista Desordenada 1', element: 'ul', attributes: { 'class': 'bck-ul bck-ul1' } },
 
