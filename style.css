@@ -1226,6 +1226,7 @@ content: "";
     box-shadow: none;
     width: fit-content;
     margin-left: -33px;
+    font-weight: 600;
 }
 .bck-title23:before {
 background: url(images/titulo_lee_y_aprende.png);
@@ -1253,6 +1254,7 @@ background: url(images/titulo_lee_y_aprende.png);
     box-shadow: none;
     width: fit-content;
     margin-left: -33px;
+    font-weight: 600;
 }
 .bck-title24:before {
 background: url(images/titulo_ahora-te-toca-a-ti.png);
@@ -1270,7 +1272,7 @@ background: url(images/titulo_ahora-te-toca-a-ti.png);
 
     /*Titulo 25*/
 .bck-title25 {
-	margin-bottom: 20px;
+		margin-bottom: 20px;
     border-radius: 0;
     padding: 0;
     font-size: 2.8rem;
@@ -1280,24 +1282,25 @@ background: url(images/titulo_ahora-te-toca-a-ti.png);
     box-shadow: none;
     width: fit-content;
     margin-left: -33px;
+    font-weight: 600;
 }
 .bck-title25:before {
 background: url(images/pensamiento-creativo.png);
     content: "";
-    background-size: 49px;
+    background-size: 37px;
     background-repeat: no-repeat;
     position: relative;
     width: 57px;
     height: 59px;
-    left: -4px;
-    top: 5px;
-    padding: 8px 25px;
+    left: -7px;
+    top: -2px;
+    padding: 0px 16px;
     margin-left: 0;
     }
 
     /*Titulo 26*/
 .bck-title26 {
-	margin-bottom: 20px;
+		margin-bottom: 20px;
     border-radius: 0;
     padding: 0;
     font-size: 2.8rem;
@@ -1307,24 +1310,25 @@ background: url(images/pensamiento-creativo.png);
     box-shadow: none;
     width: fit-content;
     margin-left: -33px;
+    font-weight: 600;
 }
 .bck-title26:before {
 background: url(images/idea-creativa.png);
     content: "";
-    background-size: 49px;
+    background-size: 32px;
     background-repeat: no-repeat;
     position: relative;
     width: 57px;
     height: 59px;
     left: -4px;
-    top: 5px;
-    padding: 8px 25px;
+    top: 0px;
+    padding: 0px 18px;
     margin-left: 0;
     }
 
     /*Titulo 27*/
 .bck-title27 {
-	margin-bottom: 20px;
+		margin-bottom: 20px;
     border-radius: 0;
     padding: 0;
     font-size: 2.8rem;
@@ -1334,18 +1338,19 @@ background: url(images/idea-creativa.png);
     box-shadow: none;
     width: fit-content;
     margin-left: -33px;
+    font-weight: 600;
 }
 .bck-title27:before {
-background: url(images/estudio-imagenes.png);
+	background: url(images/estudio-imagenes.png);
     content: "";
-    background-size: 49px;
+    background-size: 32px;
     background-repeat: no-repeat;
     position: relative;
-    width: 57px;
-    height: 59px;
+    width: 21px;
+    height: 35px;
     left: -4px;
-    top: 5px;
-    padding: 8px 25px;
+    top: 1px;
+    padding: 0px 17px;
     margin-left: 0;
     }
 
